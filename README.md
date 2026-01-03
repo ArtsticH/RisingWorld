@@ -9,14 +9,14 @@ This repository is a curated collection of plugins for the game **RisingWorld**,
 > **Note**: This is a **community-maintained** project independently developed by [ArtsticH](https://github.com/ArtsticH). It is not officially affiliated with [www.rising-world.net](https://www.rising-world.net), though official recognition or inclusion would be welcomed.
 
 ---
-
+#### 本此更新的脚本文件已实现对RisingWorld游戏界面的全量汉化（提供zh中文语言包）：
+#### This update features comprehensive localization of the RisingWorld game interface, and includes a Chinese (zh) language pack:
 ![RisingWorld主界面汉化截图](<https://raw.githubusercontent.com/ArtsticH/h-Readme-res/main/RisingWorld/doc/images/HT20260104-Snipaste_t001441_ArtsticH_Rising World.webp>)
 ![RisingWorld游戏内汉化截图](<https://raw.githubusercontent.com/ArtsticH/h-Readme-res/main/RisingWorld/doc/images/HT20260104-Snipaste_t001454_ArtsticH_Rising World-A.webp>)
 ## 🚀 快速开始 / Quick Start
 
 请选择你喜欢的安装方式：
 Choose your preferred installation method below:
-![测试图](https://raw.githubusercontent.com/ArtsticH/h-Readme-res/main/RisingWorld/doc/images/HT20260104-Snipaste_t001417_ArtsticH_Rising%20World.webp)
 ### **方式一：Git克隆（推荐）/ Method 1: Git Clone (Recommended)**
 适用于熟悉 Git 和命令行的用户。 / For users familiar with Git and command line.
 
@@ -32,7 +32,11 @@ Choose your preferred installation method below:
     ```bash
     git clone https://github.com/ArtsticH/RisingWorld.git
     ```
-
+    如果网络原因导致无法打开github，请用下面gitee仓库获取：
+    ```bash
+    git clone https://gitee.com/ArtsticH/RisingWorld.git
+    ```
+    
 3.  **克隆完成后，找到并双击运行汉化脚本：** `！H一键汉化(ToChinese).bat`
     After cloning, locate and double-click the localization script: `！H一键汉化(ToChinese).bat`
 
@@ -68,6 +72,8 @@ For users preferring a graphical interface.
 5.  **通过Steam正常启动RisingWorld游戏即可。**
     Launch RisingWorld normally through Steam.
 
+![测试图](https://raw.githubusercontent.com/ArtsticH/h-Readme-res/main/RisingWorld/doc/images/HT20260104-Snipaste_t001417_ArtsticH_Rising%20World.webp)
+
 ---
 
 ## 📌 重要信息 / Important Information
@@ -90,4 +96,4 @@ For users preferring a graphical interface.
 
 ---
 
-*祝您游戏愉快！ 🎮 / Happy Building! 🎮*
+*🎮 祝您游戏愉快！  / Happy Building!*
