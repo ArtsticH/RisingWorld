@@ -5808,7 +5808,7 @@
 				"texturescale": "更改纹理缩放/平铺。例如，如果您选择0.5，纹理将以一半大小显示等"
 			},
 			"constructions": {
-				"adaptto": "Adapts the size and rotation of the construction element to the element in the world you're currently looking at",
+				"adaptto": "使当前建筑元素的尺寸和旋转，匹配你正看着的世界元素。",
 				"button": "<color=green>提示：</color>按下以显示帮助",
 				"context": "【径向菜单】按住以调出建筑径向菜单",
 				"flip": "【镜像/翻转建筑元素】",
