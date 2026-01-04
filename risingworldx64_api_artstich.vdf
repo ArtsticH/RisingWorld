@@ -181,7 +181,7 @@
 			"name": "渔夫帽"
 		},
 		"bunnymask": {
-			"desc": "<color=green>h提示：</color>复活节的绝佳配饰",
+			"desc": "<color=green>提示：</color>复活节的绝佳配饰",
 			"name": "兔耳面具"
 		},
 		"bunnyoutfit": {
@@ -219,14 +219,14 @@
 			"name": "皇冠"
 		},
 		"cylinder": {
-			"desc": "<color=green>h提示：</color>太棒了！",
+			"desc": "<color=green>提示：</color>太棒了！",
 			"name": "圆柱体"
 		},
 		"dealwithitshades": {
 			"name": "“不服憋着”墨镜"
 		},
 		"divinggoggles": {
-			"desc": "<color=green>h提示：</color>潜水装备的一部分，能让你在水下清晰视物",
+			"desc": "<color=green>提示：</color>潜水装备的一部分，能让你在水下清晰视物",
 			"name": "潜水镜"
 		},
 		"fedora": {
@@ -255,23 +255,23 @@
 			"name": "软质护身甲"
 		},
 		"groucho": {
-			"desc": "<color=green>h提示：</color>它能提供完美伪装，没人能认出你",
+			"desc": "<color=green>提示：</color>它能提供完美伪装，没人能认出你",
 			"name": "格劳乔眼镜"
 		},
 		"helmet": {
-			"desc": "<color=green>h提示：</color>一款现代安全帽",
+			"desc": "<color=green>提示：</color>一款现代安全帽",
 			"name": "安全帽"
 		},
 		"helmet2": {
-			"desc": "<color=green>h提示：</color>一款现代登山头盔",
+			"desc": "<color=green>提示：</color>一款现代登山头盔",
 			"name": "登山头盔"
 		},
 		"helmet2_lamp": {
-			"desc": "<color=green>h提示：</color>一款带有灯具的现代登山头盔",
+			"desc": "<color=green>提示：</color>一款带有灯具的现代登山头盔",
 			"name": "登山头盔（带灯）"
 		},
 		"helmet_lamp": {
-			"desc": "<color=green>h提示：</color>一款带有灯具的现代安全帽",
+			"desc": "<color=green>提示：</color>一款带有灯具的现代安全帽",
 			"name": "安全帽（带灯）"
 		},
 		"highvisjacket": {
@@ -294,11 +294,11 @@
 			"name": "牛仔"
 		},
 		"jesterhat": {
-			"desc": "<color=green>h提示：</color>帽子上有铃铛，小丑帽",
+			"desc": "<color=green>提示：</color>帽子上有铃铛，小丑帽",
 			"name": "小丑帽"
 		},
 		"jockeyhelmet": {
-			"desc": "<color=green>h提示：</color>一款现代骑师头盔",
+			"desc": "<color=green>提示：</color>一款现代骑师头盔",
 			"name": "骑师头盔"
 		},
 		"knightsarmor1": {
@@ -311,7 +311,7 @@
 			"name": "皮甲"
 		},
 		"mask": {
-			"desc": "<color=green>h提示：</color>一个非常简单的纸面具",
+			"desc": "<color=green>提示：</color>一个非常简单的纸面具",
 			"name": "简易纸面具"
 		},
 		"mask2": {
@@ -321,7 +321,7 @@
 			"name": "阿努比斯面具"
 		},
 		"maskbear": {
-			"desc": "<color=green>h提示：</color>熊头形状的面具",
+			"desc": "<color=green>提示：</color>熊头形状的面具",
 			"name": "熊头面具"
 		},
 		"maskchicken": {
@@ -333,7 +333,7 @@
 			"name": "狐狸头面具"
 		},
 		"maskgoat": {
-			"desc": "<color=green>h提示：</color>羊头形状的面具",
+			"desc": "<color=green>提示：</color>羊头形状的面具",
 			"name": "羊头面具"
 		},
 		"maskhorse": {
@@ -341,7 +341,7 @@
 			"name": "马头面具"
 		},
 		"maskpig": {
-			"desc": "<color=green>h提示：</color>猪头形状的面具",
+			"desc": "<color=green>提示：</color>猪头形状的面具",
 			"name": "猪头面具"
 		},
 		"maskskull": {
@@ -377,7 +377,7 @@
 			"name": "盗贼套装"
 		},
 		"mininghelmet": {
-			"desc": "<color=green>h提示：</color>一顶旧矿工帽，上面附有蜡烛，能在黑暗区域照亮道路",
+			"desc": "<color=green>提示：</color>一顶旧矿工帽，上面附有蜡烛，能在黑暗区域照亮道路",
 			"name": "矿工帽"
 		},
 		"mountieboots": {
@@ -459,15 +459,15 @@
 			"name": "长袍"
 		},
 		"saddlebaghorse": {
-			"desc": "<color=green>h提示：</color>\n可附在马鞍上的可选袋子，可用于存放物品",
+			"desc": "<color=green>提示：</color>\n可附在马鞍上的可选袋子，可用于存放物品",
 			"name": "鞍袋(马匹使用)"
 		},
 		"saddlehorse": {
-			"desc": "<color=green>h提示：</color>\n马用马鞍。如果你想骑马，这是必需的",
+			"desc": "<color=green>提示：</color>\n马用马鞍。如果你想骑马，这是必需的",
 			"name": "马鞍(马匹使用)"
 		},
 		"safarihat": {
-			"desc": "<color=green>h提示：</color>\n也称为遮阳帽，一种轻质布面头盔",
+			"desc": "<color=green>提示：</color>\n也称为遮阳帽，一种轻质布面头盔",
 			"name": "狩猎帽"
 		},
 		"samuraiarmor": {
@@ -696,7 +696,7 @@
 			"name": "木板"
 		},
 		"poster": {
-			"desc": "<color=green>h提示：</color>\n可用于从硬盘上传图像并将其放置在游戏世界中",
+			"desc": "<color=green>提示：</color>\n可用于从硬盘上传图像并将其放置在游戏世界中",
 			"name": "海报"
 		},
 		"pyramid": {
@@ -1435,15 +1435,15 @@
 			"name": "铝矿石"
 		},
 		"aluminiumplate": {
-			"desc": "<color=green>h提示：</color>\n用铝制成的薄板",
+			"desc": "<color=green>提示：</color>\n用铝制成的薄板",
 			"name": "铝板"
 		},
 		"aluminiumwire": {
-			"desc": "<color=green>h提示：</color>\n由铝制成的细电丝",
+			"desc": "<color=green>提示：</color>\n由铝制成的细电丝",
 			"name": "铝丝"
 		},
 		"ammorepeater": {
-			"desc": "<color=green>h提示：</color>\n连发步枪的弹药，内含5发子弹",
+			"desc": "<color=green>提示：</color>\n连发步枪的弹药，内含5发子弹",
 			"name": "弹夹（连发步枪）"
 		},
 		"antlerdeer": {
@@ -1456,30 +1456,30 @@
 			"name": "驼鹿角"
 		},
 		"apple": {
-			"desc": "<color=green>h提示：</color>\n一个健康的苹果",
+			"desc": "<color=green>提示：</color>\n一个健康的苹果",
 			"name": "苹果"
 		},
 		"arcticfoxpelt": {
 			"name": "雪狐皮"
 		},
 		"arrow": {
-			"desc": "<color=green>h提示：</color>\n一支稳定且精准的铁箭",
+			"desc": "<color=green>提示：</color>\n一支稳定且精准的铁箭",
 			"name": "铁箭"
 		},
 		"arrowexplosive": {
-			"desc": "<color=green>h提示：</color>\n一种触击即爆炸的箭，比普通箭重得多",
+			"desc": "<color=green>提示：</color>\n一种触击即爆炸的箭，比普通箭重得多",
 			"name": "爆炸箭"
 		},
 		"arrowprimitive": {
-			"desc": "<color=green>h提示：</color>\n一种很不准确的原始箭",
+			"desc": "<color=green>提示：</color>\n一种很不准确的原始箭",
 			"name": "箭(原始)"
 		},
 		"axe": {
-			"desc": "<color=green>h提示：</color>一把铁斧，可用于砍伐树木或破坏木质结构",
+			"desc": "<color=green>提示：</color>一把铁斧，可用于砍伐树木或破坏木质结构",
 			"name": "铁斧"
 		},
 		"axesteel": {
-			"desc": "<color=green>h提示：</color>一把现代钢斧，比铁斧更高效、更耐用",
+			"desc": "<color=green>提示：</color>一把现代钢斧，比铁斧更高效、更耐用",
 			"name": "钢斧"
 		},
 		"bacon": {
@@ -1498,7 +1498,7 @@
 			"name": "培根肉干"
 		},
 		"bandage": {
-			"desc": "<color=green>h提示：</color>\n可用于止血",
+			"desc": "<color=green>提示：</color>\n可用于止血",
 			"name": "绷带"
 		},
 		"bearpelt": {
@@ -1523,11 +1523,11 @@
 			"name": "物块"
 		},
 		"blueprint": {
-			"desc": "<color=green>h提示：</color>允许你放置之前保存的建筑结构的副本",
+			"desc": "<color=green>提示：</color>允许你放置之前保存的建筑结构的副本",
 			"name": "施工蓝图"
 		},
 		"blueprintempty": {
-			"desc": "<color=green>h提示：</color>用于保存你的建筑和结构",
+			"desc": "<color=green>提示：</color>用于保存你的建筑和结构",
 			"name": "蓝图纸"
 		},
 		"boarhide": {
@@ -1538,19 +1538,19 @@
 			"name": "弩箭"
 		},
 		"bomb": {
-			"desc": "<color=green>h提示：</color>产生爆炸，仅对软目标造成伤害",
+			"desc": "<color=green>提示：</color>产生爆炸，仅对软目标造成伤害",
 			"name": "老式手榴弹"
 		},
 		"bottle": {
-			"desc": "<color=green>h提示：</color>一个简单的玻璃瓶",
+			"desc": "<color=green>提示：</color>一个简单的玻璃瓶",
 			"name": "瓶子"
 		},
 		"bow1": {
-			"desc": "<color=green>h提示：</color>一把可用来射箭的简单木弓",
+			"desc": "<color=green>提示：</color>一把可用来射箭的简单木弓",
 			"name": "木弓"
 		},
 		"branch": {
-			"desc": "<color=green>h提示：</color>自然资源，可用于制作木棍",
+			"desc": "<color=green>提示：</color>自然资源，可用于制作木棍",
 			"name": "树枝"
 		},
 		"bread": {
@@ -1560,7 +1560,7 @@
 			"name": "烤焦的面包"
 		},
 		"breaddough": {
-			"desc": "可以做个简单的面包。\n\n<color=green>h-Tips：</color><color=yellow><b>需烘焙</b></color>",
+			"desc": "可以做个简单的面包。\n\n<color=green>提示：</color><color=yellow><b>需烘焙</b></color>",
 			"name": "面包坯"
 		},
 		"breadhalf": {
@@ -1570,7 +1570,7 @@
 			"name": "拐杖糖"
 		},
 		"canteen": {
-			"desc": "<color=green>h提示：</color>\n一个饮水瓶，可装水",
+			"desc": "<color=green>提示：</color>\n一个饮水瓶，可装水",
 			"name": "军用水壶"
 		},
 		"carp": {
@@ -1610,7 +1610,7 @@
 			"name": "鲶鱼干"
 		},
 		"chainsaw": {
-			"desc": "核动力油锯。砍树嘎嘎快，相当高效。\n<color=green>h-Tips：</color>你可以准备大量的树苗，然后一次性密密麻麻的集中种起来，树长大后你就可以体验“核动力光头强”的快乐！",
+			"desc": "核动力油锯。砍树嘎嘎快，相当高效。\n<color=green>提示：</color>你可以准备大量的树苗，然后一次性密密麻麻的集中种起来，树长大后你就可以体验“核动力光头强”的快乐！",
 			"name": "油锯"
 		},
 		"chick": {
@@ -1618,14 +1618,14 @@
 			"name": "小鸡"
 		},
 		"chicken": {
-			"desc": "<color=green>h提示：</color>一只捕获的鸡，不应在背包里存放太久...",
+			"desc": "<color=green>提示：</color>一只捕获的鸡，不应在背包里存放太久...",
 			"name": "鸡"
 		},
 		"chili": {
 			"name": "辣椒"
 		},
 		"circuitboard": {
-			"desc": "<color=green>h提示：</color>许多电子设备的关键组件",
+			"desc": "<color=green>提示：</color>许多电子设备的关键组件",
 			"name": "电路板"
 		},
 		"climbingrope": {
@@ -1640,11 +1640,11 @@
 			"name": "煤矿"
 		},
 		"coalpowder": {
-			"desc": "<color=green>h提示：</color>粉碎的煤炭",
+			"desc": "<color=green>提示：</color>粉碎的煤炭",
 			"name": "煤粉"
 		},
 		"coarsecloth": {
-			"desc": "<color=green>h提示：</color>一块粗布",
+			"desc": "<color=green>提示：</color>一块粗布",
 			"name": "粗布"
 		},
 		"cobble": {
@@ -1657,15 +1657,15 @@
 			"name": "椰子片"
 		},
 		"combatknife": {
-			"desc": "<color=green>h提示：</color>\n主要作为格斗匕首，也可鞣制皮革",
+			"desc": "<color=green>提示：</color>\n主要作为格斗匕首，也可鞣制皮革",
 			"name": "战术刀"
 		},
 		"compassmodern": {
-			"desc": "<color=green>h提示：</color>用于导航",
+			"desc": "<color=green>提示：</color>用于导航",
 			"name": "现代指南针"
 		},
 		"compassold": {
-			"desc": "<color=green>h提示：</color>用于导航",
+			"desc": "<color=green>提示：</color>用于导航",
 			"name": "指南针"
 		},
 		"condition": {
@@ -1676,7 +1676,7 @@
 			"worn": "磨损"
 		},
 		"constructionitem": {
-			"desc": "<color=green>h提示：</color>一种建筑材料",
+			"desc": "<color=green>提示：</color>一种建筑材料",
 			"name": "建筑元件"
 		},
 		"cookie": {
@@ -1686,7 +1686,7 @@
 			"name": "烤焦的饼干"
 		},
 		"cookiedough": {
-			"desc": "可以做个简单的饼干。\n\n<color=green>h-Tips：</color><color=yellow><b>需烘焙</b></color>",
+			"desc": "可以做个简单的饼干。\n\n<color=green>提示：</color><color=yellow><b>需烘焙</b></color>",
 			"name": "饼干坯"
 		},
 		"corn": {
@@ -1705,7 +1705,7 @@
 			"name": "熟玉米"
 		},
 		"cotton": {
-			"desc": "<color=green>h提示：</color>可在纺车上纺成纱线",
+			"desc": "<color=green>提示：</color>可在纺车上纺成纱线",
 			"name": "棉花"
 		},
 		"cowhide": {
@@ -1716,7 +1716,7 @@
 			"name": "弩"
 		},
 		"decal": {
-			"desc": "<color=green>h提示：</color>类似于海报，但能贴合地面，若想在不平的表面投射图像，它很理想",
+			"desc": "<color=green>提示：</color>类似于海报，但能贴合地面，若想在不平的表面投射图像，它很理想",
 			"name": "贴花"
 		},
 		"deerpelt": {
@@ -1735,11 +1735,11 @@
 			"name": "染料"
 		},
 		"dynamite": {
-			"desc": "<color=green>h提示：</color>产生爆炸，对环境造成的损害较小",
+			"desc": "<color=green>提示：</color>产生爆炸，对环境造成的损害较小",
 			"name": "炸药"
 		},
 		"earthworm": {
-			"desc": "<color=green>h提示：</color>可用作鱼饵",
+			"desc": "<color=green>提示：</color>可用作鱼饵",
 			"name": "蚯蚓（鱼饵）"
 		},
 		"eel": {
@@ -1764,14 +1764,14 @@
 			"name": "象皮"
 		},
 		"engineboat1": {
-			"desc": "<color=green>h提示：</color>一种可安装在某些船只上的舷外发动机。\n<color=yellow>制作步骤：第 [3 / 3] 步</color>",
+			"desc": "<color=green>提示：</color>一种可安装在某些船只上的舷外发动机。\n<color=yellow>制作步骤：第 [3 / 3] 步</color>",
 			"name": "舷外发动机（20马力）"
 		},
 		"fibers": {
 			"name": "纤维"
 		},
 		"fireworkrocket": {
-			"desc": "<color=green>h提示：</color>能产生五彩斑斓、无害的烟花",
+			"desc": "<color=green>提示：</color>能产生五彩斑斓、无害的烟花",
 			"name": "烟花火箭"
 		},
 		"fireworkrocketlarge": {
@@ -1786,15 +1786,15 @@
 			"name": "钓竿"
 		},
 		"flashlight": {
-			"desc": "<color=green>h提示：</color>非常适合探索黑暗区域",
+			"desc": "<color=green>提示：</color>非常适合探索黑暗区域",
 			"name": "手电筒"
 		},
 		"flashlightlarge": {
-			"desc": "<color=green>h提示：</color>超强光源",
+			"desc": "<color=green>提示：</color>超强光源",
 			"name": "聚光灯"
 		},
 		"flour": {
-			"desc": "<color=green>h提示：</color>由研磨的谷物制成，可做成面坯、面剂子，用于制作各种食物",
+			"desc": "<color=green>提示：</color>由研磨的谷物制成，可做成面坯、面剂子，用于制作各种食物",
 			"name": "面粉"
 		},
 		"food": {
@@ -1835,11 +1835,11 @@
 			"name": "金矿石"
 		},
 		"goldplate": {
-			"desc": "<color=green>h提示：</color>由金制成的薄板",
+			"desc": "<color=green>提示：</color>由金制成的薄板",
 			"name": "金板"
 		},
 		"goldwire": {
-			"desc": "<color=green>h提示：</color>由金制成的细电线",
+			"desc": "<color=green>提示：</color>由金制成的细电线",
 			"name": "金丝"
 		},
 		"grapplinggun": {
@@ -1847,11 +1847,11 @@
 			"name": "抓钩枪"
 		},
 		"grass": {
-			"desc": "<color=green>h提示：</color>一丛草",
+			"desc": "<color=green>提示：</color>一丛草",
 			"name": "草"
 		},
 		"grasspatch": {
-			"desc": "<color=green>h提示：</color>一块方形的草地",
+			"desc": "<color=green>提示：</color>一块方形的草地",
 			"name": "草地补丁"
 		},
 		"gravel": {
@@ -1875,7 +1875,7 @@
 			"water": "水"
 		},
 		"gunpowder": {
-			"desc": "<color=green>h提示：</color>爆炸粉末，是生产各种弹药和炸药的重要原料",
+			"desc": "<color=green>提示：</color>爆炸粉末，是生产各种弹药和炸药的重要原料",
 			"name": "火药"
 		},
 		"guts": {
@@ -1899,7 +1899,7 @@
 			"name": "地狱石"
 		},
 		"hempfibers": {
-			"desc": "<color=green>h提示：</color>可在纺车上纺成纱线",
+			"desc": "<color=green>提示：</color>可在纺车上纺成纱线",
 			"name": "大麻纤维"
 		},
 		"herring": {
@@ -1918,11 +1918,11 @@
 			"name": "鲱鱼g"
 		},
 		"hoe": {
-			"desc": "<color=green>h提示：</color>用于整地以便耕种",
+			"desc": "<color=green>提示：</color>用于整地以便耕种",
 			"name": "锄头"
 		},
 		"hoesteel": {
-			"desc": "<color=green>h提示：</color>用于整地以便耕种，比铁锄头更耐用",
+			"desc": "<color=green>提示：</color>用于整地以便耕种，比铁锄头更耐用",
 			"name": "钢锄头"
 		},
 		"horsehide": {
@@ -1938,11 +1938,11 @@
 			"name": "铁矿石"
 		},
 		"ironplate": {
-			"desc": "<color=green>h提示：</color>由铁锭制成的基础制作资源",
+			"desc": "<color=green>提示：</color>由铁锭制成的基础制作资源",
 			"name": "铁板"
 		},
 		"ironwire": {
-			"desc": "<color=green>h提示：</color>由铁制成的细电线",
+			"desc": "<color=green>提示：</color>由铁制成的细电线",
 			"name": "铁丝"
 		},
 		"javelinspear": {
@@ -1984,14 +1984,14 @@
 			"name": "生菜叶"
 		},
 		"lightbulb": {
-			"desc": "<color=green>h提示：</color>一种电灯",
+			"desc": "<color=green>提示：</color>一种电灯",
 			"name": "灯泡"
 		},
 		"lionpelt": {
 			"name": "狮子皮"
 		},
 		"lumber": {
-			"desc": "<color=green>h提示：</color>木材",
+			"desc": "<color=green>提示：</color>木材",
 			"name": "木材"
 		},
 		"magnifyingglass": {
@@ -1999,23 +1999,23 @@
 			"name": "放大镜"
 		},
 		"map": {
-			"desc": "<color=green>h提示：</color>当前岛屿的大致地图",
+			"desc": "<color=green>提示：</color>当前岛屿的大致地图",
 			"name": "地图"
 		},
 		"measuringtape": {
-			"desc": "<color=green>h提示：</color>可用于测量两点之间的距离",
+			"desc": "<color=green>提示：</color>可用于测量两点之间的距离",
 			"name": "卷尺"
 		},
 		"medkit": {
-			"desc": "<color=green>h提示：</color>可完全恢复你的生命值并止血",
+			"desc": "<color=green>提示：</color>可完全恢复你的生命值并止血",
 			"name": "急救箱"
 		},
 		"megaphone": {
-			"desc": "<color=green>h提示：</color>可放大你的声音",
+			"desc": "<color=green>提示：</color>可放大你的声音",
 			"name": "扩音器"
 		},
 		"miningdrill": {
-			"desc": "<color=green>h提示：</color>一种电动采矿钻，效率极高，能瞬间破开石材",
+			"desc": "<color=green>提示：</color>一种电动采矿钻，效率极高，能瞬间破开石材",
 			"name": "采矿钻"
 		},
 		"missingitem": {
@@ -2068,11 +2068,11 @@
 			"name": "泥巴"
 		},
 		"musicdisc": {
-			"desc": "<color=green>h提示：</color>可在留声机上播放",
+			"desc": "<color=green>提示：</color>可在留声机上播放",
 			"name": "音乐唱片"
 		},
 		"nails": {
-			"desc": "<color=green>h提示：</color>金属钉子，用作紧固件",
+			"desc": "<color=green>提示：</color>金属钉子，用作紧固件",
 			"name": "钉子"
 		},
 		"npc": {
@@ -2082,11 +2082,11 @@
 			}
 		},
 		"objectkit": {
-			"desc": "<color=green>h提示：</color>代表一个可放置的物体",
+			"desc": "<color=green>提示：</color>代表一个可放置的物体",
 			"name": "物体套件"
 		},
 		"objectkitsmall": {
-			"desc": "<color=green>h提示：</color>代表一个可放置的物体",
+			"desc": "<color=green>提示：</color>代表一个可放置的物体",
 			"name": "小型物体套件"
 		},
 		"obsidian": {
@@ -2096,27 +2096,27 @@
 			"name": "旧靴子"
 		},
 		"oldshears": {
-			"desc": "<color=green>h提示：</color>用于剪羊毛",
+			"desc": "<color=green>提示：</color>用于剪羊毛",
 			"name": "剪刀"
 		},
 		"oredetector": {
-			"desc": "<color=green>h提示：</color>一种矿石探测器，能发现附近的矿脉",
+			"desc": "<color=green>提示：</color>一种矿石探测器，能发现附近的矿脉",
 			"name": "矿石探测器"
 		},
 		"paddle1": {
-			"desc": "<color=green>h提示：</color>木制船桨，是小型划艇所需的工具\n<color=yellow>制作步骤：第 [3 / 3] 步</color>",
+			"desc": "<color=green>提示：</color>木制船桨，是小型划艇所需的工具\n<color=yellow>制作步骤：第 [3 / 3] 步</color>",
 			"name": "木桨"
 		},
 		"paintbrush": {
-			"desc": "<color=green>h提示：</color>用于涂刷表面",
+			"desc": "<color=green>提示：</color>用于涂刷表面",
 			"name": "羊毛刷"
 		},
 		"paintroller": {
-			"desc": "<color=green>h提示：</color>用于涂刷表面，比羊毛刷工作效率高得多",
+			"desc": "<color=green>提示：</color>用于涂刷表面，比羊毛刷工作效率高得多",
 			"name": "滚筒刷"
 		},
 		"paper": {
-			"desc": "<color=green>h提示：</color>一张基础的空白草纸",
+			"desc": "<color=green>提示：</color>一张基础的空白草纸",
 			"name": "草纸"
 		},
 		"pear": {
@@ -2129,7 +2129,7 @@
 			"name": "企鹅皮"
 		},
 		"penlight": {
-			"desc": "<color=green>h提示：</color>一种便携式光源",
+			"desc": "<color=green>提示：</color>一种便携式光源",
 			"name": "笔形手电筒"
 		},
 		"perch": {
@@ -2148,11 +2148,11 @@
 			"name": "鲈鱼干"
 		},
 		"pickaxe": {
-			"desc": "<color=green>h提示：</color>一把铁镐，用于开采石材和矿石",
+			"desc": "<color=green>提示：</color>一把铁镐，用于开采石材和矿石",
 			"name": "镐子"
 		},
 		"pickaxesteel": {
-			"desc": "<color=green>h提示：</color>一把现代钢镐，比铁镐更高效、更耐用",
+			"desc": "<color=green>提示：</color>一把现代钢镐，比铁镐更高效、更耐用",
 			"name": "钢镐"
 		},
 		"pighide": {
@@ -2181,7 +2181,7 @@
 			"name": "北极熊皮"
 		},
 		"poster": {
-			"desc": "<color=green>h提示：</color>一张海报，你可以用它从硬盘加载图像并放置在游戏世界中",
+			"desc": "<color=green>提示：</color>一张海报，你可以用它从硬盘加载图像并放置在游戏世界中",
 			"name": "海报"
 		},
 		"potato": {
@@ -2197,19 +2197,19 @@
 			"name": "熟土豆"
 		},
 		"pouch": {
-			"desc": "<color=green>h提示：</color>一个可能装有珍贵战利品的袋子",
+			"desc": "<color=green>提示：</color>一个可能装有珍贵战利品的袋子",
 			"name": "小袋"
 		},
 		"primitiveaxe": {
-			"desc": "<color=green>h提示：</color>原始工具，可用于敲碎岩石或砍伐树木，但效果不佳",
+			"desc": "<color=green>提示：</color>原始工具，可用于敲碎岩石或砍伐树木，但效果不佳",
 			"name": "石斧(原始)"
 		},
 		"primitiveknife": {
-			"desc": "<color=green>h提示：</color>一把原始的刀，不太有效，但可作为基本近战武器，也是鞣制皮革所需的工具",
+			"desc": "<color=green>提示：</color>一把原始的刀，不太有效，但可作为基本近战武器，也是鞣制皮革所需的工具",
 			"name": "石刀(原始)"
 		},
 		"primitivespear": {
-			"desc": "<color=green>h提示：</color>一支带有石制矛头的原始长矛，既可投掷也可作为近战武器",
+			"desc": "<color=green>提示：</color>一支带有石制矛头的原始长矛，既可投掷也可作为近战武器",
 			"name": "长矛(原始)"
 		},
 		"pumpkin": {
@@ -2228,15 +2228,15 @@
 			"name": "熟南瓜片"
 		},
 		"rags": {
-			"desc": "<color=green>h提示：</color>石碾＋粗布＝碎布条，可用压纸机压制成纸",
+			"desc": "<color=green>提示：</color>石碾＋粗布＝碎布条，可用压纸机压制成纸",
 			"name": "碎布条"
 		},
 		"rake": {
-			"desc": "<color=green>h提示：</color>耙平地面，比木耙更高效，更耐用",
+			"desc": "<color=green>提示：</color>耙平地面，比木耙更高效，更耐用",
 			"name": "铁耙"
 		},
 		"rakewood": {
-			"desc": "<color=green>h提示：</color>耙平地面",
+			"desc": "<color=green>提示：</color>耙平地面",
 			"name": "木耙"
 		},
 		"rawglass": {
@@ -2246,77 +2246,77 @@
 			"name": "红黏土"
 		},
 		"repeater": {
-			"desc": "<color=green>h提示：</color>一种栓动式连发步枪，在射速、精度和有效射程方面优于火枪",
+			"desc": "<color=green>提示：</color>一种栓动式连发步枪，在射速、精度和有效射程方面优于火枪",
 			"name": "连发步枪"
 		},
 		"rhinohide": {
 			"name": "犀牛皮"
 		},
 		"ribkit1": {
-			"desc": "<color=green>h提示：</color>制作刚性充气船的基础套件。将其放置在坚实地面上以组装船只。\n<color=yellow>制作步骤：第 [1 / 3] 步</color>",
+			"desc": "<color=green>提示：</color>制作刚性充气船的基础套件。将其放置在坚实地面上以组装船只。\n<color=yellow>制作步骤：第 [1 / 3] 步</color>",
 			"name": "充气船套件I（刚性船体）"
 		},
 		"ribkit2": {
-			"desc": "<color=green>h提示：</color>制作刚性充气船的基础套件。将其附着到现有的刚性船体（见套件1）。\n<color=yellow>制作步骤：第 [2 / 3] 步</color>",
+			"desc": "<color=green>提示：</color>制作刚性充气船的基础套件。将其附着到现有的刚性船体（见套件1）。\n<color=yellow>制作步骤：第 [2 / 3] 步</color>",
 			"name": "充气船套件II（气筒）"
 		},
 		"ribstorage": {
-			"desc": "<color=green>h提示：</color>可附着到充气船（RIB）上的可选储物装置\n<color=yellow> [选配] </color>",
+			"desc": "<color=green>提示：</color>可附着到充气船（RIB）上的可选储物装置\n<color=yellow> [选配] </color>",
 			"name": "储物装置（RIB）"
 		},
 		"ripepear": {
 			"name": "过熟的梨"
 		},
 		"rope": {
-			"desc": "<color=green>h提示：</color>一根绳子",
+			"desc": "<color=green>提示：</color>一根绳子",
 			"name": "绳子"
 		},
 		"rowboatkit1": {
-			"desc": "<color=green>h提示：</color>制作划艇的基础套件。将其放置在陆地上任何地方以组装船只。\n<color=yellow>制作步骤：第 [1 / 3] 步</color>",
+			"desc": "<color=green>提示：</color>制作划艇的基础套件。将其放置在陆地上任何地方以组装船只。\n<color=yellow>制作步骤：第 [1 / 3] 步</color>",
 			"name": "划艇套件I（框架）"
 		},
 		"rowboatkit2": {
-			"desc": "<color=green>h提示：</color>制作划艇的基础套件。将其附着到现有的划艇框架（见套件1）。\n<color=yellow>制作步骤：第 [2 / 3] 步</color>",
+			"desc": "<color=green>提示：</color>制作划艇的基础套件。将其附着到现有的划艇框架（见套件1）。\n<color=yellow>制作步骤：第 [2 / 3] 步</color>",
 			"name": "划艇套件II（船体）"
 		},
 		"rowboatstorage": {
-			"desc": "<color=green>h提示：</color>可附着到划艇上的可选储物装置\n<color=yellow> [选配] </color>",
+			"desc": "<color=green>提示：</color>可附着到划艇上的可选储物装置\n<color=yellow> [选配] </color>",
 			"name": "储物装置（划艇）"
 		},
 		"rubberduck": {
-			"desc": "<color=green>设计师??示：</color>只是一个玩具",
+			"desc": "<color=green>提示：：</color>只是一个玩具",
 			"name": "橡皮鸭"
 		},
 		"saddlebaghorse": {
-			"desc": "<color=green>h提示：</color>可附着到马鞍上的可选袋子，可用于在其中存放物品",
+			"desc": "<color=green>提示：</color>可附着到马鞍上的可选袋子，可用于在其中存放物品",
 			"name": "马鞍袋（马）"
 		},
 		"saddlehorse": {
-			"desc": "<color=green>h提示：</color>一匹马的马鞍，如果你想骑马，这是必需的",
+			"desc": "<color=green>提示：</color>一匹马的马鞍，如果你想骑马，这是必需的",
 			"name": "马鞍（马）"
 		},
 		"sail1": {
-			"desc": "<color=green>h提示：</color>一面小帆，是小型帆船所需的工具。\n<span><color=yellow>制作步骤：第 [5 / 5] 步</color>",
+			"desc": "<color=green>提示：</color>一面小帆，是小型帆船所需的工具。\n<span><color=yellow>制作步骤：第 [5 / 5] 步</color>",
 			"name": "帆"
 		},
 		"sailboatkit1": {
-			"desc": "<color=green>h提示：</color>制作帆船的基础套件。将其放置在陆地上任何地方以组装船只。\n<span><color=yellow>制作步骤：第 [1 / 5] 步</span>",
+			"desc": "<color=green>提示：</color>制作帆船的基础套件。将其放置在陆地上任何地方以组装船只。\n<span><color=yellow>制作步骤：第 [1 / 5] 步</span>",
 			"name": "帆船套件I（框架A）"
 		},
 		"sailboatkit2": {
-			"desc": "<color=green>h提示：</color>制作帆船的基础套件。将其附着到现有的帆船框架（见套件1）。\n<span><color=yellow>制作步骤：第 [2 / 5] 步</span>",
+			"desc": "<color=green>提示：</color>制作帆船的基础套件。将其附着到现有的帆船框架（见套件1）。\n<span><color=yellow>制作步骤：第 [2 / 5] 步</span>",
 			"name": "帆船套件II（框架B）"
 		},
 		"sailboatkit3": {
-			"desc": "<color=green>h提示：</color>制作帆船的基础套件。将其附着到现有的帆船框架（见套件2）。\n<span><color=yellow>制作步骤：第 [3 / 5] 步</span>",
+			"desc": "<color=green>提示：</color>制作帆船的基础套件。将其附着到现有的帆船框架（见套件2）。\n<span><color=yellow>制作步骤：第 [3 / 5] 步</span>",
 			"name": "帆船套件III（船体）"
 		},
 		"sailboatkit4": {
-			"desc": "<color=green>h提示：</color>制作帆船的基础套件。将其附着到现有的帆船船体（见套件3）。\n<span><color=yellow>制作步骤：第 [4 / 5] 步</span>",
+			"desc": "<color=green>提示：</color>制作帆船的基础套件。将其附着到现有的帆船船体（见套件3）。\n<span><color=yellow>制作步骤：第 [4 / 5] 步</span>",
 			"name": "帆船套件IV（桅杆）"
 		},
 		"sailboatstorage": {
-			"desc": "<color=green>h提示：</color>可附着到帆船上的可选储物装置。\n<color=yellow> [选配] </color>",
+			"desc": "<color=green>提示：</color>可附着到帆船上的可选储物装置。\n<color=yellow> [选配] </color>",
 			"name": "储物装置（帆船）"
 		},
 		"salmon": {
@@ -2350,30 +2350,30 @@
 			"name": "树苗"
 		},
 		"saplingacacia": {
-			"desc": "<color=green>h提示：</color>一棵金合欢树苗",
+			"desc": "<color=green>提示：</color>一棵金合欢树苗",
 			"name": "金合欢树苗"
 		},
 		"saplingaleppo": {
-			"desc": "<color=green>h提示：</color>一棵阿勒颇松树苗",
+			"desc": "<color=green>提示：</color>一棵阿勒颇松树苗",
 			"name": "阿勒颇松树苗"
 		},
 		"saplingapple": {
-			"desc": "<color=green>h提示：</color>一棵苹果树树苗",
+			"desc": "<color=green>提示：</color>一棵苹果树树苗",
 			"name": "苹果树树苗"
 		},
 		"saplingaraucaria": {
-			"desc": "<color=green>h提示：</color>一棵南洋杉树苗",
+			"desc": "<color=green>提示：</color>一棵南洋杉树苗",
 			"name": "南洋杉树苗"
 		},
 		"saplingbirch": {
-			"desc": "<color=green>h提示：</color>一棵桦树树苗",
+			"desc": "<color=green>提示：</color>一棵桦树树苗",
 			"name": "桦树树苗"
 		},
 		"saplingbiznaga": {
 			"name": "仙人球幼苗"
 		},
 		"saplingbushcedar": {
-			"desc": "<color=green>h提示：</color>一丛灌木树苗",
+			"desc": "<color=green>提示：</color>一丛灌木树苗",
 			"name": "灌木树苗"
 		},
 		"saplingcactus": {
@@ -2392,48 +2392,48 @@
 			"name": "棉花幼苗"
 		},
 		"saplingcypress": {
-			"desc": "<color=green>h提示：</color>一棵柏树树苗",
+			"desc": "<color=green>提示：</color>一棵柏树树苗",
 			"name": "柏树树苗"
 		},
 		"saplinghemp": {
 			"name": "大麻幼苗"
 		},
 		"saplinghickory": {
-			"desc": "<color=green>h提示：</color>一棵山核桃树树苗",
+			"desc": "<color=green>提示：</color>一棵山核桃树树苗",
 			"name": "山核桃树树苗"
 		},
 		"saplinglettuce": {
 			"name": "生菜幼苗"
 		},
 		"saplinglondonplane": {
-			"desc": "<color=green>h提示：</color>一棵英国梧桐树苗",
+			"desc": "<color=green>提示：</color>一棵英国梧桐树苗",
 			"name": "英国梧桐树苗"
 		},
 		"saplingmesquite": {
-			"desc": "<color=green>h提示：</color>一棵牧豆树树苗",
+			"desc": "<color=green>提示：</color>一棵牧豆树树苗",
 			"name": "牧豆树树苗"
 		},
 		"saplingpalm": {
-			"desc": "<color=green>h提示：</color>一棵棕榈树树苗",
+			"desc": "<color=green>提示：</color>一棵棕榈树树苗",
 			"name": "棕榈树树苗"
 		},
 		"saplingpalm2": {
-			"desc": "<color=green>h提示：</color>一棵由椰子培育出的棕榈树树苗",
+			"desc": "<color=green>提示：</color>一棵由椰子培育出的棕榈树树苗",
 			"name": "棕榈树树苗"
 		},
 		"saplingpotato": {
 			"name": "土豆幼苗"
 		},
 		"saplingredmaple": {
-			"desc": "<color=green>h提示：</color>一棵红枫树树苗",
+			"desc": "<color=green>提示：</color>一棵红枫树树苗",
 			"name": "红枫树树苗"
 		},
 		"saplingspruce": {
-			"desc": "<color=green>h提示：</color>一棵云杉树苗",
+			"desc": "<color=green>提示：</color>一棵云杉树苗",
 			"name": "云杉树苗"
 		},
 		"saplingspruceforest": {
-			"desc": "<color=green>h提示：</color>一棵大型云杉林树苗",
+			"desc": "<color=green>提示：</color>一棵大型云杉林树苗",
 			"name": "大型云杉林树苗"
 		},
 		"saplingsugarbeet": {
@@ -2443,22 +2443,22 @@
 			"name": "番茄幼苗"
 		},
 		"saplingweepingbeech": {
-			"desc": "<color=green>h提示：</color>一棵垂枝山毛榉树苗",
+			"desc": "<color=green>提示：</color>一棵垂枝山毛榉树苗",
 			"name": "垂枝山毛榉树苗"
 		},
 		"saplingwheat": {
 			"name": "小麦幼苗"
 		},
 		"saplingwillowoak": {
-			"desc": "<color=green>h提示：</color>一棵柳栎树苗",
+			"desc": "<color=green>提示：</color>一棵柳栎树苗",
 			"name": "柳栎树苗"
 		},
 		"scythe": {
-			"desc": "<color=green>h提示：</color>可用于清理大片草地",
+			"desc": "<color=green>提示：</color>可用于清理大片草地",
 			"name": "钐刀"
 		},
 		"scythesteel": {
-			"desc": "<color=green>h提示：</color>可用于清理大片草地，比铁钐刀更耐用",
+			"desc": "<color=green>提示：</color>可用于清理大片草地，比铁钐刀更耐用",
 			"name": "钢钐刀"
 		},
 		"seacucumber": {
@@ -2501,19 +2501,19 @@
 			"name": "虾干"
 		},
 		"sickle": {
-			"desc": "<color=green>h提示：</color>如果你想收集草或较小的植物会很有用",
+			"desc": "<color=green>提示：</color>如果你想收集草或较小的植物会很有用",
 			"name": "镰刀"
 		},
 		"sicklesteel": {
-			"desc": "<color=green>h提示：</color>如果你想收集草或较小的植物会很有用，比铁镰刀更耐用",
+			"desc": "<color=green>提示：</color>如果你想收集草或较小的植物会很有用，比铁镰刀更耐用",
 			"name": "钢镰刀"
 		},
 		"sledgehammer": {
-			"desc": "<color=green>h提示：</color>用于移除建筑元件而不破坏它们",
+			"desc": "<color=green>提示：</color>用于移除建筑元件而不破坏它们",
 			"name": "大锤"
 		},
 		"sledgehammersteel": {
-			"desc": "<color=green>h提示：</color>用于移除建筑元件而不破坏它们，比铁大锤更有效、更耐用",
+			"desc": "<color=green>提示：</color>用于移除建筑元件而不破坏它们，比铁大锤更有效、更耐用",
 			"name": "钢大锤"
 		},
 		"snakemeat": {
@@ -2532,11 +2532,11 @@
 			"name": "雪球"
 		},
 		"soccerball": {
-			"desc": "<color=green>h提示：</color>用于踢足球",
+			"desc": "<color=green>提示：</color>用于踢足球",
 			"name": "足球"
 		},
 		"splint": {
-			"desc": "<color=green>h提示：</color>一种临时夹板，有助于骨折的治疗",
+			"desc": "<color=green>提示：</color>一种临时夹板，有助于骨折的治疗",
 			"name": "夹板"
 		},
 		"standingtorch": {
@@ -2558,11 +2558,11 @@
 			"name": "干肉"
 		},
 		"stick": {
-			"desc": "<color=green>h提示：</color>“木棍”：基础制作资源。",
+			"desc": "<color=green>提示：</color>“木棍”：基础制作资源。",
 			"name": "木棍"
 		},
 		"stone": {
-			"desc": "<color=green>h提示：</color>“石材”：一块简单的石头。",
+			"desc": "<color=green>提示：</color>“石材”：一块简单的石头。",
 			"name": "石材"
 		},
 		"sugarbeet": {
@@ -2575,49 +2575,49 @@
 			"name": "硫磺粉"
 		},
 		"sword1": {
-			"desc": "<color=green>h提示：</color>一把木剑。它几乎造成不了多少伤害，更适合用于练习...",
+			"desc": "<color=green>提示：</color>一把木剑。它几乎造成不了多少伤害，更适合用于练习...",
 			"name": "木剑"
 		},
 		"sword2": {
-			"desc": "<color=green>h提示：</color>一把陈旧生锈的剑",
+			"desc": "<color=green>提示：</color>一把陈旧生锈的剑",
 			"name": "生锈的剑"
 		},
 		"sword3": {
-			"desc": "<color=green>h提示：</color>一把单手铁剑",
+			"desc": "<color=green>提示：</color>一把单手铁剑",
 			"name": "铁剑"
 		},
 		"sword4": {
-			"desc": "<color=green>h提示：</color>一把双手长剑。与单手铁剑相比，操作速度较慢，但能造成更多伤害",
+			"desc": "<color=green>提示：</color>一把双手长剑。与单手铁剑相比，操作速度较慢，但能造成更多伤害",
 			"name": "长剑"
 		},
 		"sword5": {
-			"desc": "<color=green>h提示：</color>一把由钢制成的双手长剑",
+			"desc": "<color=green>提示：</color>一把由钢制成的双手长剑",
 			"name": "钢剑"
 		},
 		"sword6": {
 			"name": "恶魔之剑"
 		},
 		"sword7": {
-			"desc": "<color=green>h提示：</color>一把属于真正英雄的剑！",
+			"desc": "<color=green>提示：</color>一把属于真正英雄的剑！",
 			"name": "大师之剑"
 		},
 		"sword8": {
-			"desc": "<color=green>h提示：</color>一把强大的剑。杀敌可使这把剑变得更强大",
+			"desc": "<color=green>提示：</color>一把强大的剑。杀敌可使这把剑变得更强大",
 			"name": "神秘之剑"
 		},
 		"sword9": {
 			"name": "军刀"
 		},
 		"sword10": {
-			"desc": "<color=green>h提示：</color>一把双手日本刀",
+			"desc": "<color=green>提示：</color>一把双手日本刀",
 			"name": "武士刀"
 		},
 		"sword11": {
-			"desc": "<color=green>h提示：</color>一把单手单刃弯刀",
+			"desc": "<color=green>提示：</color>一把单手单刃弯刀",
 			"name": "弯刀"
 		},
 		"sword12": {
-			"desc": "<color=green>h提示：</color>一把单手、中东风格的弯刀",
+			"desc": "<color=green>提示：</color>一把单手、中东风格的弯刀",
 			"name": "弯刀（中东风格）"
 		},
 		"tentbag": {
@@ -2627,79 +2627,79 @@
 			"name": "番茄"
 		},
 		"toolbelt": {
-			"desc": "<color=green>h提示：</color>佩戴这条工具带可增加你的快捷栏可用插槽数量",
+			"desc": "<color=green>提示：</color>佩戴这条工具带可增加你的快捷栏可用插槽数量",
 			"name": "工具带"
 		},
 		"torch": {
-			"desc": "<color=green>h提示：</color>用作光源",
+			"desc": "<color=green>提示：</color>用作光源",
 			"name": "火把"
 		},
 		"treelog": {
-			"desc": "<color=green>h提示：</color>一段原木",
+			"desc": "<color=green>提示：</color>一段原木",
 			"name": "原木段"
 		},
 		"treelogacacia": {
-			"desc": "<color=green>h提示：</color>一段金合欢原木",
+			"desc": "<color=green>提示：</color>一段金合欢原木",
 			"name": "金合欢原木段"
 		},
 		"treelogaleppo": {
-			"desc": "<color=green>h提示：</color>一段阿勒颇松原木",
+			"desc": "<color=green>提示：</color>一段阿勒颇松原木",
 			"name": "阿勒颇松原木段"
 		},
 		"treelogapple": {
-			"desc": "<color=green>h提示：</color>一段苹果树原木",
+			"desc": "<color=green>提示：</color>一段苹果树原木",
 			"name": "苹果树原木段"
 		},
 		"treelogaraucaria": {
-			"desc": "<color=green>h提示：</color>一段南洋杉原木",
+			"desc": "<color=green>提示：</color>一段南洋杉原木",
 			"name": "南洋杉原木段"
 		},
 		"treelogbirch": {
-			"desc": "<color=green>h提示：</color>一段桦树原木",
+			"desc": "<color=green>提示：</color>一段桦树原木",
 			"name": "桦树原木段"
 		},
 		"treelogcactus": {
-			"desc": "<color=green>h提示：</color>一段仙人掌原木",
+			"desc": "<color=green>提示：</color>一段仙人掌原木",
 			"name": "仙人掌原木段"
 		},
 		"treelogcypress": {
-			"desc": "<color=green>h提示：</color>一段柏树原木",
+			"desc": "<color=green>提示：</color>一段柏树原木",
 			"name": "柏树原木段"
 		},
 		"treeloghickory": {
-			"desc": "<color=green>h提示：</color>一段山核桃树原木",
+			"desc": "<color=green>提示：</color>一段山核桃树原木",
 			"name": "山核桃树原木段"
 		},
 		"treeloglondonplane": {
-			"desc": "<color=green>h提示：</color>一段英国梧桐原木",
+			"desc": "<color=green>提示：</color>一段英国梧桐原木",
 			"name": "英国梧桐原木段"
 		},
 		"treelogmesquite": {
-			"desc": "<color=green>h提示：</color>一段牧豆树原木",
+			"desc": "<color=green>提示：</color>一段牧豆树原木",
 			"name": "牧豆树原木段"
 		},
 		"treelogpalm": {
-			"desc": "<color=green>h提示：</color>一段棕榈树原木",
+			"desc": "<color=green>提示：</color>一段棕榈树原木",
 			"name": "棕榈树原木段"
 		},
 		"treelogredmaple": {
-			"desc": "<color=green>h提示：</color>一段红枫树原木",
+			"desc": "<color=green>提示：</color>一段红枫树原木",
 			"name": "红枫树原木段"
 		},
 		"treelogspruce": {
-			"desc": "<color=green>h提示：</color>一段云杉原木",
+			"desc": "<color=green>提示：</color>一段云杉原木",
 			"name": "云杉原木段"
 		},
 		"treelogweepingbeech": {
-			"desc": "<color=green>h提示：</color>一段垂枝山毛榉原木",
+			"desc": "<color=green>提示：</color>一段垂枝山毛榉原木",
 			"name": "垂枝山毛榉原木段"
 		},
 		"treelogwillowoak": {
-			"desc": "<color=green>h提示：</color>一段柳栎原木",
+			"desc": "<color=green>提示：</color>一段柳栎原木",
 			"name": "柳栎原木段"
 		},
 		"trimmer": {
-			"desc": "<color=green>h提示：</color>种地好手必备的电动草坪修剪机。\n转为高效修剪草坪而设计",
+			"desc": "<color=green>提示：</color>种地好手必备的电动草坪修剪机。\n转为高效修剪草坪而设计",
 			"name": "草坪修剪机"
 		},
 		"trout": {
@@ -2739,11 +2739,11 @@
 			"name": "钨矿石"
 		},
 		"tungstenplate": {
-			"desc": "<color=green>h提示：</color>由钨制成的薄板",
+			"desc": "<color=green>提示：</color>由钨制成的薄板",
 			"name": "钨板"
 		},
 		"tungstenwire": {
-			"desc": "<color=green>h提示：</color>由钨制成的细电线",
+			"desc": "<color=green>提示：</color>由钨制成的细电线",
 			"name": "钨丝"
 		},
 		"turtle": {
@@ -2777,11 +2777,11 @@
 			"name": "火山岩"
 		},
 		"walkietalkie": {
-			"desc": "<color=green>h提示：</color>一种便携式、手持式无线电收发器",
+			"desc": "<color=green>提示：</color>一种便携式、手持式无线电收发器",
 			"name": "对讲机"
 		},
 		"wateringcan": {
-			"desc": "<color=green>h提示：</color>用于手动给植物浇水",
+			"desc": "<color=green>提示：</color>用于手动给植物浇水",
 			"name": "浇水壶"
 		},
 		"watermelon": {
@@ -2794,7 +2794,7 @@
 			"name": "西瓜片"
 		},
 		"waterskin": {
-			"desc": "<color=green>h提示：</color>一种由皮革制成的容器，可装水",
+			"desc": "<color=green>提示：</color>一种由皮革制成的容器，可装水",
 			"name": "水袋"
 		},
 		"wheat": {
@@ -2817,11 +2817,11 @@
 			"name": "狼皮（白色）"
 		},
 		"wool": {
-			"desc": "<color=green>h提示：</color>可从羊身上获取，能在纺车上纺成纱线",
+			"desc": "<color=green>提示：</color>可从羊身上获取，能在纺车上纺成纱线",
 			"name": "羊毛"
 		},
 		"yarn": {
-			"desc": "<color=green>h提示：</color>由在纺车上纺成的织物组成，用于制作各种织物",
+			"desc": "<color=green>提示：</color>由在纺车上纺成的织物组成，用于制作各种织物",
 			"name": "纱线"
 		},
 		"zebrahide": {
@@ -2840,30 +2840,30 @@
 		}
 	},
 	"location": {
-		"deepunderground": "设计师提醒：你正在地下深处",
-		"hell": "设计师提醒：你正位于地狱",
-		"orbit": "设计师提醒：轨道",
-		"underground": "设计师提醒：你正在地下",
-		"wilderness": "设计师提醒：你正在荒郊野岭"
+		"deepunderground": "友情提醒：你正在地下深处",
+		"hell": "友情提醒：你正位于地狱",
+		"orbit": "友情提醒：轨道",
+		"underground": "友情提醒：你正在地下",
+		"wilderness": "友情提醒：你正在荒郊野岭"
 	},
 	"message": {
 		"api": {
-			"connecttodiscord": "<color=green>h-Tips：</color>你想连接到Discord吗？",
-			"connecttootherserver": "<color=green>h-Tips：</color>服务器想将你重定向到另一个多人服务器。你接受吗？",
+			"connecttodiscord": "<color=green>提示：</color>你想连接到Discord吗？",
+			"connecttootherserver": "<color=green>提示：</color>服务器想将你重定向到另一个多人服务器。你接受吗？",
 			"connecttootherserverheader": "连接到：{0}",
-			"connecttoteamspeak": "<color=green>h-Tips：</color>你想连接到TeamSpeak吗？"
+			"connecttoteamspeak": "<color=green>提示：</color>你想连接到TeamSpeak吗？"
 		},
 		"bag": {
-			"empty": "<color=green>h-Tips：</color>这个包是空的...",
-			"opened": "<color=green>h-Tips：</color>你已经打开了这个包"
+			"empty": "<color=green>提示：</color>这个包是空的...",
+			"opened": "<color=green>提示：</color>你已经打开了这个包"
 		},
 		"blueprints": {
-			"cannotcreate": "<color=green>h-Tips：</color>无法创建施工蓝图",
-			"cannotplace": "<color=green>h-Tips：</color>无法放置施工蓝图",
-			"created": "<color=green>h-Tips：</color>施工蓝图已创建！\n\n你现在可以在蓝图桌处制作它了！",
-			"missingblueprinttable": "<color=green>h-Tips：</color>你附近没有蓝图桌！",
+			"cannotcreate": "<color=green>提示：</color>无法创建施工蓝图",
+			"cannotplace": "<color=green>提示：</color>无法放置施工蓝图",
+			"created": "<color=green>提示：</color>施工蓝图已创建！\n\n你现在可以在蓝图桌处制作它了！",
+			"missingblueprinttable": "<color=green>提示：</color>你附近没有蓝图桌！",
 			"terrainalwaysgrid": "如果蓝图包含地形，则无法关闭网格",
-			"terrainnopivots": "<color=green>h-Tips：</color>如果施工蓝图包含任何地形，你就无法使用模块化捕捉！"
+			"terrainnopivots": "<color=green>提示：</color>如果施工蓝图包含任何地形，你就无法使用模块化捕捉！"
 		},
 		"building": {
 			"flipped": "元素已翻转",
@@ -2913,40 +2913,40 @@
 			"rightclick": "鼠标右击以脱掉衣服"
 		},
 		"consume": {
-			"apple": "<color=green>h-Tips：</color>你吃了一个苹果",
+			"apple": "<color=green>提示：</color>你吃了一个苹果",
 			"bacon": "<color=red>你食用了生培根。不确定这是否健康...</color>",
 			"baconburned": "<color=red>你食用了烤焦的培根</color>",
 			"baconcooked": "你食用了培根",
 			"bacondried": "你食用了培根干",
-			"bandage": "<color=green>h-Tips：</color>你已经包扎了伤口",
-			"bellpepper": "<color=green>h-Tips：</color>你吃了一个甜椒",
+			"bandage": "<color=green>提示：</color>你已经包扎了伤口",
+			"bellpepper": "<color=green>提示：</color>你吃了一个甜椒",
 			"blobfishmeat": "你食用了生水滴鱼肉",
 			"blobfishmeatbaked": "你食用了烤水滴鱼肉",
 			"blobfishmeatburned": "你食用了烤焦的水滴鱼肉",
 			"blobfishmeatcooked": "你食用了熟水滴鱼肉",
 			"blobfishmeatdried": "你食用了水滴鱼肉干",
-			"breadhalf": "<color=green>h-Tips：</color>你吃了一些面包",
-			"candy": "<color=green>h-Tips：</color>你吃了一些糖果",
-			"candycane": "<color=green>h-Tips：</color>你吃了一根拐杖糖",
+			"breadhalf": "<color=green>提示：</color>你吃了一些面包",
+			"candy": "<color=green>提示：</color>你吃了一些糖果",
+			"candycane": "<color=green>提示：</color>你吃了一根拐杖糖",
 			"carp": "你生吃了鲤鱼",
 			"carpbaked": "你食用了烤鲤鱼",
 			"carpburned": "你食用了烤焦的鲤鱼",
 			"carpcooked": "你食用了熟鲤鱼",
 			"carpdried": "你食用了鲤鱼干",
-			"carrot": "<color=green>h-Tips：</color>你吃了一根胡萝卜",
-			"carrotslices": "<color=green>h-Tips：</color>你吃了一些胡萝卜片",
+			"carrot": "<color=green>提示：</color>你吃了一根胡萝卜",
+			"carrotslices": "<color=green>提示：</color>你吃了一些胡萝卜片",
 			"catfish": "你生吃了鲶鱼",
 			"catfishbaked": "你食用了烤鲶鱼",
 			"catfishburned": "你食用了烤焦的鲶鱼",
 			"catfishcooked": "你食用了熟鲶鱼",
 			"catfishdried": "你食用了鲶鱼干",
-			"chili": "<color=green>h-Tips：</color>你吃了一个红辣椒",
-			"cookie": "<color=green>h-Tips：</color>你吃了一块美味的饼干",
-			"corncob": "<color=green>h-Tips：</color>你吃了一穗玉米",
+			"chili": "<color=green>提示：</color>你吃了一个红辣椒",
+			"cookie": "<color=green>提示：</color>你吃了一块美味的饼干",
+			"corncob": "<color=green>提示：</color>你吃了一穗玉米",
 			"corncobcooked": "你食用了烤玉米棒",
 			"corncoburned": "<color=red>你食用了烤焦的玉米棒</color>",
 			"eggcooked": "你食用了鸡蛋",
-			"gingerroot": "<color=green>h-Tips：</color>你吃了一根生的姜根",
+			"gingerroot": "<color=green>提示：</color>你吃了一根生的姜根",
 			"herring": "你生吃了鲱鱼",
 			"herringbaked": "你食用了烤鲱鱼",
 			"herringburned": "你食用了烤焦的鲱鱼",
@@ -2957,10 +2957,10 @@
 			"koiburned": "你食用了烤焦的锦鲤",
 			"koicooked": "你食用了熟锦鲤",
 			"koidried": "你食用了锦鲤干",
-			"lettuce": "<color=green>h-Tips：</color>你吃了一些生菜",
-			"lettuceleaves": "<color=green>h-Tips：</color>你吃了一些生菜叶",
-			"medkit": "<color=green>h-Tips：</color>你使用了一个急救箱来治疗伤口",
-			"pear": "<color=green>h-Tips：</color>你吃了一个梨",
+			"lettuce": "<color=green>提示：</color>你吃了一些生菜",
+			"lettuceleaves": "<color=green>提示：</color>你吃了一些生菜叶",
+			"medkit": "<color=green>提示：</color>你使用了一个急救箱来治疗伤口",
+			"pear": "<color=green>提示：</color>你吃了一个梨",
 			"perch": "你生吃了鲈鱼",
 			"perchbaked": "你食用了烤鲈鱼",
 			"perchburned": "你食用了烤焦的鲈鱼",
@@ -2971,13 +2971,13 @@
 			"plaiceburned": "你食用了烤焦的比目鱼",
 			"plaicecooked": "你食用了熟比目鱼",
 			"plaicedried": "你食用了比目鱼干",
-			"potato": "<color=green>h-Tips：</color>你吃了一个生土豆",
+			"potato": "<color=green>提示：</color>你吃了一个生土豆",
 			"potatoburned": "<color=red>你食用了烤焦的土豆</color>",
 			"potatocooked": "你食用了烤土豆",
-			"pumpkinslice": "<color=green>h-Tips：</color>你吃了一块南瓜",
+			"pumpkinslice": "<color=green>提示：</color>你吃了一块南瓜",
 			"pumpkinsliceburned": "<color=red>你食用了烤焦的南瓜片</color>",
 			"pumpkinslicecooked": "你食用了烤南瓜片",
-			"ripepear": "<color=green>h-Tips：</color>你吃了一个熟透的梨...",
+			"ripepear": "<color=green>提示：</color>你吃了一个熟透的梨...",
 			"salmonsteak": "你生吃了三文鱼排",
 			"salmonsteakbaked": "你食用了烤三文鱼排",
 			"salmonsteakburned": "你食用了烤焦的三文鱼排",
@@ -2993,13 +2993,13 @@
 			"shrimpburned": "你食用了烤焦的虾",
 			"shrimpcooked": "你食用了熟虾",
 			"shrimpdried": "你食用了虾干",
-			"splint": "<color=green>h-Tips：</color>你已经用夹板固定了骨折的腿\n\n在骨头完全愈合之前要小心！",
-			"steak": "<color=green>h-Tips：</color><color=red>你吃了一块生肉。不确定这是否健康...</color>",
-			"steakburned": "<color=green>h-Tips：</color><color=red>你吃了一块烤焦的牛排</color>",
-			"steakcooked": "<color=green>h-Tips：</color>你吃了一块牛排",
-			"steakdried": "<color=green>h-Tips：</color>你吃了一块干牛排",
-			"sugarbeet": "<color=green>h-Tips：</color>你吃了一个甜菜",
-			"tomato": "<color=green>h-Tips：</color>你吃了一个西红柿",
+			"splint": "<color=green>提示：</color>你已经用夹板固定了骨折的腿\n\n在骨头完全愈合之前要小心！",
+			"steak": "<color=green>提示：</color><color=red>你吃了一块生肉。不确定这是否健康...</color>",
+			"steakburned": "<color=green>提示：</color><color=red>你吃了一块烤焦的牛排</color>",
+			"steakcooked": "<color=green>提示：</color>你吃了一块牛排",
+			"steakdried": "<color=green>提示：</color>你吃了一块干牛排",
+			"sugarbeet": "<color=green>提示：</color>你吃了一个甜菜",
+			"tomato": "<color=green>提示：</color>你吃了一个西红柿",
 			"trout": "你生吃了鳟鱼",
 			"troutbaked": "你食用了烤鳟鱼",
 			"troutburned": "你食用了烤焦的鳟鱼",
@@ -3015,33 +3015,33 @@
 			"turtlemeatburned": "你食用了烤焦的龟肉",
 			"turtlemeatcooked": "你食用了熟龟肉",
 			"turtlemeatdried": "你食用了龟肉干",
-			"water": "<color=green>h-Tips：</color>你喝了一些水",
-			"watermelon": "<color=green>h-Tips：</color>你吃了一整个西瓜！",
-			"watermelonslice": "<color=green>h-Tips：</color>你吃了一片西瓜"
+			"water": "<color=green>提示：</color>你喝了一些水",
+			"watermelon": "<color=green>提示：</color>你吃了一整个西瓜！",
+			"watermelonslice": "<color=green>提示：</color>你吃了一片西瓜"
 		},
 		"conversion": {
-			"error": "<color=green>h-Tips：</color>世界转换错误",
-			"failed": "<color=green>h-Tips：</color>世界转换失败！",
-			"info": "<color=green>h-Tips：</color>世界转换信息",
-			"restart": "<color=green>h-Tips：</color>需要重新启动游戏以完成世界转换。游戏现在将重新启动...",
-			"toonew": "<color=green>h-Tips：</color>这个世界比当前游戏版本更新，因此无法加载",
-			"tooold": "<color=green>h-Tips：</color>很遗憾，这个世界太旧了，无法用当前版本加载",
-			"unknown": "<color=green>h-Tips：</color>出问题了\n（{0}）"
+			"error": "<color=green>提示：</color>世界转换错误",
+			"failed": "<color=green>提示：</color>世界转换失败！",
+			"info": "<color=green>提示：</color>世界转换信息",
+			"restart": "<color=green>提示：</color>需要重新启动游戏以完成世界转换。游戏现在将重新启动...",
+			"toonew": "<color=green>提示：</color>这个世界比当前游戏版本更新，因此无法加载",
+			"tooold": "<color=green>提示：</color>很遗憾，这个世界太旧了，无法用当前版本加载",
+			"unknown": "<color=green>提示：</color>出问题了\n（{0}）"
 		},
-		"copiedtoclipboard": "<color=green>h-Tips：</color>已复制到剪贴板：{0}",
-		"copiedtoclipboard2": "<color=green>h-Tips：</color>已复制到剪贴板",
+		"copiedtoclipboard": "<color=green>提示：</color>已复制到剪贴板：{0}",
+		"copiedtoclipboard2": "<color=green>提示：</color>已复制到剪贴板",
 		"corpse": {
-			"cannotloot": "<color=green>h-Tips：</color>你不能搜刮这具尸体",
-			"gutanimalwithknife": "<color=green>h-Tips：</color>用一把刀来肢解这具尸体",
-			"guttinganimal": "<color=green>h-Tips：</color>正在肢解动物...",
-			"identity": "<color=green>h-Tips：</color>他的名字是{0}",
-			"unknownidentity": "<color=green>h-Tips：</color>他的名字未知"
+			"cannotloot": "<color=green>提示：</color>你不能搜刮这具尸体",
+			"gutanimalwithknife": "<color=green>提示：</color>用一把刀来肢解这具尸体",
+			"guttinganimal": "<color=green>提示：</color>正在肢解动物...",
+			"identity": "<color=green>提示：</color>他的名字是{0}",
+			"unknownidentity": "<color=green>提示：</color>他的名字未知"
 		},
 		"crafting": {
-			"missingcraftingstation": "<color=green>h-Tips：</color>你附近没有合适的制作站！",
-			"missingingredients": "<color=green>h-Tips：</color>你的背包里没有所有必需的材料！",
-			"recipesunlocked": "设计师提醒：已解锁多个制作配方！",
-			"recipeunlocked": "设计师提醒：制作配方已解锁！",
+			"missingcraftingstation": "<color=green>提示：</color>你附近没有合适的制作站！",
+			"missingingredients": "<color=green>提示：</color>你的背包里没有所有必需的材料！",
+			"recipesunlocked": "提示：已解锁多个制作配方！",
+			"recipeunlocked": "提示：制作配方已解锁！",
 			"requiresadvancedworkbench": "你需要更先进的工作台来制作这个东西！"
 		},
 		"creative": {
@@ -3907,7 +3907,7 @@
 	},
 	"object": {
 		"alarmlight": {
-			"desc": "<color=green>h提示：</color>自带两个旋转光束，若涂刷其玻璃面可改变光照颜色",
+			"desc": "<color=green>提示：</color>自带两个旋转光束，若涂刷其玻璃面可改变光照颜色",
 			"name": "旋转信号灯"
 		},
 		"anchor": {
@@ -3917,11 +3917,11 @@
 			"name": "动物尸体"
 		},
 		"animalfeeder": {
-			"desc": "<color=green>h提示：</color>可用于吸引野生动物",
+			"desc": "<color=green>提示：</color>可用于吸引野生动物",
 			"name": "动物喂食器"
 		},
 		"anvil": {
-			"desc": "<color=green>h提示：</color>用于加工锭状物",
+			"desc": "<color=green>提示：</color>用于加工锭状物",
 			"name": "铁砧"
 		},
 		"armoredchest": {
@@ -3943,7 +3943,7 @@
 			"name": "鸟屋"
 		},
 		"blueprinttable": {
-			"desc": "<color=green>h提示：</color>可让你整理和选择施工蓝图",
+			"desc": "<color=green>提示：</color>可让你整理和选择施工蓝图",
 			"name": "蓝图桌"
 		},
 		"boatwreck": {
@@ -3965,22 +3965,22 @@
 			"name": "肋骨笼"
 		},
 		"bonestatue": {
-			"desc": "<color=green>h提示：</color>一座由骨头和头骨制成的诡异雕像",
+			"desc": "<color=green>提示：</color>一座由骨头和头骨制成的诡异雕像",
 			"name": "骨头雕像"
 		},
 		"bonethrone": {
-			"desc": "<color=green>h提示：</color>一座由骨头制成的诡异王座",
+			"desc": "<color=green>提示：</color>一座由骨头制成的诡异王座",
 			"name": "骨头王座"
 		},
 		"bonetorch": {
 			"name": "骨头火把"
 		},
 		"bonfire": {
-			"desc": "<color=green>h提示：</color>大火，从远处就能看见。能提供温暖、光亮和安全感",
+			"desc": "<color=green>提示：</color>大火，从远处就能看见。能提供温暖、光亮和安全感",
 			"name": "篝火"
 		},
 		"brazier": {
-			"desc": "<color=green>h提示：</color>提供温暖和光亮",
+			"desc": "<color=green>提示：</color>提供温暖和光亮",
 			"name": "火盆"
 		},
 		"brokencarriage": {
@@ -4009,11 +4009,11 @@
 			"name": "日历"
 		},
 		"campfire": {
-			"desc": "<color=green>h提示：</color>提供温暖、光亮和安全感。也可用于烤肉",
+			"desc": "<color=green>提示：</color>提供温暖、光亮和安全感。也可用于烤肉",
 			"name": "营火"
 		},
 		"campfiregrill": {
-			"desc": "<color=green>h提示：</color>一个烤架。放在营火上可烤肉",
+			"desc": "<color=green>提示：</color>一个烤架。放在营火上可烤肉",
 			"name": "烤肉架"
 		},
 		"candle": {
@@ -4035,15 +4035,15 @@
 			"name": "椅子"
 		},
 		"chest1": {
-			"desc": "<color=green>h提示：</color>可用于存放物品",
+			"desc": "<color=green>提示：</color>可用于存放物品",
 			"name": "旧箱子"
 		},
 		"chest2": {
-			"desc": "<color=green>h提示：</color>可用于存放物品",
+			"desc": "<color=green>提示：</color>可用于存放物品",
 			"name": "旧箱子"
 		},
 		"chest3": {
-			"desc": "<color=green>h提示：</color>可上锁的箱子，可用于存放物品",
+			"desc": "<color=green>提示：</color>可上锁的箱子，可用于存放物品",
 			"name": "箱子"
 		},
 		"chest4": {
@@ -4053,7 +4053,7 @@
 			"name": "水手箱"
 		},
 		"chickencoop": {
-			"desc": "<color=green>h提示：</color>用于安全地饲养鸡，鸡可在其中下蛋",
+			"desc": "<color=green>提示：</color>用于安全地饲养鸡，鸡可在其中下蛋",
 			"name": "鸡舍"
 		},
 		"clock": {
@@ -4067,7 +4067,7 @@
 			"name": "建筑障碍物"
 		},
 		"cot": {
-			"desc": "<color=green>h提示：</color>一张露营床",
+			"desc": "<color=green>提示：</color>一张露营床",
 			"name": "简易床"
 		},
 		"crowdbarrier": {
@@ -4083,23 +4083,23 @@
 			"name": "残骸"
 		},
 		"decal": {
-			"desc": "<color=green>h提示：</color>类似于海报，但能贴合地面，若想在不平的表面投射图像，它很理想",
+			"desc": "<color=green>提示：</color>类似于海报，但能贴合地面，若想在不平的表面投射图像，它很理想",
 			"name": "贴花"
 		},
 		"doorglass1": {
-			"desc": "<color=green>h提示：</color>一扇现代玻璃门",
+			"desc": "<color=green>提示：</color>一扇现代玻璃门",
 			"name": "玻璃门"
 		},
 		"doorglass1b": {
-			"desc": "<color=green>h提示：</color>一扇带有细金属框架的现代玻璃门",
+			"desc": "<color=green>提示：</color>一扇带有细金属框架的现代玻璃门",
 			"name": "带框架玻璃门"
 		},
 		"doorglass2": {
-			"desc": "<color=green>h提示：</color>一扇现代玻璃门",
+			"desc": "<color=green>提示：</color>一扇现代玻璃门",
 			"name": "玻璃门"
 		},
 		"doorglass2b": {
-			"desc": "<color=green>h提示：</color>一扇带有细金属框架的现代玻璃门",
+			"desc": "<color=green>提示：</color>一扇带有细金属框架的现代玻璃门",
 			"name": "带框架玻璃门"
 		},
 		"doormetal1": {
@@ -4115,7 +4115,7 @@
 			"name": "玻璃木门"
 		},
 		"doormodern3": {
-			"desc": "<color=green>h提示：</color>一扇现代门",
+			"desc": "<color=green>提示：</color>一扇现代门",
 			"name": "白色门"
 		},
 		"doorold1": {
@@ -4153,7 +4153,7 @@
 			"name": "壁炉"
 		},
 		"floodlight": {
-			"desc": "<color=green>h提示：</color>带有内置电池的多功能泛光灯，能提供极亮的光线",
+			"desc": "<color=green>提示：</color>带有内置电池的多功能泛光灯，能提供极亮的光线",
 			"name": "泛光灯"
 		},
 		"fossilbone": {
@@ -4161,41 +4161,41 @@
 			"name": "化石骨头"
 		},
 		"frontdoorglass1": {
-			"desc": "<color=green>h提示：</color>一扇现代玻璃前门",
+			"desc": "<color=green>提示：</color>一扇现代玻璃前门",
 			"name": "玻璃前门"
 		},
 		"frontdoorglass2": {
-			"desc": "<color=green>h提示：</color>一扇现代玻璃前门",
+			"desc": "<color=green>提示：</color>一扇现代玻璃前门",
 			"name": "玻璃前门"
 		},
 		"furnace": {
-			"desc": "<color=green>h提示：</color>能让你将矿石熔炼成锭（有24个槽位）",
+			"desc": "<color=green>提示：</color>能让你将矿石熔炼成锭（有24个槽位）",
 			"name": "熔炉"
 		},
 		"furnacebig": {
-			"desc": "<color=green>h提示：</color>能让你将矿石熔炼成锭，燃料消耗更高，但容量也特别大（有60个槽位）",
+			"desc": "<color=green>提示：</color>能让你将矿石熔炼成锭，燃料消耗更高，但容量也特别大（有60个槽位）",
 			"name": "大型熔炉"
 		},
 		"gift": {
-			"desc": "<color=green>h提示：</color>一份可放置在任何地方的礼物，里面可以放置物品",
+			"desc": "<color=green>提示：</color>一份可放置在任何地方的礼物，里面可以放置物品",
 			"name": "礼物"
 		},
 		"goldchest": {
 			"name": "金制箱子"
 		},
 		"gramophone": {
-			"desc": "<color=green>h提示：</color>一种用于播放音乐唱片的设备",
+			"desc": "<color=green>提示：</color>一种用于播放音乐唱片的设备",
 			"name": "留声机"
 		},
 		"grandfatherclock": {
 			"name": "落地大座钟"
 		},
 		"grinder": {
-			"desc": "<color=green>h提示：</color>用于研磨固体材料",
+			"desc": "<color=green>提示：</color>用于研磨固体材料",
 			"name": "石碾"
 		},
 		"grindstone": {
-			"desc": "<color=green>h提示：</color>一种磨刀石，可用于磨砺某些工具和武器（如剑），从而提升它们的属性",
+			"desc": "<color=green>提示：</color>一种磨刀石，可用于磨砺某些工具和武器（如剑），从而提升它们的属性",
 			"name": "磨刀石"
 		},
 		"guillotine": {
@@ -4206,7 +4206,7 @@
 			"name": "手推车"
 		},
 		"igloo": {
-			"desc": "<color=green>h提示：</color>用雪建造的落脚点",
+			"desc": "<color=green>提示：</color>用雪建造的落脚点",
 			"name": "冰屋"
 		},
 		"ironmaiden": {
@@ -4214,18 +4214,18 @@
 			"name": "铁处女"
 		},
 		"ironsign1": {
-			"desc": "<color=green>h提示：</color>一个用铁制成的悬挂标识，可以显示文字",
+			"desc": "<color=green>提示：</color>一个用铁制成的悬挂标识，可以显示文字",
 			"name": "悬挂式铁制标识牌"
 		},
 		"jackalbox": {
 			"name": "豺狼棺材"
 		},
 		"jackolantern": {
-			"desc": "<color=green>h提示：</color>一个雕刻过的南瓜，可在万圣节用作装饰",
+			"desc": "<color=green>提示：</color>一个雕刻过的南瓜，可在万圣节用作装饰",
 			"name": "南瓜灯"
 		},
 		"juicepress": {
-			"desc": "<color=green>h提示：</color>一种用于从水果和蔬菜中提取汁液的设备",
+			"desc": "<color=green>提示：</color>一种用于从水果和蔬菜中提取汁液的设备",
 			"name": "水果榨汁机"
 		},
 		"ladder": {
@@ -4244,21 +4244,21 @@
 			"name": "皮革沙发"
 		},
 		"leathertrunk": {
-			"desc": "<color=green>h提示：</color>方形且小巧，但有充足的储物空间",
+			"desc": "<color=green>提示：</color>方形且小巧，但有充足的储物空间",
 			"name": "皮革行李箱"
 		},
 		"lionhead": {
-			"desc": "<color=green>h提示：</color>一个用石材雕刻的狮子头",
+			"desc": "<color=green>提示：</color>一个用石材雕刻的狮子头",
 			"name": "狮子头雕像"
 		},
 		"lionhead_1": {
-			"desc": "<color=green>h提示：</color>一个用石材雕刻的狮子头，闭嘴的变体样式"
+			"desc": "<color=green>提示：</color>一个用石材雕刻的狮子头，闭嘴的变体样式"
 		},
 		"logbench": {
 			"name": "原木长椅"
 		},
 		"loom": {
-			"desc": "<color=green>h提示：</color>编织衣物所需的工具",
+			"desc": "<color=green>提示：</color>编织衣物所需的工具",
 			"name": "织布机"
 		},
 		"magiclamp": {
@@ -4272,14 +4272,14 @@
 			"name": "井盖"
 		},
 		"masonryoven": {
-			"desc": "<color=green>h提示：</color>一个用石材制成的烤箱，可用于烘焙食物",
+			"desc": "<color=green>提示：</color>一个用石材制成的烤箱，可用于烘焙食物",
 			"name": "石制烤箱"
 		},
 		"mattress": {
 			"name": "床垫"
 		},
 		"meatdryer": {
-			"desc": "<color=green>h提示：</color>\n把肉挂上去，然后自然晾干/风干/暴晒生肉。\n这是一种保存肉的方式，但需要晾很久...",
+			"desc": "<color=green>提示：</color>\n把肉挂上去，然后自然晾干/风干/暴晒生肉。\n这是一种保存肉的方式，但需要晾很久...",
 			"name": "晾肉架"
 		},
 		"missingobject": {
@@ -4289,15 +4289,15 @@
 			"name": "物体"
 		},
 		"paperpress": {
-			"desc": "<color=green>h提示：</color>将破布变成纸",
+			"desc": "<color=green>提示：</color>将破布变成纸",
 			"name": "压纸机"
 		},
 		"piano": {
-			"desc": "<color=green>h提示：</color>一架可以用键盘弹奏的钢琴",
+			"desc": "<color=green>提示：</color>一架可以用键盘弹奏的钢琴",
 			"name": "钢琴"
 		},
 		"placard": {
-			"desc": "<color=green>h提示：</color>一张可以写上文字的大板子",
+			"desc": "<color=green>提示：</color>一张可以写上文字的大板子",
 			"name": "标语牌"
 		},
 		"plaque": {
@@ -4308,7 +4308,7 @@
 			"name": "移动厕所"
 		},
 		"poster": {
-			"desc": "<color=green>h提示：</color>一张海报，你可以用它从硬盘加载图像并放置在游戏世界中",
+			"desc": "<color=green>提示：</color>一张海报，你可以用它从硬盘加载图像并放置在游戏世界中",
 			"name": "海报"
 		},
 		"primitivechair": {
@@ -4319,29 +4319,29 @@
 			"name": "木箱(原始)"
 		},
 		"primitivedoor1": {
-			"desc": "<color=green>h提示：</color>一扇由木板条制成的简易门",
+			"desc": "<color=green>提示：</color>一扇由木板条制成的简易门",
 			"name": "木门(原始)"
 		},
 		"primitivedoor1b": {
-			"desc": "<color=green>h提示：</color>一扇由木板条制成的简易门",
+			"desc": "<color=green>提示：</color>一扇由木板条制成的简易门",
 			"name": "拱形木门(原始)"
 		},
 		"primitivefurnace": {
-			"desc": "<color=green>h提示：</color>能让你将矿石熔炼成锭，但容量有限（8个槽位）",
+			"desc": "<color=green>提示：</color>能让你将矿石熔炼成锭，但容量有限（8个槽位）",
 			"name": "熔炉(原始)"
 		},
 		"primitiveshelf": {
 			"name": "木架(原始)"
 		},
 		"primitiveshelter": {
-			"desc": "<color=green>h提示：</color>\n用简单的小木棍和树叶临时的苟窝(三角草棚)。\n你可以在临时里面睡觉并设置重生点，\n但也没必要一直用它苟着...",
+			"desc": "<color=green>提示：</color>\n用简单的小木棍和树叶临时的苟窝(三角草棚)。\n你可以在临时里面睡觉并设置重生点，\n但也没必要一直用它苟着...",
 			"name": "苟窝(三角草棚)"
 		},
 		"primitivetable": {
 			"name": "木桌(原始)"
 		},
 		"primitiveworkbench": {
-			"desc": "<color=green>h提示：</color>非常简单的工作台，用于制作基本工具。",
+			"desc": "<color=green>提示：</color>非常简单的工作台，用于制作基本工具。",
 			"name": "工作台(原始)"
 		},
 		"radiator": {
@@ -4359,66 +4359,66 @@
 			"name": "粗糙的棺材"
 		},
 		"safe": {
-			"desc": "<color=green>h提示：</color>一种几乎坚不可摧、可上锁的容器，用于存放贵重物品",
+			"desc": "<color=green>提示：</color>一种几乎坚不可摧、可上锁的容器，用于存放贵重物品",
 			"name": "保险箱"
 		},
 		"saloondoor": {
-			"desc": "<color=green>h提示：</color>一扇双向摆动的门",
+			"desc": "<color=green>提示：</color>一扇双向摆动的门",
 			"name": "沙龙门"
 		},
 		"santasleigh": {
 			"name": "圣诞老人的雪橇"
 		},
 		"scaffolding1": {
-			"desc": "<color=green>h提示：</color>一种临时性的、模块化的木结构，用于支撑建筑施工",
+			"desc": "<color=green>提示：</color>一种临时性的、模块化的木结构，用于支撑建筑施工",
 			"name": "脚手架"
 		},
 		"scaffolding1_frame": {
-			"desc": "<color=green>h提示：</color>木脚手架的框架",
+			"desc": "<color=green>提示：</color>木脚手架的框架",
 			"name": "脚手架（框架）"
 		},
 		"scaffolding1_platform": {
-			"desc": "<color=green>h提示：</color>木脚手架的上层平台",
+			"desc": "<color=green>提示：</color>木脚手架的上层平台",
 			"name": "脚手架（平台）"
 		},
 		"scaffolding1_railing": {
-			"desc": "<color=green>h提示：</color>一种可安装在脚手架上的可选栏杆",
+			"desc": "<color=green>提示：</color>一种可安装在脚手架上的可选栏杆",
 			"name": "脚手架栏杆"
 		},
 		"scaffolding1_ramp": {
-			"desc": "<color=green>h提示：</color>带有斜坡的木脚手架",
+			"desc": "<color=green>提示：</color>带有斜坡的木脚手架",
 			"name": "脚手架（斜坡）"
 		},
 		"scaffolding1_small": {
-			"desc": "<color=green>h提示：</color>木脚手架的缩小版",
+			"desc": "<color=green>提示：</color>木脚手架的缩小版",
 			"name": "小型脚手架"
 		},
 		"scaffolding1_small_ladder1": {
-			"desc": "<color=green>h提示：</color>带有开口舱门和梯子的小型木脚手架",
+			"desc": "<color=green>提示：</color>带有开口舱门和梯子的小型木脚手架",
 			"name": "小型脚手架（带梯子）"
 		},
 		"scaffolding1_small_ladder2": {
-			"desc": "<color=green>h提示：</color>带有开口舱门和梯子的小型木脚手架",
+			"desc": "<color=green>提示：</color>带有开口舱门和梯子的小型木脚手架",
 			"name": "小型脚手架B（带梯子）"
 		},
 		"scaffolding1_small_ladder3": {
-			"desc": "<color=green>h提示：</color>带有开口舱门的小型木脚手架",
+			"desc": "<color=green>提示：</color>带有开口舱门的小型木脚手架",
 			"name": "小型脚手架（开口舱门）"
 		},
 		"scaffounding1_small_ladder4": {
-			"desc": "<color=green>h提示：</color>带有开口舱门的小型木脚手架",
+			"desc": "<color=green>提示：</color>带有开口舱门的小型木脚手架",
 			"name": "小型脚手架B（开口舱门）"
 		},
 		"scaffolding1_small_railing": {
-			"desc": "<color=green>h提示：</color>一种可安装在脚手架上的可选栏杆",
+			"desc": "<color=green>提示：</color>一种可安装在脚手架上的可选栏杆",
 			"name": "小型脚手架栏杆"
 		},
 		"scaffolding1b": {
-			"desc": "<color=green>h提示：</color>一种临时性的、模块化的木结构，用于支撑建筑施工",
+			"desc": "<color=green>提示：</color>一种临时性的、模块化的木结构，用于支撑建筑施工",
 			"name": "脚手架（B）"
 		},
 		"scaffolding1b_small": {
-			"desc": "<color=green>h提示：</color>木脚手架的缩小版",
+			"desc": "<color=green>提示：</color>木脚手架的缩小版",
 			"name": "小型脚手架（B）"
 		},
 "seachest": {
@@ -4431,7 +4431,7 @@
 			"name": "粗布遮阳棚"
 		},
 		"sheltercanopy1b": {
-			"desc": "<color=green>h提示：</color>\n迷彩遮阳篷。可放你苟窝上。也可按需另作他用",
+			"desc": "<color=green>提示：</color>\n迷彩遮阳篷。可放你苟窝上。也可按需另作他用",
 			"name": "迷彩遮阳篷"
 		},
 		"shipswheel": {
@@ -4441,27 +4441,27 @@
 			"name": "沉船残骸"
 		},
 		"shootingtarget1": {
-			"desc": "<color=green>h提示：</color>用于练习射击很有用",
+			"desc": "<color=green>提示：</color>用于练习射击很有用",
 			"name": "射击标靶"
 		},
 		"shootingtarget2": {
-			"desc": "<color=green>h提示：</color>用于练习射击很有用",
+			"desc": "<color=green>提示：</color>用于练习射击很有用",
 			"name": "立式标靶"
 		},
 		"sign": {
-			"desc": "<color=green>h提示：</color>一个简单的木制标识牌，可显示文字",
+			"desc": "<color=green>提示：</color>一个简单的木制标识牌，可显示文字",
 			"name": "标识牌"
 		},
 		"sign1": {
-			"desc": "<color=green>h提示：</color>一个小型木制标识牌，可显示文字",
+			"desc": "<color=green>提示：</color>一个小型木制标识牌，可显示文字",
 			"name": "小型木制标识牌"
 		},
 		"sign2": {
-			"desc": "<color=green>h提示：</color>一个木制标识牌，可显示文字",
+			"desc": "<color=green>提示：</color>一个木制标识牌，可显示文字",
 			"name": "木制标识牌"
 		},
 		"sign3": {
-			"desc": "<color=green>h提示：</color>一个站立式木制标识牌，可显示文字",
+			"desc": "<color=green>提示：</color>一个站立式木制标识牌，可显示文字",
 			"name": "站立式标识牌"
 		},
 		"silverchest": {
@@ -4471,7 +4471,7 @@
 			"name": "骷髅"
 		},
 		"skewer": {
-			"desc": "<color=green>h提示：</color>一根简单的木制烤肉签。放在营火上可烤肉",
+			"desc": "<color=green>提示：</color>一根简单的木制烤肉签。放在营火上可烤肉",
 			"name": "烤肉签"
 		},
 		"skull": {
@@ -4487,11 +4487,11 @@
 			"name": "头骨大门"
 		},
 		"skullgold": {
-			"desc": "<color=green>h提示：</color>看起来很珍贵！",
+			"desc": "<color=green>提示：</color>看起来很珍贵！",
 			"name": "金头骨"
 		},
 		"snowman": {
-			"desc": "<color=green>h提示：</color>一个雪雕",
+			"desc": "<color=green>提示：</color>一个雪雕",
 			"name": "雪人"
 		},
 		"soccergoal": {
@@ -4504,11 +4504,11 @@
 			"name": "蜘蛛网"
 		},
 		"spinningwheel": {
-			"desc": "<color=green>h提示：</color>用于将纤维或羊毛纺成纱线",
+			"desc": "<color=green>提示：</color>用于将纤维或羊毛纺成纱线",
 			"name": "纺车"
 		},
 		"standingtorch": {
-			"desc": "<color=green>h提示：</color>提供光亮，可放置在任何地方",
+			"desc": "<color=green>提示：</color>提供光亮，可放置在任何地方",
 			"name": "立地火把"
 		},
 		"stoneark": {
@@ -4522,18 +4522,18 @@
 			"name": "稻草床"
 		},
 		"streetlamp1": {
-			"desc": "<color=green>h提示：</color>一盏复古路灯",
+			"desc": "<color=green>提示：</color>一盏复古路灯",
 			"name": "路灯"
 		},
 		"table": {
 			"name": "桌子"
 		},
 		"tanningrack": {
-			"desc": "<color=green>h提示：</color>先准备一把小刀，然后把各种动物皮或毛皮放在架子上，然后使用小刀，就可以鞣制成皮革。",
+			"desc": "<color=green>提示：</color>先准备一把小刀，然后把各种动物皮或毛皮放在架子上，然后使用小刀，就可以鞣制成皮革。",
 			"name": "鞣制架(刮皮)"
 		},
 		"technicalblock": {
-			"desc": "<color=green>h提示：</color>一种单色、始终均匀发光的物块，没有阴影且不投射阴影",
+			"desc": "<color=green>提示：</color>一种单色、始终均匀发光的物块，没有阴影且不投射阴影",
 			"name": "技术物块"
 		},
 		"teddy": {
@@ -4546,15 +4546,15 @@
 			"name": "粗制帐篷（小）"
 		},
 		"tentmodern": {
-			"desc": "<color=green>h提示：</color>可供两人使用的帐篷，可让你睡觉并设置出生点",
+			"desc": "<color=green>提示：</color>可供两人使用的帐篷，可让你睡觉并设置出生点",
 			"name": "现代帐篷"
 		},
 		"tentsmall": {
-			"desc": "<color=green>h提示：</color>可供一人使用的帐篷，可让你睡觉并设置出生点",
+			"desc": "<color=green>提示：</color>可供一人使用的帐篷，可让你睡觉并设置出生点",
 			"name": "小帐篷"
 		},
 		"text": {
-			"desc": "<color=green>h提示：</color>一个透明的标识牌，其中只有文本可见。",
+			"desc": "<color=green>提示：</color>一个透明的标识牌，其中只有文本可见。",
 			"name": "文本"
 		},
 		"thronestone": {
@@ -4572,19 +4572,19 @@
 			"name": "拷问架"
 		},
 		"trapdoor": {
-			"desc": "<color=green>h提示：</color>可以连接到某些脚手架的活板门。",
+			"desc": "<color=green>提示：</color>可以连接到某些脚手架的活板门。",
 			"name": "活板门"
 		},
 		"trashcan1": {
-			"desc": "<color=green>h提示：</color>用于处理您不再需要的物品。",
+			"desc": "<color=green>提示：</color>用于处理您不再需要的物品。",
 			"name": "垃圾桶"
 		},
 		"trashcan2": {
-			"desc": "<color=green>h提示：</color>用于处理您不再需要的物品。",
+			"desc": "<color=green>提示：</color>用于处理您不再需要的物品。",
 			"name": "垃圾桶(金属)"
 		},
 		"trashcan3": {
-			"desc": "<color=green>h提示：</color>用于处理您不再需要的物品。",
+			"desc": "<color=green>提示：</color>用于处理您不再需要的物品。",
 			"name": "小垃圾桶"
 		},
 		"trophybear": {
@@ -4615,7 +4615,7 @@
 			"name": "奖杯（狼）"
 		},
 		"trough": {
-			"desc": "<color=green>h提示：</color>一个可以装满水的容器。当放在室外时，可以被雨水填满。",
+			"desc": "<color=green>提示：</color>一个可以装满水的容器。当放在室外时，可以被雨水填满。",
 			"name": "食槽"
 		},
 		"tub": {
@@ -4638,7 +4638,7 @@
 			"name": "瞭望塔（被摧毁的）"
 		},
 		"weathervane": {
-			"desc": "<color=green>h提示：</color>显示当前风向。",
+			"desc": "<color=green>提示：</color>显示当前风向。",
 			"name": "风向标"
 		},
 		"wickerchest": {
@@ -4648,11 +4648,11 @@
 			"name": "棚屋"
 		},
 		"woodenbarrel": {
-			"desc": "<color=green>h提示：</color>可用于存放物品。",
+			"desc": "<color=green>提示：</color>可用于存放物品。",
 			"name": "木桶"
 		},
 		"woodenbarrelopen": {
-			"desc": "<color=green>h提示：</color>一个可以装满水的容器。",
+			"desc": "<color=green>提示：</color>一个可以装满水的容器。",
 			"name": "木桶（打开）"
 		},
 		"woodencrate": {
@@ -4663,11 +4663,11 @@
 			"name": "橱柜"
 		},
 		"workbench": {
-			"desc": "<color=green>h提示：</color>标准工作台，用于制作常用工具。",
+			"desc": "<color=green>提示：</color>标准工作台，用于制作常用工具。",
 			"name": "工作台"
 		},
 		"workbenchmodern": {
-			"desc": "<color=green>h提示：</color>现代工作台，用于制作现代工具。",
+			"desc": "<color=green>提示：</color>现代工作台，用于制作现代工具。",
 			"name": "现代工作台"
 		},
 		"xmastree": {
@@ -5480,7 +5480,7 @@
 				"craftingcontainer": {
 					"centercontainer": {
 						"headercontainer": {
-							"header": "设计师定做版：制作清单"
+							"header": "设计师汉化版：制作清单"
 						}
 					},
 					"rightcontainer": {
@@ -5809,11 +5809,11 @@
 			},
 			"constructions": {
 				"adaptto": "Adapts the size and rotation of the construction element to the element in the world you're currently looking at",
-				"button": "<color=green>h-Tips：</color>按下以显示帮助",
+				"button": "<color=green>提示：</color>按下以显示帮助",
 				"context": "【径向菜单】按住以调出建筑径向菜单",
 				"flip": "【镜像/翻转建筑元素】",
 				"grid": "【网格系统 (开/关)】。\n没有网格时，您可以自由放置元素，否则它会自动捕捉到网格",
-				"header": "<align=left><size=150%>设计师手册-基建类</size>　<size=50%>已2024年9月12日，完成本游戏(Rising World)的界面汉化。个人汉化，切勿商用，尊重原创，拒绝盗版。@跑偏了的设计师｜航拍调色 <u>https://v.douyin.com/iDkRpfdJ/</u></size></align>",
+				"header": "<align=left><size=150%>设计师手册-基建类</size>　<size=50%>已2024年9月12日，完成本游戏(Rising World)的界面汉化。个人汉化，欢迎使用。@跑偏了的设计师｜航拍调色 <u>https://v.douyin.com/iDkRpfdJ/</u></size></align>",
 				"manual": "【手动定位 (开/关)】，即使用移动键移动元素的能力。\n在手动定位处于活动状态时，按住此按钮可旋转元素",
 				"modular": "【模块化锚点捕捉 (开/关)】，即元素自动捕捉到另一个元素",
 				"move": "【旋转对象】如果按下<color=#D164FF>缩放按钮</color>，则改为沿<color=green>X</color>、<color=#5C8EFF>Y</color>和<color=red>Z</color>轴缩放元素。\n如果<color=#BFFBA5>表面编辑</color>处于活动状态，这仅移动或缩放元素的上侧",
@@ -6799,9 +6799,9 @@
 			"creationdate": "上传日期",
 			"creationdateformat": "yyyy-MM-dd  hh:mm tt",
 			"message": {
-				"deleteimage": "<color=green>h-Tips：</color>你真的想要删除这张图像吗？这也会删除所有使用此图像的海报。",
+				"deleteimage": "<color=green>提示：</color>你真的想要删除这张图像吗？这也会删除所有使用此图像的海报。",
 				"deleteimageheader": "删除图像",
-				"renameimage": "<color=green>h-Tips：</color>你真的想要重命名这张图像吗？",
+				"renameimage": "<color=green>提示：</color>你真的想要重命名这张图像吗？",
 				"renameimageheader": "重命名图像"
 			},
 			"ownimages": "自己的图像",
@@ -6816,7 +6816,7 @@
 					"topContainer": {
 						"centerContainer": {
 							"grid": {
-								"emptyposternotelabel": "<color=green>h-Tips：</color>尚未上传任何图像。\n\n点击下面的按钮从硬盘上传图像文件"
+								"emptyposternotelabel": "<color=green>提示：</color>尚未上传任何图像。\n\n点击下面的按钮从硬盘上传图像文件"
 							},
 							"headerContainer": {
 								"header": "自定义图像"
@@ -7143,7 +7143,7 @@
 					"taa": "TAA时域抗锯齿(专业版)",
 					"smaa": "SMAA空域抗锯齿(标准版)"
 				},
-				"antialiasingmode": "抗锯齿（设计师提醒：鼠标悬停可查看解释…）",
+				"antialiasingmode": "抗锯齿（提示：鼠标悬停可查看解释…）",
 				"borderless": "全屏窗口",
 				"chunk": "个标准物块单位",
 				"chunks": "个标准物块单位",
@@ -7155,7 +7155,7 @@
 				"depthoffieldquality": "景深质量",
 				"depthoffieldrange": "景深范围",
 				"display": "显示",
-				"displaymode": "显示模式    （设计师提醒：鼠标悬停可查看详细解释…）",
+				"displaymode": "显示模式    （提示：鼠标悬停可查看详细解释…）",
 				"dithering": "抖动",
 				"dlsssharpnessenabled": "DLSS 锐度",
 				"dynamicwater": "动态水",
@@ -7208,31 +7208,31 @@
 				"texturequalityconstructions": "建筑纹理质量",
 				"texturequalityterrain": "地形纹理质量",
 				"tooltips": {
-					"ambientocclusion": "<color=green>h提示：</color>决定了是否应激活环境光遮蔽。",
-					"anisotropicfilter": "<color=green>h提示：</color>各向异性过滤可减少在大角度观看时纹理的 “模糊度”。",
+					"ambientocclusion": "<color=green>提示：</color>决定了是否应激活环境光遮蔽。",
+					"anisotropicfilter": "<color=green>提示：</color>各向异性过滤可减少在大角度观看时纹理的 “模糊度”。",
 					"antialiasingdisabledbyupscaler": "当DLSS或FSR启用时无效",
-					"antialiasingmode": "<color=green>h提示：</color>通俗来说抗锯齿锯齿技术就是让游戏画面的边缘细节处看起来不那么生硬，开启后看着会更舒服些。\n<color=yellow>FXAA快速抗锯齿</color>：仅对屏幕空间内做处理，因此是一种低配版的抗锯齿技术。相当于“抗锯齿Se/青春版；\n<color=orange>SMAA空域抗锯齿</color>：基于亚像素形态学做处理，因此是一种标配版抗锯齿技术。相当于“抗锯齿S/标准版；\n<color=orange>TAA时域抗锯齿</color>：基于多帧融合进行处理，因此是一种进阶版抗锯齿技术。相当于“抗锯齿Pro/专业版；\n<color=green>性能方面</color>：“FXAA”对性能几乎没有影响，TAA和SMAA对性能稍微影响那么一点点，因此可以视情况开到SMAA或TAA。",
-					"chunkhelp": "<color=green>h提示：</color>此设置在 Java 版本中相当于2{0}个物块。",
-					"chunkhelplabel": "<color=green>h提示：</color>1 个物块在 Java 版本中相当于 4 个物块（你当前设置为{0} ，等价于 {1} 个物块）",
-					"debris": "<color=green>h提示：</color>如果启用该功能，大多数元素在被摧毁时会产生物理碎片。",
-					"debrisconstructions": "<color=green>h提示：</color>确定摧毁建造元素时是否也应产生碎片。",
-					"decals": "<color=green>h提示：</color>决定了贴花（如弹孔或脚印）是否应该可见。",
-					"depthoffield": "<color=green>h提示：</color>对远处的地形和物体应用轻微模糊效果。",
-					"displaymode": "<color=green>h提示：</color>显示模式： \n\n<color=orange>{0}：游戏以独占全屏模式运行\n{1}：游戏在无边框全屏窗口中运行（推荐设置）。此设置在切换到桌面时可能会有所帮助\n{2}：游戏在普通窗口中运行。窗口的大小取决于分辨率</color>",
-					"dithering": "<color=green>h提示：</color>仅在需要减少“色阶断层”时启用此项。",
-					"dynamicwater": "<color=green>h提示：</color>决定了水是否应该是动态的（流动的）。如果禁用此选项，水将总是静态的。",
-					"filmgrain": "<color=green>h提示：</color>如果启用，将会看到一种细微的胶片颗粒效果。",
-					"framelimiter": "<color=green>h提示：</color>限制最大帧率（每秒回显的帧数，即：FPS）。",
+					"antialiasingmode": "<color=green>提示：</color>通俗来说抗锯齿锯齿技术就是让游戏画面的边缘细节处看起来不那么生硬，开启后看着会更舒服些。\n<color=yellow>FXAA快速抗锯齿</color>：仅对屏幕空间内做处理，因此是一种低配版的抗锯齿技术。相当于“抗锯齿Se/青春版；\n<color=orange>SMAA空域抗锯齿</color>：基于亚像素形态学做处理，因此是一种标配版抗锯齿技术。相当于“抗锯齿S/标准版；\n<color=orange>TAA时域抗锯齿</color>：基于多帧融合进行处理，因此是一种进阶版抗锯齿技术。相当于“抗锯齿Pro/专业版；\n<color=green>性能方面</color>：“FXAA”对性能几乎没有影响，TAA和SMAA对性能稍微影响那么一点点，因此可以视情况开到SMAA或TAA。",
+					"chunkhelp": "<color=green>提示：</color>此设置在 Java 版本中相当于2{0}个物块。",
+					"chunkhelplabel": "<color=green>提示：</color>1 个物块在 Java 版本中相当于 4 个物块（你当前设置为{0} ，等价于 {1} 个物块）",
+					"debris": "<color=green>提示：</color>如果启用该功能，大多数元素在被摧毁时会产生物理碎片。",
+					"debrisconstructions": "<color=green>提示：</color>确定摧毁建造元素时是否也应产生碎片。",
+					"decals": "<color=green>提示：</color>决定了贴花（如弹孔或脚印）是否应该可见。",
+					"depthoffield": "<color=green>提示：</color>对远处的地形和物体应用轻微模糊效果。",
+					"displaymode": "<color=green>提示：</color>显示模式： \n\n<color=orange>{0}：游戏以独占全屏模式运行\n{1}：游戏在无边框全屏窗口中运行（推荐设置）。此设置在切换到桌面时可能会有所帮助\n{2}：游戏在普通窗口中运行。窗口的大小取决于分辨率</color>",
+					"dithering": "<color=green>提示：</color>仅在需要减少“色阶断层”时启用此项。",
+					"dynamicwater": "<color=green>提示：</color>决定了水是否应该是动态的（流动的）。如果禁用此选项，水将总是静态的。",
+					"filmgrain": "<color=green>提示：</color>如果启用，将会看到一种细微的胶片颗粒效果。",
+					"framelimiter": "<color=green>提示：</color>限制最大帧率（每秒回显的帧数，即：FPS）。",
 					"gpuresidentdrawer": "启用或禁用Unity的GPU常驻绘制器。启用可提升性能，但如果遇到任何问题，可以尝试禁用它",
-					"grassocclusion": "<color=green>h提示：</color>草类遮挡可以防止草丛透过家具或建筑构件等物体被看见。",
-					"keepdistantbuildingsvisible": "<color=green> 设计师说明：</color>如果启用，建筑物（一旦生成一次之后）将在最大可视距离之外仍然可见，不受建筑物可视距离设置的影响。",
-					"lodbias": "<color=green>h提示：</color>决定了某些物体（如植物）的高细节版本应该保持可见的时长（取决于它们的距离）。\n 较低的值会使低细节（细节层次）版本更早地显示出来。",
-					"lodfade": "<color=green>h提示：</color>如果启用，在切换细节层次（LOD）级别时将会有一个平滑的交叉淡入淡出效果。",
-					"maxdebris": "<color=green>h提示：</color>决定世界中碎片的总量。需要注意的是，这不是指单个碎片部分，而是按物体来计数。\n更准确地说，这决定了可以同时在世界中生成的碎片（物体）数量。",
-					"maxlights": "<color=green>h提示：</color>决定游戏同时渲染的最大灯光数量。",
-					"monitor": "<color=green>h提示：</color>如果连接了多个显示器，此项决定了会使用哪一个显示器。",
-					"motionblur": "<color=green>h提示：</color>如果你不喜欢动态模糊，可以考虑仅禁用 “相机抖动(Camera Motion)”\n—— 这会针对相机移动禁用动态模糊， 但快速移动的物体仍会有较好的模糊效果。",
-					"motionblurcamera": "<color=green>h提示：</color>如果启用，动态模糊也会应用于相机移动 —— 否则它仅应用于快速移动的物体。\n 如果你不喜欢动态模糊，可以考虑保持其启用状态但仅禁用 “相机抖动(Camera Motion)”。",
+					"grassocclusion": "<color=green>提示：</color>草类遮挡可以防止草丛透过家具或建筑构件等物体被看见。",
+					"keepdistantbuildingsvisible": "<color=green> 提示：</color>如果启用，建筑物（一旦生成一次之后）将在最大可视距离之外仍然可见，不受建筑物可视距离设置的影响。",
+					"lodbias": "<color=green>提示：</color>决定了某些物体（如植物）的高细节版本应该保持可见的时长（取决于它们的距离）。\n 较低的值会使低细节（细节层次）版本更早地显示出来。",
+					"lodfade": "<color=green>提示：</color>如果启用，在切换细节层次（LOD）级别时将会有一个平滑的交叉淡入淡出效果。",
+					"maxdebris": "<color=green>提示：</color>决定世界中碎片的总量。需要注意的是，这不是指单个碎片部分，而是按物体来计数。\n更准确地说，这决定了可以同时在世界中生成的碎片（物体）数量。",
+					"maxlights": "<color=green>提示：</color>决定游戏同时渲染的最大灯光数量。",
+					"monitor": "<color=green>提示：</color>如果连接了多个显示器，此项决定了会使用哪一个显示器。",
+					"motionblur": "<color=green>提示：</color>如果你不喜欢动态模糊，可以考虑仅禁用 “相机抖动(Camera Motion)”\n—— 这会针对相机移动禁用动态模糊， 但快速移动的物体仍会有较好的模糊效果。",
+					"motionblurcamera": "<color=green>提示：</color>如果启用，动态模糊也会应用于相机移动 —— 否则它仅应用于快速移动的物体。\n 如果你不喜欢动态模糊，可以考虑保持其启用状态但仅禁用 “相机抖动(Camera Motion)”。",
 					"performance": {
 						"big": "很大",
 						"huge": "非常大",
@@ -7242,33 +7242,33 @@
 						"none": "无影响",
 						"small": "很小"
 					},
-					"refractions": "<color=green>h提示：</color>确定折射/扭曲效果是作用到玻璃上还是水上。",
-					"resolution": "<color=green>h提示：</color>游戏窗口的分辨率。因此为获得最佳效果，请将分辨率设置为桌面分辨率。",
-					"resolutionlabel": "<color=green>h-Tips：</color>你当前显示器的原生分辨率为{0}x{1}px",
-					"resolutionscale": "<color=green>h提示：</color>降低此值可让您在不改变实际分辨率的情况下以更低的分辨率渲染游戏。\n因此除非是很卡时你再降低该值，否则不建议。",
+					"refractions": "<color=green>提示：</color>确定折射/扭曲效果是作用到玻璃上还是水上。",
+					"resolution": "<color=green>提示：</color>游戏窗口的分辨率。因此为获得最佳效果，请将分辨率设置为桌面分辨率。",
+					"resolutionlabel": "<color=green>提示：</color>你当前显示器的原生分辨率为{0}x{1}px",
+					"resolutionscale": "<color=green>提示：</color>降低此值可让您在不改变实际分辨率的情况下以更低的分辨率渲染游戏。\n因此除非是很卡时你再降低该值，否则不建议。",
 					"roughrefractions": "确定是否应启用模糊/粗糙折射（例如在磨砂玻璃上）",
-					"screenspacereflections": "<color=green>h提示：</color>基础反射。这只能反射当前屏幕上可见的物体。这对于较小的反射（如水坑反射）特别有用。",
-					"shadowquality": "<color=green>h提示：</color>决定整体阴影质量，即阴影贴图的分辨率。",
-					"shadows": "<color=green>h提示：</color>决定灯光是否投射阴影。",
-					"shadowsgrass": "<color=green>h提示：</color>决定草是否应该投射阴影。这一设置对于游戏场景的光影效果有着重要影响。\n如果开启此选项，草在光照下会产生阴影，使得场景更加真实，但可能会对性能产生一定的影响，因为计算阴影需要额外的资源。\n如果关闭，草将不会产生阴影，场景的真实感可能会稍差一些，但游戏性能也许会得到一定程度的提升，特别是在草丛较多的场景中这种性能差异会更明显。",
-					"shadowsterrain": "<color=green>h提示：</color>决定地形是否应该投射阴影。建议保持此设置为启用状态。\n启用该设置能让地形在光照条件下产生符合现实光影规律的阴影效果，使整个游戏场景看起来更加真实、自然，增强玩家的沉浸感。\n虽然保持其启用可能会在一定程度上占用计算资源，但通常带来的视觉提升是比较值得的，除非遇到严重的性能问题需要考虑关闭它来优化性能表现。",
-					"softparticles": "<color=green>h提示：</color>如果启用，粒子在与物体相交时会有平滑的边界。",
+					"screenspacereflections": "<color=green>提示：</color>基础反射。这只能反射当前屏幕上可见的物体。这对于较小的反射（如水坑反射）特别有用。",
+					"shadowquality": "<color=green>提示：</color>决定整体阴影质量，即阴影贴图的分辨率。",
+					"shadows": "<color=green>提示：</color>决定灯光是否投射阴影。",
+					"shadowsgrass": "<color=green>提示：</color>决定草是否应该投射阴影。这一设置对于游戏场景的光影效果有着重要影响。\n如果开启此选项，草在光照下会产生阴影，使得场景更加真实，但可能会对性能产生一定的影响，因为计算阴影需要额外的资源。\n如果关闭，草将不会产生阴影，场景的真实感可能会稍差一些，但游戏性能也许会得到一定程度的提升，特别是在草丛较多的场景中这种性能差异会更明显。",
+					"shadowsterrain": "<color=green>提示：</color>决定地形是否应该投射阴影。建议保持此设置为启用状态。\n启用该设置能让地形在光照条件下产生符合现实光影规律的阴影效果，使整个游戏场景看起来更加真实、自然，增强玩家的沉浸感。\n虽然保持其启用可能会在一定程度上占用计算资源，但通常带来的视觉提升是比较值得的，除非遇到严重的性能问题需要考虑关闭它来优化性能表现。",
+					"softparticles": "<color=green>提示：</color>如果启用，粒子在与物体相交时会有平滑的边界。",
 					"supersampling": "设置超采样/放大过滤器。这可以极大地提高性能",
-					"terraindistanceblend": "<color=green>h提示：</color>在 Unity 引擎中，地形距离混合(Terrain Distance Blend)主要用于控制地形在不同距离下的细节混合效果。\n通过调整它可以让地形在远处和近处的细节过渡更加自然，提升视觉效果。\n启用：地形纹理在远处看起来会好得多。",
-					"terrainheightblend": "<color=green>h提示：</color>启用：则地形上的不同纹理将通过考虑其高度来混合。\n禁用：纹理之间将只有一个基本的线性插值",
-					"texturequality": "<color=green>h提示：</color>此项决定全局纹理质量。只有在显存（VRAM）不足的情况下才应降低该值。\n降低此值可在一定程度上缓解显存不足带来的性能问题，但会导致游戏中的纹理细节有所损失。\n比如物体表面的材质纹理可能会变得模糊、不够清晰，进而影响游戏画面的整体观感。\n所以在显存能够满足需求的正常情况下，通常建议保持较高的全局纹理质量设定以获得更好的视觉体验。",
-					"texturequalityconstructions": "<color=green>h提示：</color>此项决定建筑物和建筑构件的纹理质量。\n<color=orange>警告：若设置较高的值会显著增加显存（VRAM）的使用量！</color>因此，显存较低的显卡不建议调至最高。",
-					"texturequalityterrain": "<color=green>h提示：</color>决定地形的纹理质量。警告：设置较高的值会增加显存（VRAM）的使用量。",
-					"viewdistance": "<color=green> 设计师说明：</color>此选项决定草和精细地块的可视距离细节。",
-					"viewdistancebuildings": "<color=green> 设计师说明：</color>这个选项用于确定建筑物和建筑结构的可视距离。它控制着玩家在游戏场景中多远能够看到这些建筑细节。\n如果可视距离设置得较短，远处的建筑物可能会在接近一定范围后才逐渐加载出细节；\n而设置得较长，则能让玩家在更远的地方就看到完整的建筑外观，但这可能会对性能产生一定的影响，因为需要加载和渲染更远距离的建筑细节。",
-					"viewdistancelod": "<color=green> 设计师说明：</color>这个设置决定了整体的可视距离。它会影响玩家在游戏世界中能看到多远的场景，包括地形、物体、建筑等各种元素。\n可视距离越长，玩家能看到的范围越广，但这可能会对游戏性能产生较大的压力，因为系统需要加载和渲染更远范围内的所有元素。\n如果你的设备性能有限，适当降低这个值可以提升游戏的运行流畅度；\n而如果设备性能强劲，较高的总可视距离能让你获得更广阔的视野和更身临其境的游戏体验。",
-					"volumetricclouds": "<color=green> 设计师说明：</color>如果启用此功能，游戏将会在游戏世界中渲染出立体的三维云朵。\n这些三维云朵会为游戏世界增添更加逼真的天空效果，使整个游戏场景的天空看起来更加生动、真实且富有层次感，进一步提升游戏的沉浸感。\n不过，渲染这种立体的三维云朵可能会占用一定的系统资源，对游戏的性能有一定的要求。\n如果设备性能欠佳，开启此项功能可能会导致游戏运行流畅度有所下降。",
-					"volumetriccloudsquality": "<color=green> 设计师说明：</color>决定立体云的渲染质量。如果你处于云层高度或云层之上，这一设置的效果会最为明显 —— 否则通常中等设置就足够了。\n值得注意的时：高质量的设置对性能有相当大的影响。\n也就是说，当把立体云渲染质量设为较高档位时，虽然在特定视角（如身处云层或其上方时）能呈现出更精细、逼真的云效果；\n但与此同时，这会大量占用系统资源，使得游戏运行速度可能变慢、出现卡顿等情况，尤其是在设备性能并非十分强劲的情况下更为突出。\n而中等设置则能在保证一定云效果的同时，相对较好地平衡性能与视觉呈现之间的关系。",
-					"volumetriclightfilter": "<color=green> 设计师说明：</color>如果启用此项，将会对体光应用一个平滑滤镜。\n这个平滑滤镜可以使体光的效果看起来更加柔和、自然，减少可能出现的生硬感或颗粒感；\n从而提升体光在游戏场景或其他相关场景中的视觉呈现效果，让其更符合整体的视觉氛围营造需求。\n不过，应用这个滤镜可能在一定程度上会对性能产生些许影响，具体取决于实际的应用场景和设备性能状况等因素。",
-					"volumetriclights": "<color=green> 设计师说明：</color>这个设置用于确定是否应该显示体光（比如上帝之光这类效果）。\n它决定了在游戏场景或相关场景中，像那种带有体积感、能够营造出特殊光影氛围的光线效果是否能够被玩家所看到。\n开启此设置，就能呈现出如光线穿过缝隙、从特定光源散射出具有层次感和立体感的光线等体光效果，增强场景的视觉效果和沉浸感；\n若关闭，则这些体光效果将不会显示出来，场景的光影表现会相对较为常规和平淡。",
-					"vsync": "<color=green> 设计师说明：</color>此设置会将帧率限制为您显示器的刷新率，目的是防止出现 “画面撕裂” 的情况。\n不过这可能会对性能产生一定的影响。因此：\n当把帧率限制在显示器刷新率时，能确保画面在显示过程中的连贯性和稳定性，\n从而让视觉感受更为流畅，避免因帧率和刷新率不同步而出现画面上下部分不同步、撕裂的糟糕视觉效果。\n但在某些情况下，比如设备性能本身较强，原本能输出更高帧率以实现更顺滑的画面过渡，\n而进行这样的限制后，可能就无法充分发挥设备在帧率输出方面的优势，从而在一定程度上影响到玩家所感受到的整体性能表现。",
-					"waterupdateinterval": "<color=green> 设计师说明：</color>这个选项用于确定游戏每<b>秒</b>应该重新计算水流的频率。\n<u>较高的值对性能有更高的影响。</u>\n也就是说，这个设置会直接关联到游戏中水流效果的更新频率。\n如果想要更频繁、更精准地呈现水流的动态变化，比如更真实地模拟水流的波动、流动方向等，就需要设置较高的值。\n但这样做会占用更多的系统资源，导致游戏性能下降，比如可能会出现卡顿或者帧率降低的情况。\n相反，较低的值会减少对性能的影响，但水流的动态效果可能就没有那么精细和实时了。",
-					"wind": "<color=green> 设计师说明：</color>这个设置是用于决定风的模式。\n风的模式可能包含多种不同的情况，例如风向（是固定方向的风，还是随机变化的风向）、风力大小（是轻柔微风，还是强劲的大风），\n以及风对游戏场景中物体的影响方式（比如只影响植被的摆动，还是也会影响飞行物体的轨迹等）。\n通过这个设置，开发者或玩家可以根据游戏的需求或自己的喜好来调整风的各种表现模式，\n让游戏世界中的风更加符合游戏的主题或场景氛围，比如在一个宁静的小镇场景可以设置微风模式，而在海上风暴场景则可以开启狂风模式。"
+					"terraindistanceblend": "<color=green>提示：</color>在 Unity 引擎中，地形距离混合(Terrain Distance Blend)主要用于控制地形在不同距离下的细节混合效果。\n通过调整它可以让地形在远处和近处的细节过渡更加自然，提升视觉效果。\n启用：地形纹理在远处看起来会好得多。",
+					"terrainheightblend": "<color=green>提示：</color>启用：则地形上的不同纹理将通过考虑其高度来混合。\n禁用：纹理之间将只有一个基本的线性插值",
+					"texturequality": "<color=green>提示：</color>此项决定全局纹理质量。只有在显存（VRAM）不足的情况下才应降低该值。\n降低此值可在一定程度上缓解显存不足带来的性能问题，但会导致游戏中的纹理细节有所损失。\n比如物体表面的材质纹理可能会变得模糊、不够清晰，进而影响游戏画面的整体观感。\n所以在显存能够满足需求的正常情况下，通常建议保持较高的全局纹理质量设定以获得更好的视觉体验。",
+					"texturequalityconstructions": "<color=green>提示：</color>此项决定建筑物和建筑构件的纹理质量。\n<color=orange>警告：若设置较高的值会显著增加显存（VRAM）的使用量！</color>因此，显存较低的显卡不建议调至最高。",
+					"texturequalityterrain": "<color=green>提示：</color>决定地形的纹理质量。警告：设置较高的值会增加显存（VRAM）的使用量。",
+					"viewdistance": "<color=green> 提示：</color>此选项决定草和精细地块的可视距离细节。",
+					"viewdistancebuildings": "<color=green> 提示：</color>这个选项用于确定建筑物和建筑结构的可视距离。它控制着玩家在游戏场景中多远能够看到这些建筑细节。\n如果可视距离设置得较短，远处的建筑物可能会在接近一定范围后才逐渐加载出细节；\n而设置得较长，则能让玩家在更远的地方就看到完整的建筑外观，但这可能会对性能产生一定的影响，因为需要加载和渲染更远距离的建筑细节。",
+					"viewdistancelod": "<color=green> 提示：</color>这个设置决定了整体的可视距离。它会影响玩家在游戏世界中能看到多远的场景，包括地形、物体、建筑等各种元素。\n可视距离越长，玩家能看到的范围越广，但这可能会对游戏性能产生较大的压力，因为系统需要加载和渲染更远范围内的所有元素。\n如果你的设备性能有限，适当降低这个值可以提升游戏的运行流畅度；\n而如果设备性能强劲，较高的总可视距离能让你获得更广阔的视野和更身临其境的游戏体验。",
+					"volumetricclouds": "<color=green> 提示：</color>如果启用此功能，游戏将会在游戏世界中渲染出立体的三维云朵。\n这些三维云朵会为游戏世界增添更加逼真的天空效果，使整个游戏场景的天空看起来更加生动、真实且富有层次感，进一步提升游戏的沉浸感。\n不过，渲染这种立体的三维云朵可能会占用一定的系统资源，对游戏的性能有一定的要求。\n如果设备性能欠佳，开启此项功能可能会导致游戏运行流畅度有所下降。",
+					"volumetriccloudsquality": "<color=green> 提示：</color>决定立体云的渲染质量。如果你处于云层高度或云层之上，这一设置的效果会最为明显 —— 否则通常中等设置就足够了。\n值得注意的时：高质量的设置对性能有相当大的影响。\n也就是说，当把立体云渲染质量设为较高档位时，虽然在特定视角（如身处云层或其上方时）能呈现出更精细、逼真的云效果；\n但与此同时，这会大量占用系统资源，使得游戏运行速度可能变慢、出现卡顿等情况，尤其是在设备性能并非十分强劲的情况下更为突出。\n而中等设置则能在保证一定云效果的同时，相对较好地平衡性能与视觉呈现之间的关系。",
+					"volumetriclightfilter": "<color=green> 提示：</color>如果启用此项，将会对体光应用一个平滑滤镜。\n这个平滑滤镜可以使体光的效果看起来更加柔和、自然，减少可能出现的生硬感或颗粒感；\n从而提升体光在游戏场景或其他相关场景中的视觉呈现效果，让其更符合整体的视觉氛围营造需求。\n不过，应用这个滤镜可能在一定程度上会对性能产生些许影响，具体取决于实际的应用场景和设备性能状况等因素。",
+					"volumetriclights": "<color=green> 提示：</color>这个设置用于确定是否应该显示体光（比如上帝之光这类效果）。\n它决定了在游戏场景或相关场景中，像那种带有体积感、能够营造出特殊光影氛围的光线效果是否能够被玩家所看到。\n开启此设置，就能呈现出如光线穿过缝隙、从特定光源散射出具有层次感和立体感的光线等体光效果，增强场景的视觉效果和沉浸感；\n若关闭，则这些体光效果将不会显示出来，场景的光影表现会相对较为常规和平淡。",
+					"vsync": "<color=green> 提示：</color>此设置会将帧率限制为您显示器的刷新率，目的是防止出现 “画面撕裂” 的情况。\n不过这可能会对性能产生一定的影响。因此：\n当把帧率限制在显示器刷新率时，能确保画面在显示过程中的连贯性和稳定性，\n从而让视觉感受更为流畅，避免因帧率和刷新率不同步而出现画面上下部分不同步、撕裂的糟糕视觉效果。\n但在某些情况下，比如设备性能本身较强，原本能输出更高帧率以实现更顺滑的画面过渡，\n而进行这样的限制后，可能就无法充分发挥设备在帧率输出方面的优势，从而在一定程度上影响到玩家所感受到的整体性能表现。",
+					"waterupdateinterval": "<color=green> 提示：</color>这个选项用于确定游戏每<b>秒</b>应该重新计算水流的频率。\n<u>较高的值对性能有更高的影响。</u>\n也就是说，这个设置会直接关联到游戏中水流效果的更新频率。\n如果想要更频繁、更精准地呈现水流的动态变化，比如更真实地模拟水流的波动、流动方向等，就需要设置较高的值。\n但这样做会占用更多的系统资源，导致游戏性能下降，比如可能会出现卡顿或者帧率降低的情况。\n相反，较低的值会减少对性能的影响，但水流的动态效果可能就没有那么精细和实时了。",
+					"wind": "<color=green> 提示：</color>这个设置是用于决定风的模式。\n风的模式可能包含多种不同的情况，例如风向（是固定方向的风，还是随机变化的风向）、风力大小（是轻柔微风，还是强劲的大风），\n以及风对游戏场景中物体的影响方式（比如只影响植被的摆动，还是也会影响飞行物体的轨迹等）。\n通过这个设置，开发者或玩家可以根据游戏的需求或自己的喜好来调整风的各种表现模式，\n让游戏世界中的风更加符合游戏的主题或场景氛围，比如在一个宁静的小镇场景可以设置微风模式，而在海上风暴场景则可以开启狂风模式。"
 				},
 				"upscaler": {
 					"dlss": "NVIDIA DLSS",
@@ -7303,12 +7303,12 @@
 					"hue": "色相",
 					"panini": "广角畸变矫正(帕尼尼投影)",
 					"saturation": "饱和度(默认10)",
-					"tooltip": "<color=green>h提示：</color>打开一个菜单来调整诸如视野范围(FOV)、亮度、对比度等等这样的设置",
+					"tooltip": "<color=green>提示：</color>打开一个菜单来调整诸如视野范围(FOV)、亮度、对比度等等这样的设置",
 					"tooltips": {
-						"cinematicbars": "设<color=green>h提示：</color>置可选电影式遮幅的大小，也就是上下黑边",
-						"crosshair": "设<color=green>h提示：</color>置游戏的默认准星",
-						"fov": "<color=green>h提示：</color>改变视野范围(FOV)。<color=yellow>默认值为75</color>",
-						"panini": "<color=green>h提示：</color>只有当你使用较大的视野范围（FOV）设置或者在超宽屏上游玩时才使用此项。这样可以减少拉伸。<color=yellow> 默认值是 0</color>"
+						"cinematicbars": "设<color=green>提示：</color>置可选电影式遮幅的大小，也就是上下黑边",
+						"crosshair": "设<color=green>提示：</color>置游戏的默认准星",
+						"fov": "<color=green>提示：</color>改变视野范围(FOV)。<color=yellow>默认值为75</color>",
+						"panini": "<color=green>提示：</color>只有当你使用较大的视野范围（FOV）设置或者在超宽屏上游玩时才使用此项。这样可以减少拉伸。<color=yellow> 默认值是 0</color>"
 					}
 				},
 				"viewdistance": "可视距离细节",
@@ -7486,80 +7486,80 @@
 					"realtime": "实时(24小时)"
 				},
 				"tooltips": {
-					"allowconsolecommands": "<color=green>h提示：</color>确定是否应允许使用控制台命令",
-					"allowflymode": "<color=green>h提示：</color>确定在生存模式下是否应允许飞行（{0}）",
-					"allowglobalmapmarkers": "<color=green>h提示：</color>如果启用，所有玩家都可以创建全局地图标记（即所有玩家可见的地图标记）",
-					"alwaysshowgridonconstructions": "<color=green>h提示：</color>如果启用，在建筑元素上网格将始终可见。\n否则仅在建造时可见",
-					"alwaysshowgridonterrain": "<color=green>h提示：</color>如果启用，在地形上网格将始终可见",
-					"blueprintincludeair": "<color=green>h提示：</color>如果为真，蓝图也会放置空气（仅当蓝图包含地形时）",
-					"blueprintsortmode": "<color=green>h提示：</color>确定施工蓝图将如何排序/显示",
-					"blueprintvisualizebounds": "<color=green>h提示：</color>如果启用，在放置蓝图时将可视化蓝图的边界",
-					"buildingdefaultsize": "<color=green>h提示：</color>为新建筑元素设置一个可选的默认尺寸。确定沿X、Y和Z轴的尺寸，以空格分隔。\n<color=yellow>示例：“1.0  2.0  0.1”</color>",
-					"buildingmultiplacedirections": "<color=green>h提示：</color>连续放置多个建筑元素时，所允许的同步方向数量。",
-					"buildingpivotkeeprotation": "<color=green>h提示：</color>如果启用，在锚点捕捉模式处于活动状态时，放置元素后游戏不再重置元素的旋转",
-					"buildingpivotsnaptoalltypes": "<color=green>h提示：</color>确定在锚点捕捉激活时，物体（如家具、门等）是否也应吸附到方块上",
-					"buildingresizemode": "<color=green>h提示：</color>控制缩放行为。\n\n旧版：缩放的工作方式类似于Java版本中的梁缩放，即向上/向下改变高度，而向左/向右改变宽度<u>和</u>深度\n\n默认：X、Y和Z轴可独立缩放",
-					"buildingsnaprotation": "<color=green>h提示：</color>如果启用，在旋转元素时，元素会自动捕捉到X、Y或Z轴",
-					"camerafollowvehicles": "<color=green>h提示：</color>如果启用，摄像机将自动跟随车辆旋转",
-					"collapsecraftingcategories": "<color=green>h提示：</color>如果启用，物块纹理选择类别默认会折叠起来",
-					"creativeconfirmremoval": "<color=green>h提示：</color>如果启用，通过创意模式移除工具移除元素时将显示一个确认对话框",
-					"creativecopyblockcolor": "<color=green>h提示：</color>如果启用，通过按下鼠标中键复制物块时也会复制元素的颜色",
-					"creativelightintensity": "<color=green>h提示：</color>确定创意模式灯光（L）的光照强度",
-					"customgridsizes": "<color=green>h提示：</color>定义自定义网格尺寸，数值以逗号分隔",
+					"allowconsolecommands": "<color=green>提示：</color>确定是否应允许使用控制台命令",
+					"allowflymode": "<color=green>提示：</color>确定在生存模式下是否应允许飞行（{0}）",
+					"allowglobalmapmarkers": "<color=green>提示：</color>如果启用，所有玩家都可以创建全局地图标记（即所有玩家可见的地图标记）",
+					"alwaysshowgridonconstructions": "<color=green>提示：</color>如果启用，在建筑元素上网格将始终可见。\n否则仅在建造时可见",
+					"alwaysshowgridonterrain": "<color=green>提示：</color>如果启用，在地形上网格将始终可见",
+					"blueprintincludeair": "<color=green>提示：</color>如果为真，蓝图也会放置空气（仅当蓝图包含地形时）",
+					"blueprintsortmode": "<color=green>提示：</color>确定施工蓝图将如何排序/显示",
+					"blueprintvisualizebounds": "<color=green>提示：</color>如果启用，在放置蓝图时将可视化蓝图的边界",
+					"buildingdefaultsize": "<color=green>提示：</color>为新建筑元素设置一个可选的默认尺寸。确定沿X、Y和Z轴的尺寸，以空格分隔。\n<color=yellow>示例：“1.0  2.0  0.1”</color>",
+					"buildingmultiplacedirections": "<color=green>提示：</color>连续放置多个建筑元素时，所允许的同步方向数量。",
+					"buildingpivotkeeprotation": "<color=green>提示：</color>如果启用，在锚点捕捉模式处于活动状态时，放置元素后游戏不再重置元素的旋转",
+					"buildingpivotsnaptoalltypes": "<color=green>提示：</color>确定在锚点捕捉激活时，物体（如家具、门等）是否也应吸附到方块上",
+					"buildingresizemode": "<color=green>提示：</color>控制缩放行为。\n\n旧版：缩放的工作方式类似于Java版本中的梁缩放，即向上/向下改变高度，而向左/向右改变宽度<u>和</u>深度\n\n默认：X、Y和Z轴可独立缩放",
+					"buildingsnaprotation": "<color=green>提示：</color>如果启用，在旋转元素时，元素会自动捕捉到X、Y或Z轴",
+					"camerafollowvehicles": "<color=green>提示：</color>如果启用，摄像机将自动跟随车辆旋转",
+					"collapsecraftingcategories": "<color=green>提示：</color>如果启用，物块纹理选择类别默认会折叠起来",
+					"creativeconfirmremoval": "<color=green>提示：</color>如果启用，通过创意模式移除工具移除元素时将显示一个确认对话框",
+					"creativecopyblockcolor": "<color=green>提示：</color>如果启用，通过按下鼠标中键复制物块时也会复制元素的颜色",
+					"creativelightintensity": "<color=green>提示：</color>确定创意模式灯光（L）的光照强度",
+					"customgridsizes": "<color=green>提示：</color>定义自定义网格尺寸，数值以逗号分隔",
 					"customgridsizeshelplabel": "示例：\"{0}\"",
-					"falldamage": "<color=green>h提示：</color>如果启用，玩家从高处坠落时会受到伤害（在生存模式下）",
-					"flymodemovetype": "<color=green>h提示：</color>确定飞行时移动的工作方式。\n\n<color=yellow>默认：朝视角方向飞行</color>\n\n<color=orange>保持高度：保持海拔/高度</color>",
-					"flymodenoclipping": "<color=green>h提示：</color>如果启用，在飞行模式下你可以穿过墙壁和地形。否则这些物体仍会有碰撞",
-					"flymodespeedcontrol": "<color=green>h提示：</color>确定在飞行模式下速度如何调整。\n\n<color=yellow>基本模式：按住冲刺或行走键以飞得更快/更慢</color>\n\n<color=orange>高级模式：使用Shift + 滚轮来改变速度</color>",
-					"gravityobjects": "<color=green>h提示：</color>如果启用，漂浮物体（如家具）如果未与实心墙壁或地面接触就会损坏",
-					"gravityplants": "<color=green>h提示：</color>如果启用，漂浮植物如果未与地面接触就会损坏",
-					"healthregeneration": "<color=green>h提示：</color>确定生命值是否应自动恢复（如果玩家不渴或不饿）",
-					"hudquickslotopacity": "<color=green>h提示：</color>决定快捷栏槽位的透明度/不透明度",
-					"hudshowselecteditem": "<color=green>h提示：</color>确定当前装备的物品是否应在HUD的右上角可见",
-					"hungerthirst": "<color=green>h提示：</color>确定在生存模式下是否应启用饥饿和口渴",
-					"hungerthirstduration": "<color=green>h提示：</color>玩家感到饥饿/口渴的持续时间系数。\n\n默认是100%。较小的值会导致玩家更频繁地感到饥饿/口渴",
-					"imagemaxresolution": "<color=green>h提示：</color>确定自定义图像/海报允许的最大分辨率。更改仅影响之后上传的图像！\n\n注意：高分辨率会消耗更多图形内存并对性能有更大影响！",
-					"instantdigging": "<color=green>h提示：</color>如果启用，在生存模式下所有东西一击即碎（类似于创意模式下的挖掘方式）",
-					"itemdurability": "<color=green>h提示：</color>决定物品的耐久度（即物品损坏前能持续使用的时间）。默认是100%。设置为50%则持续时间减半（物品损坏速度加倍），200%则时间加倍，以此类推。\n\n<color=yellow>要禁用物品耐久度，请将此设置为0</color>",
-					"keepinventory": "<color=green>h提示：</color>如果启用，你死后将保留你的背包物品",
-					"moonbrightness": "<color=green>h提示：</color>应用于夜晚/月光的亮度系数。默认：100%",
-					"moonphases": "<color=green>h提示：</color>确定月相是否应激活。如果你总是想要一个（明亮的）满月，请设置为false",
-					"mountsfollowviewdirection": "<color=green>h提示：</color>如果启用，骑乘时坐骑将自动跟随你的视角方向",
-					"oresmeltingduration": "<color=green>h提示：</color>确定熔炉中熔炼矿石的持续时间系数。默认是100%。设置为50%则持续时间减半，设置为200%则时间加倍等等",
-					"pauseinmenu": "<color=green>h提示：</color>如果启用，当游戏内菜单处于活动状态时游戏会暂停（仅限单人游戏）",
-					"peacefulmode": "<color=green>h提示：</color>如果启用，敌人不再攻击你（除非你先攻击他们）",
-					"plantgrowthduration": "<color=green>h提示：</color>确定植物生长的持续时间系数。\n默认是100%。设置为50%则持续时间减半，设置为200%则时间加倍等等",
-					"playergroupmarkeropacity": "<color=green>h提示：</color>决定玩家组标记的不透明度（当你邀请其他玩家到你的组时可见）",
-					"playergroupmarkershowoffscreen": "<color=green>h提示：</color>如果为真，玩家组标记在屏幕外时仍将可见",
-					"radialmenuautoclose": "<color=green>h提示：</color>如果启用，松开交互键时径向菜单会自动关闭",
-					"radialmenushowcursor": "<color=green>h提示：</color>确定在径向菜单中鼠标光标是否应可见",
-					"screenshothooksteam": "<color=green>h提示：</color>如果启用，截图将被转发到你的Steam截图库",
-					"screenshotquality": "<color=green>h提示：</color>截图的JPEG质量设置。质量越低，文件大小越小（但你在截图上也会看到更多伪影）",
-					"screenshotshowhud": "<color=green>h提示：</color>确定在截图中HUD是否应可见",
-					"screenshotsize": "<color=green>h提示：</color>决定截图的分辨率。100%意味着将使用你当前的游戏分辨率，50%意味着一半，以此类推。",
-					"seasons": "<color=green>h提示：</color>启用或禁用季节（春、夏、秋、冬）。如果禁用，季节将不会根据游戏内日期自动改变。",
-					"sharedcraftingprogression": "<color=green>h提示：</color>如果启用，合作模式中的制作进度将与所有玩家共享。\n仅考虑主机的设置！",
-					"showbuildinggrid": "<color=green>h提示：</color>确定在建造时网格是否应可见（仅当网格处于活动状态时）",
-					"showbuildinggridonselector": "<color=green>h提示：</color>确定在预览元素上网格是否也应可见",
-					"showbuildinginformation": "<color=green>h提示：</color>如果启用，在建造时一些关于建筑工具（网格、旋转等）的信息将显示在屏幕左侧",
-					"showchatonmessage": "<color=green>h提示：</color>如果你不想在有新消息时聊天窗口出现，可禁用此功能",
-					"showfps": "<color=green>h提示：</color>如果启用，当前每秒帧数将显示在HUD的右下角",
-					"shownametags": "<color=green>h提示：</color>如果启用，在多人游戏中其他玩家的名字标签将可见（取决于服务器设置）",
-					"skiploadingscreen": "<color=green>h提示：</color>如果启用，将跳过加载屏幕（尽管在那个阶段世界可能尚未完全加载）",
-					"spawnbanditsduringday": "<color=green>h提示：</color>如果启用，强盗也会在白天生成，否则他们只在晚上生成。\n\n注意：这仅影响温带气候区域的强盗！",
-					"spawnmonstersatsurface": "<color=green>h提示：</color>如果启用，怪物将在夜间在地表生成。它们将在黎明时自动消失",
-					"spawnmonsterswithtorch": "<color=green>h提示：</color>如果启用此项，怪物在地表生成时将总是携带火把（这会让它们更易被看见）",
-					"spawnrateanimals": "<color=green>h提示：</color>确定动物的生成速率。数值越高，生成的动物越多，数值越低，生成的动物越少。默认值是100%\n\n注意：这不会影响已经生成的动物",
-					"spawnratebandits": "<color=green>h提示：</color>确定土匪（敌人）的生成速率。数值越高，生成的土匪越多，数值越低，生成的动物越少。默认值是100%\n\n注意：这不会影响已经生成的土匪",
-					"spawnratesurfacemonsters": "<color=green>h提示：</color>确定夜间在地表生成的怪物的生成速率。默认值是100%\n\n注意：这不会影响已经生成的怪物",
-					"spawnrateundergroundmonsters": "<color=green>h提示：</color>确定在地下（洞穴、地狱等）生成的怪物的生成速率。默认值是100%\n\n注意：这不会影响已经生成的怪物",
-					"stamina": "<color=green>h提示：</color>如果启用，玩家在生存模式下拥有无限耐力",
+					"falldamage": "<color=green>提示：</color>如果启用，玩家从高处坠落时会受到伤害（在生存模式下）",
+					"flymodemovetype": "<color=green>提示：</color>确定飞行时移动的工作方式。\n\n<color=yellow>默认：朝视角方向飞行</color>\n\n<color=orange>保持高度：保持海拔/高度</color>",
+					"flymodenoclipping": "<color=green>提示：</color>如果启用，在飞行模式下你可以穿过墙壁和地形。否则这些物体仍会有碰撞",
+					"flymodespeedcontrol": "<color=green>提示：</color>确定在飞行模式下速度如何调整。\n\n<color=yellow>基本模式：按住冲刺或行走键以飞得更快/更慢</color>\n\n<color=orange>高级模式：使用Shift + 滚轮来改变速度</color>",
+					"gravityobjects": "<color=green>提示：</color>如果启用，漂浮物体（如家具）如果未与实心墙壁或地面接触就会损坏",
+					"gravityplants": "<color=green>提示：</color>如果启用，漂浮植物如果未与地面接触就会损坏",
+					"healthregeneration": "<color=green>提示：</color>确定生命值是否应自动恢复（如果玩家不渴或不饿）",
+					"hudquickslotopacity": "<color=green>提示：</color>决定快捷栏槽位的透明度/不透明度",
+					"hudshowselecteditem": "<color=green>提示：</color>确定当前装备的物品是否应在HUD的右上角可见",
+					"hungerthirst": "<color=green>提示：</color>确定在生存模式下是否应启用饥饿和口渴",
+					"hungerthirstduration": "<color=green>提示：</color>玩家感到饥饿/口渴的持续时间系数。\n\n默认是100%。较小的值会导致玩家更频繁地感到饥饿/口渴",
+					"imagemaxresolution": "<color=green>提示：</color>确定自定义图像/海报允许的最大分辨率。更改仅影响之后上传的图像！\n\n注意：高分辨率会消耗更多图形内存并对性能有更大影响！",
+					"instantdigging": "<color=green>提示：</color>如果启用，在生存模式下所有东西一击即碎（类似于创意模式下的挖掘方式）",
+					"itemdurability": "<color=green>提示：</color>决定物品的耐久度（即物品损坏前能持续使用的时间）。默认是100%。设置为50%则持续时间减半（物品损坏速度加倍），200%则时间加倍，以此类推。\n\n<color=yellow>要禁用物品耐久度，请将此设置为0</color>",
+					"keepinventory": "<color=green>提示：</color>如果启用，你死后将保留你的背包物品",
+					"moonbrightness": "<color=green>提示：</color>应用于夜晚/月光的亮度系数。默认：100%",
+					"moonphases": "<color=green>提示：</color>确定月相是否应激活。如果你总是想要一个（明亮的）满月，请设置为false",
+					"mountsfollowviewdirection": "<color=green>提示：</color>如果启用，骑乘时坐骑将自动跟随你的视角方向",
+					"oresmeltingduration": "<color=green>提示：</color>确定熔炉中熔炼矿石的持续时间系数。默认是100%。设置为50%则持续时间减半，设置为200%则时间加倍等等",
+					"pauseinmenu": "<color=green>提示：</color>如果启用，当游戏内菜单处于活动状态时游戏会暂停（仅限单人游戏）",
+					"peacefulmode": "<color=green>提示：</color>如果启用，敌人不再攻击你（除非你先攻击他们）",
+					"plantgrowthduration": "<color=green>提示：</color>确定植物生长的持续时间系数。\n默认是100%。设置为50%则持续时间减半，设置为200%则时间加倍等等",
+					"playergroupmarkeropacity": "<color=green>提示：</color>决定玩家组标记的不透明度（当你邀请其他玩家到你的组时可见）",
+					"playergroupmarkershowoffscreen": "<color=green>提示：</color>如果为真，玩家组标记在屏幕外时仍将可见",
+					"radialmenuautoclose": "<color=green>提示：</color>如果启用，松开交互键时径向菜单会自动关闭",
+					"radialmenushowcursor": "<color=green>提示：</color>确定在径向菜单中鼠标光标是否应可见",
+					"screenshothooksteam": "<color=green>提示：</color>如果启用，截图将被转发到你的Steam截图库",
+					"screenshotquality": "<color=green>提示：</color>截图的JPEG质量设置。质量越低，文件大小越小（但你在截图上也会看到更多伪影）",
+					"screenshotshowhud": "<color=green>提示：</color>确定在截图中HUD是否应可见",
+					"screenshotsize": "<color=green>提示：</color>决定截图的分辨率。100%意味着将使用你当前的游戏分辨率，50%意味着一半，以此类推。",
+					"seasons": "<color=green>提示：</color>启用或禁用季节（春、夏、秋、冬）。如果禁用，季节将不会根据游戏内日期自动改变。",
+					"sharedcraftingprogression": "<color=green>提示：</color>如果启用，合作模式中的制作进度将与所有玩家共享。\n仅考虑主机的设置！",
+					"showbuildinggrid": "<color=green>提示：</color>确定在建造时网格是否应可见（仅当网格处于活动状态时）",
+					"showbuildinggridonselector": "<color=green>提示：</color>确定在预览元素上网格是否也应可见",
+					"showbuildinginformation": "<color=green>提示：</color>如果启用，在建造时一些关于建筑工具（网格、旋转等）的信息将显示在屏幕左侧",
+					"showchatonmessage": "<color=green>提示：</color>如果你不想在有新消息时聊天窗口出现，可禁用此功能",
+					"showfps": "<color=green>提示：</color>如果启用，当前每秒帧数将显示在HUD的右下角",
+					"shownametags": "<color=green>提示：</color>如果启用，在多人游戏中其他玩家的名字标签将可见（取决于服务器设置）",
+					"skiploadingscreen": "<color=green>提示：</color>如果启用，将跳过加载屏幕（尽管在那个阶段世界可能尚未完全加载）",
+					"spawnbanditsduringday": "<color=green>提示：</color>如果启用，强盗也会在白天生成，否则他们只在晚上生成。\n\n注意：这仅影响温带气候区域的强盗！",
+					"spawnmonstersatsurface": "<color=green>提示：</color>如果启用，怪物将在夜间在地表生成。它们将在黎明时自动消失",
+					"spawnmonsterswithtorch": "<color=green>提示：</color>如果启用此项，怪物在地表生成时将总是携带火把（这会让它们更易被看见）",
+					"spawnrateanimals": "<color=green>提示：</color>确定动物的生成速率。数值越高，生成的动物越多，数值越低，生成的动物越少。默认值是100%\n\n注意：这不会影响已经生成的动物",
+					"spawnratebandits": "<color=green>提示：</color>确定土匪（敌人）的生成速率。数值越高，生成的土匪越多，数值越低，生成的动物越少。默认值是100%\n\n注意：这不会影响已经生成的土匪",
+					"spawnratesurfacemonsters": "<color=green>提示：</color>确定夜间在地表生成的怪物的生成速率。默认值是100%\n\n注意：这不会影响已经生成的怪物",
+					"spawnrateundergroundmonsters": "<color=green>提示：</color>确定在地下（洞穴、地狱等）生成的怪物的生成速率。默认值是100%\n\n注意：这不会影响已经生成的怪物",
+					"stamina": "<color=green>提示：</color>如果启用，玩家在生存模式下拥有无限耐力",
 					"steamallowalljoinrequests": "如果为真，所有好友都可以加入你的游戏。否则，你必须手动接受或拒绝加入请求",
 					"steamp2ptype": "当使用“与好友一起玩”选项时，这决定了使用的网络类型。此设置仅与主持游戏的玩家相关。\n\n<color=yellow>默认设置为“Sockets”。仅在遇到问题时更改此设置！</color>",
 					"steamshowfriendlist": "如果启用，Steam好友列表将显示在主菜单中",
-					"temperature": "<color=green>h提示：</color>如果启用，温度对玩家（在生存模式下）没有影响",
+					"temperature": "<color=green>提示：</color>如果启用，温度对玩家（在生存模式下）没有影响",
 					"temperatureunit": "温度单位",
-					"timeduration": "<color=green>h提示：</color>确定游戏内一天的时长。默认：1小时",
+					"timeduration": "<color=green>提示：</color>确定游戏内一天的时长。默认：1小时",
 					"undosteps": "决定你可以撤销多少步操作",
 					"usecustomgridsizes": "如果你想定义自己的网格尺寸，请启用此设置",
 					"weatherduration": "决定当前天气的持续时间，即天气发生变化前会持续多久。\n默认是100%。设为50%可使天气变化频率加倍，200%则使变化频率减半，依此类推。",
@@ -7776,7 +7776,7 @@
 				"musiccomposer": "作曲者：{0}",
 				"musictrack": "音乐曲目：{0}",
 				"name": "名称：{0}",
-				"putinequipmentslot": "<color=green>h-Tips：</color>将此物放入装备槽\n以便快速调用（可搭配快捷键）",
+				"putinequipmentslot": "<color=green>提示：</color>将此物放入装备槽\n以便快速调用（可搭配快捷键）",
 				"strength": "强度：{0}",
 				"weapons": {
 					"damage": "伤害：{0}",
@@ -7866,15 +7866,15 @@
 	},
 	"vehicle": {
 		"rib": {
-			"desc": "<color=green>h提示：</color>发动机驱动的充气船。可容纳 4 名乘客。",
+			"desc": "<color=green>提示：</color>发动机驱动的充气船。可容纳 4 名乘客。",
 			"name": "刚性充气船(RIB)"
 		},
 		"rowboat": {
-			"desc": "<color=green>h提示：</color>一艘小划艇。只能容纳一名乘客。",
+			"desc": "<color=green>提示：</color>一艘小划艇。只能容纳一名乘客。",
 			"name": "划艇"
 		},
 		"sailboat": {
-			"desc": "<color=green>h提示：</color>一艘小帆船。使用风力进行推进，但因此也取决于风向，并且控制是间接的。提供 3 人的空间。",
+			"desc": "<color=green>提示：</color>一艘小帆船。使用风力进行推进，但因此也取决于风向，并且控制是间接的。提供 3 人的空间。",
 			"name": "帆船"
 		}
 	}
