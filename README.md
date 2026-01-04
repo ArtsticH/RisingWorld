@@ -21,8 +21,6 @@ Choose your preferred installation method below:
 适用于熟悉 Git 和命令行的用户。 / For users familiar with Git and command line.
 
 1.  **通打开RisingWorld游戏根目录 / Navigate to your RisingWorld game directory via Steam:**
-    - 在Steam库中**右键点击** RisingWorld 选择 **属性 > 本地文件 > 浏览...**
-    Right-click **RisingWorld** in your Steam Library, Select **Properties > Installed Files > Browse...**
     - 路径示例 / Path example ：`X:\...\Steam\steamapps\common\RisingWorld`
 
     ![RisingWorld本地文件夹](https://raw.githubusercontent.com/ArtsticH/h-Readme-res/main/RisingWorld/doc/images/h0_RisingWorld_Folder.webp)
@@ -53,8 +51,6 @@ For users preferring a graphical interface.
     Open your RisingWorld game directory as described in **Step 1** of Method 1.
 
 2.  **以ZIP格式下载本仓库： / Download the repository as a ZIP file:**
-    - 点击本GitHub页面的 **Code** 按钮。 / Click the **Code** button on this GitHub page.
-    - 选择 / Select **Download ZIP**.
 
     ![下载ZIP](https://raw.githubusercontent.com/ArtsticH/h-Readme-res/main/RisingWorld/doc/images/h1_Git-zip.webp)
 
