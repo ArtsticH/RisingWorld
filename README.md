@@ -1,4 +1,4 @@
-# 🔥RisingWorld 插件集合 / RisingWorld Plugins Collection
+# 🔥RisingWorld 插件集合
 
 ![License](https://img.shields.io/badge/License-BSD%203--Clause-green?style=flat-square)  ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
 
@@ -66,6 +66,11 @@ For users preferring a graphical interface.
 
 5.  **正常启动RisingWorld游戏即可。**
     Launch RisingWorld normally through Steam.
+
+----
+### **方式三：纯手动修改配置文件 / Method 3: Pure Manual Editing of Configuration Files**
+
+  ![运行汉化脚本](https://raw.githubusercontent.com/ArtsticH/h-Readme-res/main/RisingWorld/doc/images/HT20260104-Snipaste_t203227_ArtsticH_RisingWorld_cn.webp)
 
 ---
 
