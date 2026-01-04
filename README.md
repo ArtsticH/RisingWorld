@@ -40,7 +40,7 @@ Choose your preferred installation method below:
 3.  **克隆完成后，找到并双击运行：** `！H一键汉化(ToChinese).bat`
     After cloning, locate and double-click: `！H一键汉化(ToChinese).bat`
 
-    ![运行汉化脚本](https://raw.githubusercontent.com/ArtsticH/h-Readme-res/main/RisingWorld/doc/images/h2_run.webp) ![汉化成功](https://raw.githubusercontent.com/ArtsticH/h-Readme-res/main/RisingWorld/doc/images/h2_run-ok.webp)
+    ![运行汉化脚本](https://raw.githubusercontent.com/ArtsticH/h-Readme-res/main/RisingWorld/doc/images/h2_run.webp)
 
 4.  **正常启动RisingWorld游戏即可。 / Launch RisingWorld normally through Steam.**
     
@@ -66,12 +66,10 @@ For users preferring a graphical interface.
 4.  **将复制的文件粘贴到游戏根目录。然后双击运行：** `!H一键汉化(ToChinese).bat`
     Paste the copied files into the game's root directory. Then, double-click:  `!H一键汉化(ToChinese).bat`
 
-    ![运行汉化脚本](https://raw.githubusercontent.com/ArtsticH/h-Readme-res/main/RisingWorld/doc/images/h2_run.webp) ![汉化成功](https://raw.githubusercontent.com/ArtsticH/h-Readme-res/main/RisingWorld/doc/images/h2_run-ok.webp)
+    ![运行汉化脚本](https://raw.githubusercontent.com/ArtsticH/h-Readme-res/main/RisingWorld/doc/images/h2_run.webp)
 
 5.  **正常启动RisingWorld游戏即可。**
     Launch RisingWorld normally through Steam.
-
-![测试图](https://raw.githubusercontent.com/ArtsticH/h-Readme-res/main/RisingWorld/doc/images/HT20260104-Snipaste_t001417_ArtsticH_Rising%20World.webp)
 
 ---
 
