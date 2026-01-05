@@ -12,7 +12,7 @@ This repository is a curated collection of plugins for the game **RisingWorld**,
 #### 本此更新RisingWorld的CN语言包：
 #### This update features comprehensive localization of the RisingWorld game interface, and includes a Chinese (zh) language pack:
 ![RisingWorld主界面汉化截图](<https://raw.githubusercontent.com/ArtsticH/h-Readme-res/main/RisingWorld/doc/images/HT20260104-Snipaste_t001441_ArtsticH_Rising World.webp>)
-![RisingWorld UI汉化截图](<https://raw.githubusercontent.com/ArtsticH/h-Readme-res/main/RisingWorld/doc/images/HT20260104-Snipaste_t001454_ArtsticH_Rising World-A.webp>)
+![RisingWorld UI汉化截图](<https://raw.githubusercontent.com/ArtsticH/h-Readme-res/main/RisingWorld/doc/images/HT20260104-Snipaste_t001454_ArtsticH_Rising World-T.webp>)
 ## 🚀 快速开始 / Quick Start
 
 请选择你喜欢的安装方式：
