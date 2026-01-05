@@ -190,6 +190,9 @@
 		"bunnyoutfit2": {
 			"name": "兔子套装（无兜帽）"
 		},
+		"Santaoutfit": {
+			"name": "圣诞装"
+		},
 		"cappy": {
 			"name": "卡比帽"
 		},
@@ -361,11 +364,17 @@
 		"medievalpants": {
 			"name": "旧布裤"
 		},
-		"medievalshirt1": {
+		"medievalshirt": {
 			"name": "中世纪布衫"
 		},
+		"medievalshirt1": {
+			"name": "中世纪布衫1"
+		},
 		"medievalshirt2": {
-			"name": "中世纪皮衫"
+			"name": "中世纪皮衫2"
+		},
+		"medievalshirt3": {
+			"name": "中世纪皮衫3"
 		},
 		"medievalshoes": {
 			"name": "旧皮鞋"
@@ -551,6 +560,14 @@
 		},
 		"wooly": {
 			"name": "毛绒的"
+		},
+		"Santaoutfit": {
+			"desc": "emm...不予置评,开心就好",
+			"name": "圣诞装"
+		},
+		"Santaboots": {
+			"desc": "emm...不予置评,开心就好",
+			"name": "圣诞靴"
 		},
 		"xmashat": {
 			"desc": "一个红白相间的绿帽子",
@@ -1209,7 +1226,7 @@
 			"transmissions": "传输",
 			"traps": "陷阱",
 			"trophies": "奖杯",
-			"vehiclestorages": "存储？",
+			"vehiclestorages": "储物装置",
 			"wheels": "轮子",
 			"windowframes": "窗框",
 			"workbenches": "工作台"
