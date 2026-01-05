@@ -14,8 +14,7 @@ This repository is a curated collection of plugins for the game **RisingWorld**,
 ##### ✅ This update features comprehensive localization of the RisingWorld game interface, and includes a CN (zh) language pack:
  -  Files: RisingWorld__Zh-cn_Language-Kit__v2-0-260107 (fog Rising World v0.9.1)
 
-![Nexusmods同步更新](<https://raw.githubusercontent.com/ArtsticH/h-Readme-res/main/RisingWorld/doc/images/HT20260106-RisingWorld__Zh-cn_Language-Kit__v2-0-260107__bannerp>)
-![Nexusmods关键词](<https://raw.githubusercontent.com/ArtsticH/h-Readme-res/main/RisingWorld/doc/images/HT20260106-RisingWorld__Zh-cn_Language-Kit__v2-0-260107__Search.webp>)
+![Nexusmods同步更新](<https://raw.githubusercontent.com/ArtsticH/h-Readme-res/main/RisingWorld/doc/images/HT20260106-RisingWorld__Zh-cn_Language-Kit__v2-0-260107__banner.webp>)
 ![RisingWorld主界面汉化截图](<https://raw.githubusercontent.com/ArtsticH/h-Readme-res/main/RisingWorld/doc/images/HT20260104-Snipaste_t001441_ArtsticH_Rising World.webp>)
 ![RisingWorld游戏内汉化截图](<https://raw.githubusercontent.com/ArtsticH/h-Readme-res/main/RisingWorld/doc/images/HT20260104-Snipaste_t001454_ArtsticH_Rising World-T.webp>)
 
@@ -23,7 +22,16 @@ This repository is a curated collection of plugins for the game **RisingWorld**,
 
 请选择你喜欢的安装方式：
 Choose your preferred installation method below:
-### **方式一：Git克隆（推荐）/ Method 1: Git Clone (Recommended)**
+
+----
+### **方式一：NexusMods下载 / Method 1: NexusMods download**
+
+    下载地址：https://www.nexusmods.com/risingworld/mods/2
+
+![Nexusmods关键词](<https://raw.githubusercontent.com/ArtsticH/h-Readme-res/main/RisingWorld/doc/images/HT20260106-RisingWorld__Zh-cn_Language-Kit__v2-0-260107__Search.webp>)
+
+----
+### **方式二：Git克隆（推荐）/ Method 2: Git Clone (Recommended)**
 适用于熟悉 Git 和命令行的用户。 / For users familiar with Git and command line.
 
 1.  **通打开RisingWorld游戏根目录 / Navigate to your RisingWorld game directory via Steam:**
@@ -49,7 +57,7 @@ Choose your preferred installation method below:
 4.  **正常启动RisingWorld游戏即可。 / Launch RisingWorld normally through Steam.**
     
 ----
-### **方式二：手动安装（下载ZIP包） / Method 2: Manual Installation (ZIP Download)**
+### **方式三：手动安装（下载ZIP包） / Method 3: Manual Installation (ZIP Download)**
 适用于更喜欢图形界面的用户。
 For users preferring a graphical interface.
 
@@ -72,11 +80,6 @@ For users preferring a graphical interface.
 
 5.  **正常启动RisingWorld游戏即可。**
     Launch RisingWorld normally through Steam.
-
-----
-### **方式三：纯手动修改配置文件 / Method 3: Pure Manual Editing of Configuration Files**
-
-  ![运行汉化脚本](https://raw.githubusercontent.com/ArtsticH/h-Readme-res/main/RisingWorld/doc/images/HT20260104-Snipaste_t203227_ArtsticH_RisingWorld_cn.webp)
 
 ---
 
