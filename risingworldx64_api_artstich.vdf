@@ -30,19 +30,19 @@
 			},
 			"names": {
 				"basalt": "玄武岩",
-				"blur": "（磨砂）",
+				"blur": "(磨砂)",
 				"cardboard": "纸板",
 				"copper": "铜",
-				"emissive": "发光（RGB）",
+				"emissive": "发光(RGB)",
 				"glassblur": "磨砂玻璃",
 				"glassclear": "透明玻璃",
 				"glasscorrugated": "波纹玻璃",
-				"glasscorrugatedblur": "波纹玻璃（磨砂）",
+				"glasscorrugatedblur": "波纹玻璃(磨砂)",
 				"glassdistorted": "变形玻璃",
 				"gold": "金矿",
 				"gridceiling": "吊顶板",
 				"leadedglass": "铅玻璃",
-				"leadedglassclear": "铅玻璃（透明）",
+				"leadedglassclear": "铅玻璃(透明)",
 				"milkglass": "乳白玻璃",
 				"obsidian": "黑曜石",
 				"porcelain": "瓷器",
@@ -95,7 +95,7 @@
 			"dirt": "土壤",
 			"drydirt": "干土",
 			"farmland": "农田",
-			"farmlandwet": "农田（湿润）",
+			"farmlandwet": "农田(湿润)",
 			"forestground1": "林地土壤1",
 			"forestground2": "林地土壤2",
 			"forestground3": "林地土壤3",
@@ -163,7 +163,7 @@
 			"name": "巴拉克拉法帽"
 		},
 		"balaclavamask": {
-			"name": "巴拉克拉法帽（带眼镜）"
+			"name": "巴拉克拉法帽(带眼镜)"
 		},
 		"barbarianhelmet": {
 			"name": "野蛮人头盔"
@@ -188,7 +188,7 @@
 			"name": "兔子套装"
 		},
 		"bunnyoutfit2": {
-			"name": "兔子套装（无兜帽）"
+			"name": "兔子套装(无兜帽)"
 		},
 		"Santaoutfit": {
 			"name": "圣诞装"
@@ -197,7 +197,7 @@
 			"name": "卡比帽"
 		},
 		"cappycamo": {
-			"name": "卡比帽（迷彩款）"
+			"name": "卡比帽(迷彩款)"
 		},
 		"captainhat": {
 			"name": "船长帽"
@@ -271,11 +271,11 @@
 		},
 		"helmet2_lamp": {
 			"desc": "<color=green>提示：</color>一款带有灯具的现代登山头盔",
-			"name": "登山头盔（带灯）"
+			"name": "登山头盔(带灯)"
 		},
 		"helmet_lamp": {
 			"desc": "<color=green>提示：</color>一款带有灯具的现代安全帽",
-			"name": "安全帽（带灯）"
+			"name": "安全帽(带灯)"
 		},
 		"highvisjacket": {
 			"name": "高能见度夹克"
@@ -516,7 +516,7 @@
 			"name": "太阳镜"
 		},
 		"teddymask": {
-			"name": "面具（泰迪熊）"
+			"name": "面具(泰迪熊)"
 		},
 		"trekkingshoes": {
 			"name": "徒步鞋"
@@ -585,43 +585,43 @@
 	},
 	"construction": {
 		"arc": {
-			"name": "弧线"
+			"name": "凹弧面"
 		},
 		"arccorner": {
-			"name": "弧线拐角"
+			"name": "凹弧面阳角"
 		},
 		"arccornerinner": {
-			"name": "弧线内拐角"
+			"name": "凹弧面阴角"
 		},
 		"arcinverse": {
-			"name": "弧线（反向）"
+			"name": "凸弧面"
 		},
 		"arcinversecorner": {
-			"name": "弧线拐角（反向）"
+			"name": "凸弧面阳角"
 		},
 		"arcinversecornerhalf": {
-			"name": "弧线半内拐角（反向）"
+			"name": "凸弧面阳角(圆)"
 		},
 		"arcinversecornerinner": {
-			"name": "弧线内拐角（反向）"
+			"name": "凸弧面阴角"
 		},
 		"block": {
-			"name": "物块"
+			"name": "基础方块"
 		},
 		"category": {
-			"arcs": "弧线类",
+			"arcs": "弧面类",
 			"basis": "基础",
 			"blocks": "物块类",
 			"cones": "圆锥体",
-			"corner": "拐角",
-			"corners": "拐角",
+			"corner": "抹角",
+			"corners": "抹角",
 			"cylinders": "圆柱体",
 			"other": "其他",
 			"panes": "窗格",
 			"slopes": "斜坡",
 			"special": "特殊",
 			"spheres": "球体",
-			"stairs": "楼梯",
+			"stairs": "阶梯",
 			"undefined": "未定义",
 			"windows": "窗户"
 		},
@@ -635,10 +635,10 @@
 			"name": "圆柱"
 		},
 		"eighthsphere": {
-			"name": "八分之一球体"
+			"name": "1/8球体"
 		},
 		"eighthspherehollow": {
-			"name": "八分之一空心球体"
+			"name": "空心凸弧阳角(圆)"
 		},
 		"glasspane": {
 			"name": "玻璃窗格"
@@ -647,7 +647,7 @@
 			"name": "半圆锥"
 		},
 		"halfconehollow": {
-			"name": "半空心圆锥"
+			"name": "空心半圆锥"
 		},
 		"halfcylinder": {
 			"name": "半圆柱"
@@ -656,37 +656,37 @@
 			"name": "半球体"
 		},
 		"halfspherehollow": {
-			"name": "半空心球体"
+			"name": "空心半球体"
 		},
 		"halftorus": {
-			"name": "半环面"
+			"name": "半圆环"
 		},
 		"hollowarcinverse": {
-			"name": "空心弧（反向）"
+			"name": "空心凸弧面"
 		},
 		"hollowarcinversecorner": {
-			"name": "空心弧转角（反向）"
+			"name": "空心凸弧面阳角"
 		},
 		"hollowarcinversecornerinner": {
-			"name": "空心弧内转角（反向）"
+			"name": "空心凸弧面阴角"
 		},
 		"hollowblock": {
-			"name": "空心物块"
+			"name": "空心方块"
 		},
 		"hollowcylinder": {
 			"name": "空心圆柱"
 		},
 		"hollowcylinderblock": {
-			"name": "空心圆柱物块"
+			"name": "空心圆柱方块"
 		},
 		"hollowcylindercorner": {
-			"name": "空心圆柱拐角"
+			"name": "空心圆柱抹角"
 		},
 		"hollowcylinderhalf": {
-			"name": "半空心圆柱"
+			"name": "空心-半圆柱"
 		},
 		"hollowcylinderquarter": {
-			"name": "四分之一空心圆柱"
+			"name": "1/4空心圆柱"
 		},
 		"pane": {
 			"name": "窗格"
@@ -698,7 +698,7 @@
 			"name": "半圆形窗格"
 		},
 		"panequartercircle": {
-			"name": "四分之一圆形窗格"
+			"name": "1/4圆形窗格"
 		},
 		"panerighttriangle": {
 			"name": "直角三角形窗格"
@@ -707,7 +707,7 @@
 			"name": "三角形窗格"
 		},
 		"pillar": {
-			"name": "柱子"
+			"name": "罗马柱(15棱)"
 		},
 		"plank": {
 			"name": "木板"
@@ -717,70 +717,70 @@
 			"name": "海报"
 		},
 		"pyramid": {
-			"name": "金字塔"
+			"name": "四棱锥"
 		},
 		"quartercone": {
-			"name": "四分之一圆锥"
+			"name": "1/4圆锥"
 		},
 		"quarterconehollow": {
-			"name": "四分之一空心圆锥"
+			"name": "1/4空心圆锥"
 		},
 		"quartercylinder": {
-			"name": "四分之一圆柱"
+			"name": "1/4圆柱"
 		},
 		"quartersphere": {
-			"name": "四分之一球体"
+			"name": "1/4球体"
 		},
 		"quarterspherehollow": {
-			"name": "四分之一空心球体"
+			"name": "1/4空心球"
 		},
 		"ramp": {
 			"name": "斜坡"
 		},
 		"rampcorner": {
-			"name": "斜坡拐角"
+			"name": "对角斜切阳角"
 		},
 		"rampcorner2": {
-			"name": "斜坡拐角B"
+			"name": "斜切阴角"
 		},
 		"rampcornerhalf": {
-			"name": "斜坡半拐角"
+			"name": "斜切阳角"
 		},
 		"rampcornerinner": {
-			"name": "斜坡内拐角"
+			"name": "对角斜切阴角"
 		},
 		"roundedblock": {
-			"name": "圆形物块"
+			"name": "圆角方块"
 		},
 		"roundedblock2": {
-			"name": "圆角方块（扁平）"
+			"name": "圆棱方柱"
 		},
 		"roundedcylinder": {
-			"name": "圆角圆柱"
+			"name": "圆棱圆柱"
 		},
 		"sphere": {
 			"name": "球体"
 		},
 		"stair1": {
-			"name": "楼梯"
+			"name": "阶梯"
 		},
 		"stair1corner": {
-			"name": "楼梯拐角"
+			"name": "阶梯阳角"
 		},
 		"stair1cornerinner": {
-			"name": "楼梯内拐角"
+			"name": "阶梯阴角"
 		},
 		"stair2": {
-			"name": "楼梯（斜坡式）"
+			"name": "阶梯(斜坡背)"
 		},
 		"stair3": {
-			"name": "楼梯（台阶式）"
+			"name": "阶梯(阶梯背)"
 		},
 		"torus": {
 			"name": "圆环"
 		},
 		"torus2": {
-			"name": "圆环（内扁平）"
+			"name": "圆环(内扁平)"
 		},
 		"triangle": {
 			"name": "三角形"
@@ -789,31 +789,31 @@
 			"name": "窗框"
 		},
 		"window2": {
-			"name": "窗框（有窗棂）"
+			"name": "窗框(有窗棂)"
 		},
 		"window3": {
-			"name": "窗框（A型窗棂）"
+			"name": "窗框(A型窗棂)"
 		},
 		"window4": {
-			"name": "窗框（B型窗棂）"
+			"name": "窗框(B型窗棂)"
 		},
 		"window5": {
-			"name": "窗框（C型窗棂）"
+			"name": "窗框(C型窗棂)"
 		},
 		"window6": {
-			"name": "窗框（D型窗棂）"
+			"name": "窗框(D型窗棂)"
 		},
 		"window7": {
-			"name": "窗框（三角形）"
+			"name": "窗框(三角形)"
 		},
 		"window8": {
-			"name": "窗框（直角形）"
+			"name": "窗框(直角形)"
 		},
 		"window9": {
-			"name": "窗框（圆形）"
+			"name": "窗框(圆形)"
 		},
 		"window10": {
-			"name": "窗框（圆形）"
+			"name": "窗框(圆形)"
 		}
 	},
 	"contextmenu": {
@@ -936,9 +936,9 @@
 		"bz": "伯利兹",
 		"ca": "加拿大",
 		"cc": "科科斯群岛",
-		"cd": "刚果（金）",
+		"cd": "刚果(金)",
 		"cf": "中非共和国",
-		"cg": "刚果（布）",
+		"cg": "刚果(布)",
 		"ch": "瑞士",
 		"ci": "科特迪瓦",
 		"ck": "库克群岛",
@@ -968,7 +968,7 @@
 		"et": "埃塞俄比亚",
 		"fi": "芬兰",
 		"fj": "斐济",
-		"fk": "马尔维纳斯群岛（福克兰群岛）",
+		"fk": "马尔维纳斯群岛(福克兰群岛)",
 		"fm": "密克罗尼西亚联邦",
 		"fo": "法罗群岛",
 		"fr": "法国",
@@ -1203,7 +1203,7 @@
 			"none": "无",
 			"other": "其他",
 			"otherworkbenches": "其他制作站",
-			"outfits": "服装",
+			"outfits": "套装",
 			"paddles": "桨叶",
 			"pants": "裤子",
 			"primitivetools": "原始工具",
@@ -1222,7 +1222,7 @@
 			"storages": "储物箱",
 			"survival": "生存设施",
 			"tables": "桌子",
-			"top": "顶部",
+			"top": "上衣",
 			"transmissions": "传输",
 			"traps": "陷阱",
 			"trophies": "奖杯",
@@ -1256,12 +1256,12 @@
 			"bloodmoon": "血月",
 			"fullmoon": "满月",
 			"newmoon": "新月",
-			"waningmoon1": "亏月（10%）",
-			"waxingmoon1": "盈月（10%）",
-			"waxingmoon2": "盈月（30%）",
-			"waxingmoon3": "盈月（50%）",
-			"waxingmoon4": "盈月（70%）",
-			"waxingmoon5": "盈月（90%）"
+			"waningmoon1": "亏月(10%)",
+			"waxingmoon1": "盈月(10%)",
+			"waxingmoon2": "盈月(30%)",
+			"waxingmoon3": "盈月(50%)",
+			"waxingmoon4": "盈月(70%)",
+			"waxingmoon5": "盈月(90%)"
 		},
 		"name": "日期",
 		"november": "１１月",
@@ -1352,7 +1352,7 @@
 			"dpad/up": "方向键上",
 			"leftshoulder": "左肩键",
 			"leftstick": "左摇杆",
-			"leftstickpress": "左摇杆（按下）",
+			"leftstickpress": "左摇杆(按下)",
 			"lefttrigger": "左扳机键",
 			"playstation": {
 				"buttoneast": "○",
@@ -1364,7 +1364,7 @@
 			},
 			"rightshoulder": "右肩键",
 			"rightstick": "右摇杆",
-			"rightstickpress": "右摇杆（按下）",
+			"rightstickpress": "右摇杆(按下)",
 			"righttrigger": "右扳机键",
 			"select": "选择键",
 			"start": "开始键",
@@ -1461,7 +1461,7 @@
 		},
 		"ammorepeater": {
 			"desc": "<color=green>提示：</color>\n连发步枪的弹药，内含5发子弹",
-			"name": "弹夹（连发步枪）"
+			"name": "弹夹(连发步枪)"
 		},
 		"antlerdeer": {
 			"name": "鹿角"
@@ -1757,7 +1757,7 @@
 		},
 		"earthworm": {
 			"desc": "<color=green>提示：</color>可用作鱼饵",
-			"name": "蚯蚓（鱼饵）"
+			"name": "蚯蚓(鱼饵)"
 		},
 		"eel": {
 			"name": "鳗鱼"
@@ -1782,7 +1782,7 @@
 		},
 		"engineboat1": {
 			"desc": "<color=green>提示：</color>一种可安装在某些船只上的舷外发动机。\n<color=yellow>制作步骤：第 [3 / 3] 步</color>",
-			"name": "舷外发动机（20马力）"
+			"name": "舷外发动机(20马力)"
 		},
 		"fibers": {
 			"name": "纤维"
@@ -1843,7 +1843,7 @@
 			"name": "山羊皮"
 		},
 		"goatpeltblack": {
-			"name": "山羊皮（黑色）"
+			"name": "山羊皮(黑色)"
 		},
 		"goldingot": {
 			"name": "金锭"
@@ -1906,7 +1906,7 @@
 			"name": "烤焦的内脏"
 		},
 		"hare": {
-			"desc": "刚捕获的兔子。不能一直放背包...（会嘎掉的）",
+			"desc": "刚捕获的兔子。不能一直放背包...(会嘎掉的)",
 			"name": "兔子"
 		},
 		"heart": {
@@ -2079,7 +2079,7 @@
 			"name": "驼鹿皮"
 		},
 		"morningstar": {
-			"name": "晨星（一种武器）"
+			"name": "晨星(一种武器)"
 		},
 		"mud": {
 			"name": "泥巴"
@@ -2271,15 +2271,15 @@
 		},
 		"ribkit1": {
 			"desc": "<color=green>提示：</color>制作刚性充气船的基础套件。将其放置在坚实地面上以组装船只。\n<color=yellow>制作步骤：第 [1 / 3] 步</color>",
-			"name": "充气船套件I（刚性船体）"
+			"name": "充气船套件I(刚性船体)"
 		},
 		"ribkit2": {
-			"desc": "<color=green>提示：</color>制作刚性充气船的基础套件。将其附着到现有的刚性船体（见套件1）。\n<color=yellow>制作步骤：第 [2 / 3] 步</color>",
-			"name": "充气船套件II（气筒）"
+			"desc": "<color=green>提示：</color>制作刚性充气船的基础套件。将其附着到现有的刚性船体(见套件1)。\n<color=yellow>制作步骤：第 [2 / 3] 步</color>",
+			"name": "充气船套件II(气筒)"
 		},
 		"ribstorage": {
-			"desc": "<color=green>提示：</color>可附着到充气船（RIB）上的可选储物装置\n<color=yellow> [选配] </color>",
-			"name": "储物装置（RIB）"
+			"desc": "<color=green>提示：</color>可附着到充气船(RIB)上的可选储物装置\n<color=yellow> [选配] </color>",
+			"name": "储物装置(RIB)"
 		},
 		"ripepear": {
 			"name": "过熟的梨"
@@ -2290,15 +2290,15 @@
 		},
 		"rowboatkit1": {
 			"desc": "<color=green>提示：</color>制作划艇的基础套件。将其放置在陆地上任何地方以组装船只。\n<color=yellow>制作步骤：第 [1 / 3] 步</color>",
-			"name": "划艇套件I（框架）"
+			"name": "划艇套件I(框架)"
 		},
 		"rowboatkit2": {
-			"desc": "<color=green>提示：</color>制作划艇的基础套件。将其附着到现有的划艇框架（见套件1）。\n<color=yellow>制作步骤：第 [2 / 3] 步</color>",
-			"name": "划艇套件II（船体）"
+			"desc": "<color=green>提示：</color>制作划艇的基础套件。将其附着到现有的划艇框架(见套件1)。\n<color=yellow>制作步骤：第 [2 / 3] 步</color>",
+			"name": "划艇套件II(船体)"
 		},
 		"rowboatstorage": {
 			"desc": "<color=green>提示：</color>可附着到划艇上的可选储物装置\n<color=yellow> [选配] </color>",
-			"name": "储物装置（划艇）"
+			"name": "储物装置(划艇)"
 		},
 		"rubberduck": {
 			"desc": "<color=green>提示：：</color>只是一个玩具",
@@ -2306,35 +2306,35 @@
 		},
 		"saddlebaghorse": {
 			"desc": "<color=green>提示：</color>可附着到马鞍上的可选袋子，可用于在其中存放物品",
-			"name": "马鞍袋（马）"
+			"name": "马鞍袋(马)"
 		},
 		"saddlehorse": {
 			"desc": "<color=green>提示：</color>一匹马的马鞍，如果你想骑马，这是必需的",
-			"name": "马鞍（马）"
+			"name": "马鞍(马)"
 		},
 		"sail1": {
-			"desc": "<color=green>提示：</color>一面小帆，是小型帆船所需的工具。\n<span><color=yellow>制作步骤：第 [5 / 5] 步</color>",
+			"desc": "<color=green>提示：</color>一面小帆，是小型帆船所需的工具。\n<color=yellow>制作步骤：第 [5 / 5] 步</color>",
 			"name": "帆"
 		},
 		"sailboatkit1": {
-			"desc": "<color=green>提示：</color>制作帆船的基础套件。将其放置在陆地上任何地方以组装船只。\n<span><color=yellow>制作步骤：第 [1 / 5] 步</span>",
-			"name": "帆船套件I（框架A）"
+			"desc": "<color=green>提示：</color>制作帆船的基础套件。将其放置在陆地上任何地方以组装船只。\n<color=yellow>制作步骤：第 [1 / 5] 步",
+			"name": "帆船套件I(框架A)"
 		},
 		"sailboatkit2": {
-			"desc": "<color=green>提示：</color>制作帆船的基础套件。将其附着到现有的帆船框架（见套件1）。\n<span><color=yellow>制作步骤：第 [2 / 5] 步</span>",
-			"name": "帆船套件II（框架B）"
+			"desc": "<color=green>提示：</color>制作帆船的基础套件。将其附着到现有的帆船框架(见套件1)。\n<color=yellow>制作步骤：第 [2 / 5] 步",
+			"name": "帆船套件II(框架B)"
 		},
 		"sailboatkit3": {
-			"desc": "<color=green>提示：</color>制作帆船的基础套件。将其附着到现有的帆船框架（见套件2）。\n<span><color=yellow>制作步骤：第 [3 / 5] 步</span>",
-			"name": "帆船套件III（船体）"
+			"desc": "<color=green>提示：</color>制作帆船的基础套件。将其附着到现有的帆船框架(见套件2)。\n<color=yellow>制作步骤：第 [3 / 5] 步",
+			"name": "帆船套件III(船体)"
 		},
 		"sailboatkit4": {
-			"desc": "<color=green>提示：</color>制作帆船的基础套件。将其附着到现有的帆船船体（见套件3）。\n<span><color=yellow>制作步骤：第 [4 / 5] 步</span>",
-			"name": "帆船套件IV（桅杆）"
+			"desc": "<color=green>提示：</color>制作帆船的基础套件。将其附着到现有的帆船船体(见套件3)。\n<color=yellow>制作步骤：第 [4 / 5] 步",
+			"name": "帆船套件IV(桅杆)"
 		},
 		"sailboatstorage": {
 			"desc": "<color=green>提示：</color>可附着到帆船上的可选储物装置。\n<color=yellow> [选配] </color>",
-			"name": "储物装置（帆船）"
+			"name": "储物装置(帆船)"
 		},
 		"salmon": {
 			"name": "三文鱼"
@@ -2500,7 +2500,7 @@
 			"name": "羊皮"
 		},
 		"sheeppeltblack": {
-			"name": "羊皮（黑色）"
+			"name": "羊皮(黑色)"
 		},
 		"shrimp": {
 			"name": "虾"
@@ -2635,7 +2635,7 @@
 		},
 		"sword12": {
 			"desc": "<color=green>提示：</color>一把单手、中东风格的弯刀",
-			"name": "弯刀（中东风格）"
+			"name": "弯刀(中东风格)"
 		},
 		"tentbag": {
 			"name": "帐篷包"
@@ -2825,13 +2825,13 @@
 			"name": "狼皮"
 		},
 		"wolfpeltblack": {
-			"name": "狼皮（黑色）"
+			"name": "狼皮(黑色)"
 		},
 		"wolfpeltgrey": {
-			"name": "狼皮（灰色）"
+			"name": "狼皮(灰色)"
 		},
 		"wolfpeltwhite": {
-			"name": "狼皮（白色）"
+			"name": "狼皮(白色)"
 		},
 		"wool": {
 			"desc": "<color=green>提示：</color>可从羊身上获取，能在纺车上纺成纱线",
@@ -2888,7 +2888,7 @@
 			"grid": {
 				"off": "网格：已禁用",
 				"on": "网格：已启用",
-				"simplebuilding": "在简单建造模式下无法禁用网格。\n\n禁用简单建造模式（按住 {0}）以获得更多控制",
+				"simplebuilding": "在简单建造模式下无法禁用网格。\n\n禁用简单建造模式(按住 {0})以获得更多控制",
 				"size": "网格尺寸：{0}"
 			},
 			"manual": {
@@ -2900,7 +2900,7 @@
 				"notsupported": "此元素不支持模块化捕捉",
 				"off": "模块化捕捉：已禁用",
 				"on": "模块化捕捉：已启用",
-				"simplebuilding": "在简单建造模式下无法使用模块化吸附。\n\n禁用简单建造模式（按住 {0}）以获得更多控制"
+				"simplebuilding": "在简单建造模式下无法使用模块化吸附。\n\n禁用简单建造模式(按住 {0})以获得更多控制"
 			},
 			"pivotcenter": {
 				"off": "禁用中心编辑模式",
@@ -2920,7 +2920,7 @@
 				"notsupported": "此元素不支持表面编辑",
 				"off": "表面编辑：已禁用",
 				"on": "表面编辑：已启用",
-				"simplebuilding": "在简单建造模式下无法使用表面编辑。\n\n禁用简单建造模式（按住 {0}）以获得更多控制"
+				"simplebuilding": "在简单建造模式下无法使用表面编辑。\n\n禁用简单建造模式(按住 {0})以获得更多控制"
 			},
 			"surfaceoffset": "表面偏移  X {0}  Y {1}  Z {2}",
 			"surfacesize": "表面尺寸  X {0}  Y {1}  Z {2}",
@@ -3043,7 +3043,7 @@
 			"restart": "<color=green>提示：</color>需要重新启动游戏以完成世界转换。游戏现在将重新启动...",
 			"toonew": "<color=green>提示：</color>这个世界比当前游戏版本更新，因此无法加载",
 			"tooold": "<color=green>提示：</color>很遗憾，这个世界太旧了，无法用当前版本加载",
-			"unknown": "<color=green>提示：</color>出问题了\n（{0}）"
+			"unknown": "<color=green>提示：</color>出问题了\n({0})"
 		},
 		"copiedtoclipboard": "<color=green>提示：</color>已复制到剪贴板：{0}",
 		"copiedtoclipboard2": "<color=green>提示：</color>已复制到剪贴板",
@@ -3081,18 +3081,18 @@
 			"densitypercent": "放置密度: {0} %",
 			"disabled": "创意模式已禁用",
 			"editcolor": "更改颜色",
-			"editconstructions": "编辑建筑元素（区域）",
+			"editconstructions": "编辑建筑元素(区域)",
 			"editshape": "更改形状",
 			"editsingleconstruction": "编辑单个建筑元素",
 			"edittexture": "更改纹理",
 			"enabled": "创意模式已启用",
 			"lookatelementtoedit": "请先看向一个元素以便对其进行编辑！",
 			"modes": {
-				"area": "模式：区域工具（F9）",
-				"edit": "模式：编辑工具（F8）",
-				"placement": "模式：放置工具（F6）",
-				"removal": "模式：移除工具（F7）",
-				"terrain": "模式：地形工具（F5）"
+				"area": "模式：区域工具(F9)",
+				"edit": "模式：编辑工具(F8)",
+				"placement": "模式：放置工具(F6)",
+				"removal": "模式：移除工具(F7)",
+				"terrain": "模式：地形工具(F5)"
 			},
 			"onlyonwater": "此工具仅在水面上可用！",
 			"placeconstructions": "放置建筑元素",
@@ -3130,11 +3130,11 @@
 			"entrypointnotfound": "方法调用失败。表明游戏文件可能损坏，或被其他程序(如杀毒软件)阻止运行。\n\n请检查游戏文件完整性，必要时重新下载。\n\n实际错误信息：\n\n<color=yellow>{0}</color>",
 			"error": "错误",
 			"exception": "发生了一个异常：\n\n<color=yellow>{0}</color>",
-			"filesystemaccessdenied": "游戏无法读写文件。表明游戏无文件操作权限，或其他程序（如杀毒软件）阻止了文件系统访问。\n\n实际错误信息：\n\n<color=yellow>{0}</color>",
+			"filesystemaccessdenied": "游戏无法读写文件。表明游戏无文件操作权限，或其他程序(如杀毒软件)阻止了文件系统访问。\n\n实际错误信息：\n\n<color=yellow>{0}</color>",
 			"gamefilecorrupted": "一个或多个游戏文件已损坏！\n请尝试验证游戏缓存的完整性或重新下载游戏。\n\n<color=orange>损坏的文件：\n{0}</color>",
 			"gamefilecorruptedsteam": "一个或多个游戏文件已损坏！\n\n请尝试验证游戏缓存的完整性：\n1. 在Steam库中右键点击《觉醒世界》\n2. 选择“属性”\n3. 前往“本地文件”\n4. 选择“验证游戏文件的完整性”\n\n\n<color=orange>损坏的文件：\n{0}</color>",
 			"graphicserror": "发生了一个内部{0}错误。例如，如果显卡驱动程序过时或没有足够的显存可用，就会出现这种情况。\n\n请从显卡制造商的主页下载并安装最新的显卡驱动程序。如果错误仍然存在，请联系我们的支持人员。\n\n错误信息：{1}",
-			"graphicsmemory": "似乎存在与{0}或你的显存相关的错误。这要么是由于显存不足，要么是显卡驱动程序的问题。如果你的显卡驱动程序是最新的，可以考虑降低一些图形设置（特别是关于纹理质量方面）以减少显存消耗。\n\n<color=yellow>错误：{1}</color>",
+			"graphicsmemory": "似乎存在与{0}或你的显存相关的错误。这要么是由于显存不足，要么是显卡驱动程序的问题。如果你的显卡驱动程序是最新的，可以考虑降低一些图形设置(特别是关于纹理质量方面)以减少显存消耗。\n\n<color=yellow>错误：{1}</color>",
 			"graphicswarning": "发生了一个内部{0}错误。通常这种情况发生在显卡驱动程序过时，或者显卡不支持特定功能时。\n请从显卡制造商的主页下载并安装最新的显卡驱动程序。\n\n<color=yellow>错误：{1}</color>",
 			"header": {
 				"compatibilityissue": "兼容性问题",
@@ -3153,9 +3153,9 @@
 			"notexturearrays": "需要纹理数组，但此图形适配器不支持：\n\n<color=red>{0}</color>\n\n这可能是由于显卡驱动程序过时或有错误导致的。请尝试下载并安装最新的显卡驱动程序。",
 			"recordingdeviceerror": "无法初始化你的录音设备\n请尝试在音频设置中选择一个不同的录音设备",
 			"somethingwentwrong": "出问题了...",
-			"sqlitereadonly": "游戏无法写入硬盘上的世界文件。这表明要么世界文件已损坏，要么另一个程序（如防病毒程序或防火墙）阻止了游戏。\n\n请尝试将游戏添加到防病毒程序或防火墙的允许列表中。或者尝试暂时禁用它，看看是否能解决问题。\n\n也请确保没有其他进程正在访问世界文件。",
+			"sqlitereadonly": "游戏无法写入硬盘上的世界文件。这表明要么世界文件已损坏，要么另一个程序(如防病毒程序或防火墙)阻止了游戏。\n\n请尝试将游戏添加到防病毒程序或防火墙的允许列表中。或者尝试暂时禁用它，看看是否能解决问题。\n\n也请确保没有其他进程正在访问世界文件。",
 			"steamapi": "无法初始化Steam API。\n\n在大多数情况下，你可以通过重新启动Steam客户端来解决这个问题。",
-			"steamapitimeout": "无法初始化Steam API（超时）\n\n在大多数情况下，你可以通过重新启动Steam客户端来解决这个问题。",
+			"steamapitimeout": "无法初始化Steam API(超时)\n\n在大多数情况下，你可以通过重新启动Steam客户端来解决这个问题。",
 			"steamlibmissing": "无法找到Steamworks库。这表明一些游戏文件可能已损坏或丢失，或者游戏无法访问它们。\n\n请尝试验证游戏文件的完整性：\n\n  1. 在Steam库中右键点击《觉醒世界》\n  2. 选择属性\n  3. 前往“本地文件”\n  4. 选择“验证游戏文件的完整性”",
 			"unabletocreatemaptile": "无法创建地图图块。\n错误：{0}",
 			"unabletosaveworld": "保存世界时发生错误！如果你再次收到此消息，这表明你可能会丢失当前进度。在这种情况下，建议重新启动游戏。\n\n错误：{0}",
@@ -3181,7 +3181,7 @@
 		},
 		"holdinteractionformoreoptions": "按住 {0} 以获取更多选项",
 		"images": {
-			"maxamountreached": "已达到允许上传图像的最大数量（见权限设置）",
+			"maxamountreached": "已达到允许上传图像的最大数量(见权限设置)",
 			"uploadfailed": "图像上传失败",
 			"uploadheader": "图像上传",
 			"uploadtimeout": "上传图像时超时。由于服务器没有响应，不清楚上传是否成功..."
@@ -3227,7 +3227,7 @@
 			"itemstoohot": "这些东西还太烫手，拿不了！",
 			"itemtoohot": "这个东西太热，烫手！",
 			"magnifyingglass": {
-				"equip": "最大缩放等级（{0}）现已提高\n\n你也可以将放大镜放入物品栏中的装备槽！"
+				"equip": "最大缩放等级({0})现已提高\n\n你也可以将放大镜放入物品栏中的装备槽！"
 			},
 			"measuringtape": {
 				"locked": "卷尺现已锁定并将保持可见。\n再次按下 {0} 以重置",
@@ -3329,7 +3329,7 @@
 				"waiting": "等待"
 			},
 			"banned": "你已被服务器封禁！",
-			"blacklisted": "你不被允许加入此服务器！（黑名单）",
+			"blacklisted": "你不被允许加入此服务器！(黑名单)",
 			"connectionerror": "连接错误",
 			"corruptedplayer": "玩家数据已损坏。\n请联系服务器管理员！",
 			"groupinvite": "{0}想要邀请你加入他的小组",
@@ -3342,15 +3342,15 @@
 			"invalidplayername": "你的玩家名称无效",
 			"invaliduid": "无效UID",
 			"isbanned": "你已被此服务器封禁！",
-			"itemgive": "一个物品已添加到你的背包中：{0}（x{1}）",
-			"itemgiveself": "你已给自己添加了一个物品：{0}（x{1}）",
+			"itemgive": "一个物品已添加到你的背包中：{0}(x{1})",
+			"itemgiveself": "你已给自己添加了一个物品：{0}(x{1})",
 			"kicked": "你已被服务器踢出！",
 			"maxplayersreached": "已达到玩家数量上限！",
 			"namealreadyinuse": "你的玩家名称已被占用！",
 			"passwordneeded": "加入服务器前请输入密码：",
 			"permbanned": "你已被此服务器永久封禁！",
-			"permissiongroupChanged": "你的权限已更新（{0}）",
-			"permissionsfromjava": "注意：发现了 Java 权限文件（文件扩展名：.permissions）。新版本不再支持这些文件，现在需要 .json 文件！\n看起来服务器目录中仍有一些 Java 版本遗留下来的文件？",
+			"permissiongroupChanged": "你的权限已更新({0})",
+			"permissionsfromjava": "注意：发现了 Java 权限文件(文件扩展名：.permissions)。新版本不再支持这些文件，现在需要 .json 文件！\n看起来服务器目录中仍有一些 Java 版本遗留下来的文件？",
 			"playerconnect": "玩家{0}已加入！",
 			"playerconnectfirsttime": "玩家{0}首次加入！",
 			"playerdisconnect": "玩家{0}已断开连接！",
@@ -3399,7 +3399,7 @@
 				"saddlerequired": "需先安装鞍具",
 				"saddlerequiredforbags": "你得先装上马鞍"
 			},
-			"shearingsheep": "羊毛修剪中...",
+			"shearingsheep": "修剪羊毛中...",
 			"shearsheepwithshears": "你需要剪刀来剪这只羊的毛",
 			"tooyoungtoride": "这只动物太小，还不能骑",
 			"tooyoungtoshear": "这只小羊太小，还不能剪毛"
@@ -3602,13 +3602,13 @@
 			"createbackupfirst": "你想先为你的世界创建一个备份吗？\n\n你可以通过在单人游戏菜单中右键点击世界随时恢复你的备份",
 			"createbackupfirsttitle": "是否先创建备份？",
 			"createbackuptitle": "先创建一个备份？",
-			"deletesector": "你真的想要删除{0} {1}区域吗？这将移除该区域内的所有物块（这也意味着在那里建造的所有东西都将被移除）。 \n\n<b>注意：要查看你当前的区域位置，你可以按F3在顶部查看你当前的区域。</b>\n\n<color=red>按取消以中止此操作</color>",
+			"deletesector": "你真的想要删除{0} {1}区域吗？这将移除该区域内的所有物块(这也意味着在那里建造的所有东西都将被移除)。 \n\n<b>注意：要查看你当前的区域位置，你可以按F3在顶部查看你当前的区域。</b>\n\n<color=red>按取消以中止此操作</color>",
 			"deletesectorconfirm": "请再次确认你想要删除该区域。该区域包含： \n<color=yellow>\n{0}个物块\n{1}个建筑元素\n{2}个物体\n</color>\n<b>删除该区域后，无法恢复物块！</b>",
 			"deletesectorheader": "删除区域： {0}   {1}",
 			"outofbounds": "你已超出此服务器允许的游戏区域",
 			"overridebiomeregion": "你真的想要覆盖{0} | {1}区域的气候区域吗？ \n\n<color=red>请注意，这也将完全重置该区域，这意味着在该区域内建造的所有东西都将不可挽回地被删除！</color>",
 			"overridebiomeregionheader": "覆盖{0}   {1}区域的气候区域",
-			"sectordeleted": "你真的想要删除{0} {1}区域吗？这将移除该区域内的所有物块（这也意味着在那里建造的所有东西都将被移除）。 \n\n注意：要查看你当前的区域位置，你可以按F3在顶部查看你当前的区域。 \n\n<color=red>按取消以中止此操作</color>",
+			"sectordeleted": "你真的想要删除{0} {1}区域吗？这将移除该区域内的所有物块(这也意味着在那里建造的所有东西都将被移除)。 \n\n注意：要查看你当前的区域位置，你可以按F3在顶部查看你当前的区域。 \n\n<color=red>按取消以中止此操作</color>",
 			"undo": {
 				"blueprint": "撤销：施工蓝图已移除！",
 				"confirmation": {
@@ -3641,7 +3641,7 @@
 		"measuring": {
 			"measuringtape": "距离：{0} {3}\n<size=60%>水平方向：{1} {3}\n垂直方向：{2} {3}</size>",
 			"unit": {
-				"blocks": "物块（单位）",
+				"blocks": "物块(单位)",
 				"feet": "英尺",
 				"inches": "英寸",
 				"meter": "米"
@@ -3970,13 +3970,13 @@
 			"name": "骨头"
 		},
 		"bonearm": {
-			"name": "骨头（手臂部分）"
+			"name": "骨头(手臂部分)"
 		},
 		"boneleg": {
-			"name": "骨头（腿部部分）"
+			"name": "骨头(腿部部分)"
 		},
 		"bonepelvis": {
-			"name": "骨头（骨盆部分）"
+			"name": "骨头(骨盆部分)"
 		},
 		"boneribcage": {
 			"name": "肋骨笼"
@@ -4001,7 +4001,7 @@
 			"name": "火盆"
 		},
 		"brokencarriage": {
-			"name": "马车（被摧毁的）"
+			"name": "马车(被摧毁的)"
 		},
 		"brokenchest": {
 			"name": "破损的箱子"
@@ -4010,10 +4010,10 @@
 			"name": "破损的手推车"
 		},
 		"bulkheadlamp1": {
-			"name": "舱壁灯（椭圆形）"
+			"name": "舱壁灯(椭圆形)"
 		},
 		"bulkheadlamp2": {
-			"name": "舱壁灯（单个）"
+			"name": "舱壁灯(单个)"
 		},
 		"cabinet1": {
 			"name": "橱柜"
@@ -4040,7 +4040,7 @@
 			"name": "马车"
 		},
 		"carriagechest": {
-			"name": "储物箱（马车）"
+			"name": "储物箱(马车)"
 		},
 		"cauldron": {
 			"name": "大锅"
@@ -4123,7 +4123,7 @@
 			"name": "旧金属门"
 		},
 		"doormetal1b": {
-			"name": "旧金属门（拱形）"
+			"name": "旧金属门(拱形)"
 		},
 		"doormodern1": {
 			"name": "木门"
@@ -4139,13 +4139,13 @@
 			"name": "旧门1"
 		},
 		"doorold1b": {
-			"name": "旧门1（拱形）"
+			"name": "旧门1(拱形)"
 		},
 		"doorold2": {
 			"name": "旧门2"
 		},
 		"doorold2b": {
-			"name": "旧门2（拱形）"
+			"name": "旧门2(拱形)"
 		},
 		"doorold3": {
 			"name": "旧门3"
@@ -4160,7 +4160,7 @@
 			"name": "监狱门"
 		},
 		"doorprisonhalf": {
-			"name": "监狱门（半扇）"
+			"name": "监狱门(半扇)"
 		},
 		"drawbridge": {
 			"desc": "大型吊桥，占地5x10物块",
@@ -4186,11 +4186,11 @@
 			"name": "玻璃前门"
 		},
 		"furnace": {
-			"desc": "<color=green>提示：</color>能让你将矿石熔炼成锭（有24个槽位）",
+			"desc": "<color=green>提示：</color>能让你将矿石熔炼成锭(有24个槽位)",
 			"name": "熔炉"
 		},
 		"furnacebig": {
-			"desc": "<color=green>提示：</color>能让你将矿石熔炼成锭，燃料消耗更高，但容量也特别大（有60个槽位）",
+			"desc": "<color=green>提示：</color>能让你将矿石熔炼成锭，燃料消耗更高，但容量也特别大(有60个槽位)",
 			"name": "大型熔炉"
 		},
 		"gift": {
@@ -4212,7 +4212,7 @@
 			"name": "石碾"
 		},
 		"grindstone": {
-			"desc": "<color=green>提示：</color>一种磨刀石，可用于磨砺某些工具和武器（如剑），从而提升它们的属性",
+			"desc": "<color=green>提示：</color>一种磨刀石，可用于磨砺某些工具和武器(如剑)，从而提升它们的属性",
 			"name": "磨刀石"
 		},
 		"guillotine": {
@@ -4252,7 +4252,7 @@
 			"name": "灯笼"
 		},
 		"lantern2": {
-			"name": "灯笼（方形）"
+			"name": "灯笼(方形)"
 		},
 		"leatherarmchair": {
 			"name": "皮革扶手椅"
@@ -4319,7 +4319,7 @@
 		},
 		"plaque": {
 			"desc": "一个空的奖章",
-			"name": "奖章（空）"
+			"name": "奖章(空)"
 		},
 		"portapotty": {
 			"name": "移动厕所"
@@ -4344,7 +4344,7 @@
 			"name": "拱形木门(原始)"
 		},
 		"primitivefurnace": {
-			"desc": "<color=green>提示：</color>能让你将矿石熔炼成锭，但容量有限（8个槽位）",
+			"desc": "<color=green>提示：</color>能让你将矿石熔炼成锭，但容量有限(8个槽位)",
 			"name": "熔炉(原始)"
 		},
 		"primitiveshelf": {
@@ -4392,11 +4392,11 @@
 		},
 		"scaffolding1_frame": {
 			"desc": "<color=green>提示：</color>木脚手架的框架",
-			"name": "脚手架（框架）"
+			"name": "脚手架(框架)"
 		},
 		"scaffolding1_platform": {
 			"desc": "<color=green>提示：</color>木脚手架的上层平台",
-			"name": "脚手架（平台）"
+			"name": "脚手架(平台)"
 		},
 		"scaffolding1_railing": {
 			"desc": "<color=green>提示：</color>一种可安装在脚手架上的可选栏杆",
@@ -4404,7 +4404,7 @@
 		},
 		"scaffolding1_ramp": {
 			"desc": "<color=green>提示：</color>带有斜坡的木脚手架",
-			"name": "脚手架（斜坡）"
+			"name": "脚手架(斜坡)"
 		},
 		"scaffolding1_small": {
 			"desc": "<color=green>提示：</color>木脚手架的缩小版",
@@ -4412,19 +4412,19 @@
 		},
 		"scaffolding1_small_ladder1": {
 			"desc": "<color=green>提示：</color>带有开口舱门和梯子的小型木脚手架",
-			"name": "小型脚手架（带梯子）"
+			"name": "小型脚手架(带梯子)"
 		},
 		"scaffolding1_small_ladder2": {
 			"desc": "<color=green>提示：</color>带有开口舱门和梯子的小型木脚手架",
-			"name": "小型脚手架B（带梯子）"
+			"name": "小型脚手架B(带梯子)"
 		},
 		"scaffolding1_small_ladder3": {
 			"desc": "<color=green>提示：</color>带有开口舱门的小型木脚手架",
-			"name": "小型脚手架（开口舱门）"
+			"name": "小型脚手架(开口舱门)"
 		},
 		"scaffounding1_small_ladder4": {
 			"desc": "<color=green>提示：</color>带有开口舱门的小型木脚手架",
-			"name": "小型脚手架B（开口舱门）"
+			"name": "小型脚手架B(开口舱门)"
 		},
 		"scaffolding1_small_railing": {
 			"desc": "<color=green>提示：</color>一种可安装在脚手架上的可选栏杆",
@@ -4432,11 +4432,11 @@
 		},
 		"scaffolding1b": {
 			"desc": "<color=green>提示：</color>一种临时性的、模块化的木结构，用于支撑建筑施工",
-			"name": "脚手架（B）"
+			"name": "脚手架(B)"
 		},
 		"scaffolding1b_small": {
 			"desc": "<color=green>提示：</color>木脚手架的缩小版",
-			"name": "小型脚手架（B）"
+			"name": "小型脚手架(B)"
 		},
 "seachest": {
 			"name": "海洋宝箱"
@@ -4560,7 +4560,7 @@
 			"name": "粗制帐篷"
 		},
 		"tentcrudesmall": {
-			"name": "粗制帐篷（小）"
+			"name": "粗制帐篷(小)"
 		},
 		"tentmodern": {
 			"desc": "<color=green>提示：</color>可供两人使用的帐篷，可让你睡觉并设置出生点",
@@ -4576,7 +4576,7 @@
 		},
 		"thronestone": {
 			"desc": "一个由巨石制成的大宝座",
-			"name": "宝座（石制）"
+			"name": "宝座(石制)"
 		},
 		"torch": {
 			"name": "火把"
@@ -4605,31 +4605,31 @@
 			"name": "小垃圾桶"
 		},
 		"trophybear": {
-			"name": "奖杯（熊）"
+			"name": "奖杯(熊)"
 		},
 		"trophydeer": {
-			"name": "奖杯（鹿）"
+			"name": "奖杯(鹿)"
 		},
 		"trophyfox": {
-			"name": "奖杯（狐狸）"
+			"name": "奖杯(狐狸)"
 		},
 		"trophylion": {
-			"name": "奖杯（狮子）"
+			"name": "奖杯(狮子)"
 		},
 		"trophymoose": {
-			"name": "奖杯（驼鹿）"
+			"name": "奖杯(驼鹿)"
 		},
 		"trophypolarbear": {
-			"name": "奖杯（北极熊）"
+			"name": "奖杯(北极熊)"
 		},
 		"trophyreddeer": {
-			"name": "奖杯（红鹿）"
+			"name": "奖杯(红鹿)"
 		},
 		"trophyskeleton": {
-			"name": "奖杯（骷髅）"
+			"name": "奖杯(骷髅)"
 		},
 		"trophywolf": {
-			"name": "奖杯（狼）"
+			"name": "奖杯(狼)"
 		},
 		"trough": {
 			"desc": "<color=green>提示：</color>一个可以装满水的容器。当放在室外时，可以被雨水填满。",
@@ -4643,7 +4643,7 @@
 			"name": "加固金属门"
 		},
 		"vaultdoor1b": {
-			"name": "加固金属门（圆形）"
+			"name": "加固金属门(圆形)"
 		},
 		"walltorch": {
 			"name": "壁挂式火把"
@@ -4652,7 +4652,7 @@
 			"name": "瞭望塔"
 		},
 		"watchtowerbroken": {
-			"name": "瞭望塔（被摧毁的）"
+			"name": "瞭望塔(被摧毁的)"
 		},
 		"weathervane": {
 			"desc": "<color=green>提示：</color>显示当前风向。",
@@ -4670,7 +4670,7 @@
 		},
 		"woodenbarrelopen": {
 			"desc": "<color=green>提示：</color>一个可以装满水的容器。",
-			"name": "木桶（打开）"
+			"name": "木桶(打开)"
 		},
 		"woodencrate": {
 			"desc": "可用于存储物品",
@@ -4711,14 +4711,14 @@
 		"areapermission": "区域权限",
 		"areapermissiononly": "仅限区域权限",
 		"blueprint": {
-			"create": "决定玩家是否被允许创建新的施工蓝图（从任何建筑）",
+			"create": "决定玩家是否被允许创建新的施工蓝图(从任何建筑)",
 			"createown": "决定玩家是否被允许创建仅包含其自身建筑的新蓝图",
 			"maxelements": "决定玩家想要放置的施工蓝图可能包含的最大元素数量",
-			"maxsize": "决定施工蓝图的最大尺寸/边界（宽度、长度和高度）",
+			"maxsize": "决定施工蓝图的最大尺寸/边界(宽度、长度和高度)",
 			"place": "决定玩家是否被允许在游戏世界中放置施工蓝图",
 			"placelimitsession": "决定玩家在一次游戏会话期间可放置施工蓝图数量的可选限制。设置为 -1 则无限制",
 			"placeterrain": "决定玩家是否被允许通过施工蓝图放置地形",
-			"placevegetation": "决定玩家是否被允许通过施工蓝图放置植被（植物、树木等）"
+			"placevegetation": "决定玩家是否被允许通过施工蓝图放置植被(植物、树木等)"
 		},
 		"category": {
 			"all": "全部",
@@ -4742,13 +4742,13 @@
 			"deleteplayer": "决定玩家是否被允许执行“删除玩家”命令",
 			"deletesector": "决定玩家是否被允许执行\"deletesector\"命令来删除/重置整个岛屿",
 			"disablenpc": "决定玩家是否被允许通过命令禁用服务器上的某个NPC",
-			"editnpc": "决定玩家是否被允许使用\"editnpc\"命令编辑现有NPC（更改其外观、服装、行为等）",
+			"editnpc": "决定玩家是否被允许使用\"editnpc\"命令编辑现有NPC(更改其外观、服装、行为等)",
 			"findbase": "决定玩家是否被允许使用“查找基地”命令来找到包含最多建筑元素的区块",
-			"gc": "决定玩家是否被允许调用服务器端垃圾回收器（“服务器GC”命令）",
+			"gc": "决定玩家是否被允许调用服务器端垃圾回收器(“服务器GC”命令)",
 			"getplayerinfo": "决定玩家是否可以通过“玩家信息”命令查询玩家信息",
 			"getserverinfo": "决定玩家是否可以通过“服务器信息”命令查询服务器信息",
 			"heal": "决定玩家是否被允许使用“治疗”命令",
-			"itemgive": "决定玩家是否被允许使用“物品”或“给予”命令给自己（或其他玩家）一个物品",
+			"itemgive": "决定玩家是否被允许使用“物品”或“给予”命令给自己(或其他玩家)一个物品",
 			"kick": "决定玩家是否被允许将其他玩家从服务器踢出",
 			"kill": "决定玩家是否被允许通过命令自杀",
 			"makeadmin": "决定玩家是否被允许使用“设置管理员”命令给玩家授予管理员权限",
@@ -4766,9 +4766,9 @@
 			"setdefaultgroup": "决定玩家是否被允许使用“设置默认组”命令设置新玩家的默认权限组",
 			"setinventory": "决定玩家是否被允许使用“设置背包”命令将自己当前的背包设置为所有玩家的新默认出生背包",
 			"setplayergroup": "决定玩家是否被允许使用“SPG”命令设置玩家的权限组",
-			"setsky": "决定玩家是否被允许执行与天空相关的命令（如“天空旋转”）",
+			"setsky": "决定玩家是否被允许执行与天空相关的命令(如“天空旋转”)",
 			"setspawn": "决定玩家是否被允许使用“设置出生点”命令设置默认服务器出生点",
-			"settime": "决定玩家是否被允许使用“设置时间”或“TOD”命令设置当前游戏内的时间（一天中的时刻）",
+			"settime": "决定玩家是否被允许使用“设置时间”或“TOD”命令设置当前游戏内的时间(一天中的时刻)",
 			"settimespeed": "决定玩家是否被允许使用“设置时间速度”命令设置当前游戏内的时间速度",
 			"setweather": "决定玩家是否被允许使用“天气”命令设置当前游戏内的天气",
 			"showareas": "决定玩家是否被允许使用“显示区域”命令可视化所有区域",
@@ -4776,41 +4776,41 @@
 			"spawnnpc": "决定玩家是否被允许使用“生成NPC”命令生成一个NPC",
 			"spawnvehicle": "决定玩家是否被允许使用“生成车辆”命令生成一辆车辆",
 			"sql": "警告：此权限决定玩家能否执行\"sql\"命令。该命令将赋予玩家完全访问世界数据库的权限！",
-			"teleport": "决定玩家是否被允许使用“传送”或“前往”命令传送自己（或其他玩家）",
-			"toggleterrain": "决定玩家能否执行\"toggleterrain\"命令（切换地形渲染开关）",
-			"togglewater": "决定玩家能否执行\"togglewater\"命令（切换水面效果开关）",
-			"updatescheduler": "决定玩家是否被允许更新调度器（添加或删除任务）",
+			"teleport": "决定玩家是否被允许使用“传送”或“前往”命令传送自己(或其他玩家)",
+			"toggleterrain": "决定玩家能否执行\"toggleterrain\"命令(切换地形渲染开关)",
+			"togglewater": "决定玩家能否执行\"togglewater\"命令(切换水面效果开关)",
+			"updatescheduler": "决定玩家是否被允许更新调度器(添加或删除任务)",
 			"yell": "决定玩家是否被允许通过“喊话”命令发送公告消息"
 		},
 		"creative": {
 			"allrecipes": "决定玩家在创意模式下是否能访问所有制作配方",
-			"areatools": "决定玩家是否被允许使用创意模式的区域工具（F9）",
-			"edittools": "决定玩家是否被允许使用创意模式的编辑工具（F8）",
+			"areatools": "决定玩家是否被允许使用创意模式的区域工具(F9)",
+			"edittools": "决定玩家是否被允许使用创意模式的编辑工具(F8)",
 			"fly": "决定玩家在创意模式下是否被允许飞行",
 			"freecrafting": "决定在创意模式下制作物品是否无需资源",
 			"godmode": "决定玩家在创意模式下是否无敌",
 			"infiniteitems": "如果为真，玩家在创意模式下永远不会消耗任何物品",
 			"instantdigging": "决定玩家在创意模式下是否能用少量攻击摧毁地形或物体",
-			"light": "决定玩家是否被允许使用创意模式的灯光（L）",
-			"placementtools": "决定玩家是否被允许使用创意模式的放置工具（F6）",
-			"removaltools": "决定玩家是否被允许使用创意模式的移除工具（F7）",
-			"terraintools": "决定玩家是否被允许使用创意模式的地形工具（F5）",
-			"watertools": "决定玩家是否被允许使用创意模式的水工具（F5）"
+			"light": "决定玩家是否被允许使用创意模式的灯光(L)",
+			"placementtools": "决定玩家是否被允许使用创意模式的放置工具(F6)",
+			"removaltools": "决定玩家是否被允许使用创意模式的移除工具(F7)",
+			"terraintools": "决定玩家是否被允许使用创意模式的地形工具(F5)",
+			"watertools": "决定玩家是否被允许使用创意模式的水工具(F5)"
 		},
 		"defaultlabel": "默认",
 		"defaultpermission": "默认权限",
 		"forbidden": {
 			"crafting": "玩家不被允许使用的可选制作配方列表",
 			"items": "玩家不被允许制作、拾取或使用的可选物品列表",
-			"objects": "玩家不被允许制作、拾取或使用的可选物体（如家具、工作台等）列表"
+			"objects": "玩家不被允许制作、拾取或使用的可选物体(如家具、工作台等)列表"
 		},
 		"general": {
 			"changeblockshape": "决定玩家是否被允许追溯性地更改其背包中一个物块的形状",
 			"changeclothes": "决定玩家是否被允许更换自己的衣服",
-			"changegamemode": "决定玩家是否被允许更改游戏模式（GM）",
+			"changegamemode": "决定玩家是否被允许更改游戏模式(GM)",
 			"changeskin": "决定玩家是否被允许在服务器上更改自己的皮肤",
 			"crafting": "决定玩家是否被允许制作任何物品",
-			"destroyitems": "决定玩家是否被允许在世界中摧毁物品（工具、武器等）",
+			"destroyitems": "决定玩家是否被允许在世界中摧毁物品(工具、武器等)",
 			"destroyownvehicles": "决定玩家是否被允许摧毁自己的载具",
 			"destroyvehicles": "决定玩家是否被允许摧毁车辆",
 			"dropitems": "决定玩家是否被允许丢弃物品",
@@ -4825,7 +4825,7 @@
 			"healthregeneration": "健康恢复系数。设置为0可禁用健康恢复",
 			"instantdigging": "决定玩家是否能用少量攻击摧毁地形或物体",
 			"keepinventory": "决定玩家死亡时是否保留背包",
-			"noclipping": "决定玩家飞行时是否禁用碰撞（“无碰撞”）",
+			"noclipping": "决定玩家飞行时是否禁用碰撞(“无碰撞”)",
 			"nofalldamage": "决定玩家是否禁用跌落伤害",
 			"nohungerthirst": "决定玩家是否禁用饥饿和口渴",
 			"nostamina": "决定玩家是否拥有无限耐力",
@@ -4835,14 +4835,14 @@
 			"pickupitems": "决定玩家是否被允许拾取物品",
 			"placeitems": "决定玩家是否被允许在世界中放置物品",
 			"placevehicles": "决定玩家是否被允许放置或组装车辆",
-			"pve": "决定该玩家是否允许PVE（即是否允许他杀死NPC）",
-			"pvp": "决定该玩家是否允许PVP（即是否允许他杀死其他玩家）",
+			"pve": "决定该玩家是否允许PVE(即是否允许他杀死NPC)",
+			"pvp": "决定该玩家是否允许PVP(即是否允许他杀死其他玩家)",
 			"ridemounts": "决定玩家是否被允许骑乘坐骑",
-			"unlockalldoors": "决定玩家是否被允许解锁所有门（即使是他不拥有的门）",
-			"useallchests": "决定玩家是否被允许访问所有箱子（即使是他不拥有的箱 子）",
-			"usealllights": "决定玩家是否被允许修改所有灯具和灯光（即使是他不拥有的灯具）",
-			"useallobjects": "决定玩家是否被允许与所有物体交互（即使是他不拥有的物体）",
-			"useallvehicles": "决定玩家是否被允许使用所有车辆（即使是他不拥有的车辆）",
+			"unlockalldoors": "决定玩家是否被允许解锁所有门(即使是他不拥有的门)",
+			"useallchests": "决定玩家是否被允许访问所有箱子(即使是他不拥有的箱 子)",
+			"usealllights": "决定玩家是否被允许修改所有灯具和灯光(即使是他不拥有的灯具)",
+			"useallobjects": "决定玩家是否被允许与所有物体交互(即使是他不拥有的物体)",
+			"useallvehicles": "决定玩家是否被允许使用所有车辆(即使是他不拥有的车辆)",
 			"voicechat": "决定玩家是否被允许使用语音聊天"
 		},
 		"grouplabel": "组",
@@ -4851,26 +4851,26 @@
 		"image": {
 			"delete": "决定玩家是否被允许删除服务器上的任何图像",
 			"deleteown": "决定玩家是否被允许删除自己的图像",
-			"maxamount": "决定玩家被允许上传的图像（海报）的最大数量",
-			"maxresolution": "决定上传自定义图像（海报）所允许的最大分辨率"
+			"maxamount": "决定玩家被允许上传的图像(海报)的最大数量",
+			"maxresolution": "决定上传自定义图像(海报)所允许的最大分辨率"
 		},
 		"info": {
 			"chat": "决定玩家是否被允许使用聊天功能",
-			"chatcolor": "该玩家聊天消息的颜色（RGB）。格式：#RRGGBB",
+			"chatcolor": "该玩家聊天消息的颜色(RGB)。格式：#RRGGBB",
 			"chatemojis": "决定玩家是否被允许在聊天消息中使用表情符号",
-			"chatnamecolor": "聊天中玩家名字的颜色（RGB）。格式：#RRGGBB",
+			"chatnamecolor": "聊天中玩家名字的颜色(RGB)。格式：#RRGGBB",
 			"chatnameprefix": "聊天中玩家名字的可选前缀",
 			"chatnamesuffix": "聊天中玩家名字的可选后缀",
 			"chatprefix": "将显示在玩家聊天消息前面的可选前缀",
 			"chatrichtext": "决定玩家是否被允许在聊天消息中使用富文本标签",
 			"group": "决定应在玩家列表中显示的“组名”。除此之外，此权限无其他关联",
-			"groupcolor": "在玩家列表中显示“组”名时的颜色（RGB）。格式：#RRGGBB",
+			"groupcolor": "在玩家列表中显示“组”名时的颜色(RGB)。格式：#RRGGBB",
 			"nametagalwaysvisible": "决定玩家的名字标签是否应透过墙壁可见",
-			"nametagcolor": "该玩家名字标签的颜色（RGB）。格式：#RRGGBB",
+			"nametagcolor": "该玩家名字标签的颜色(RGB)。格式：#RRGGBB",
 			"nametagprefix": "玩家名字标签的可选前缀",
-			"nametagprefixcolor": "该玩家可选名字标签前缀的颜色（RGB）。格式：#RRGGBB",
+			"nametagprefixcolor": "该玩家可选名字标签前缀的颜色(RGB)。格式：#RRGGBB",
 			"nametagsuffix": "玩家名字标签的可选后缀",
-			"nametagsuffixcolor": "该玩家可选名字标签后缀的颜色（RGB）。格式：#RRGGBB",
+			"nametagsuffixcolor": "该玩家可选名字标签后缀的颜色(RGB)。格式：#RRGGBB",
 			"showadmintag": "决定在玩家列表中该玩家的[管理员]标签是否应可见",
 			"showdistance": "决定到该玩家的距离是否应在玩家列表中显示",
 			"showinplayerlist": "决定该玩家是否应在玩家列表中可见",
@@ -4878,26 +4878,26 @@
 		},
 		"map": {
 			"allicons": "决定玩家是否被允许创建所有可用的地图图标。否则仅默认标记可用",
-			"createglobalmarker": "决定玩家是否被允许创建全局标记（即对每个玩家都可见的标记）",
-			"createlocalmarker": "决定玩家是否被允许创建自己的标记（即仅对该特定玩家可见的标记）"
+			"createglobalmarker": "决定玩家是否被允许创建全局标记(即对每个玩家都可见的标记)",
+			"createlocalmarker": "决定玩家是否被允许创建自己的标记(即仅对该特定玩家可见的标记)"
 		},
 		"world": {
 			"destroyconstructions": "决定玩家是否被允许摧毁建筑元素",
-			"destroyobjects": "决定玩家是否被允许摧毁物体元素（如家具）",
+			"destroyobjects": "决定玩家是否被允许摧毁物体元素(如家具)",
 			"destroyownconstructions": "决定玩家是否被允许摧毁自己的建筑元素",
-			"destroyownobjects": "决定玩家是否被允许摧毁自己的物体元素（如家具）",
+			"destroyownobjects": "决定玩家是否被允许摧毁自己的物体元素(如家具)",
 			"destroyownvegetations": "决定玩家是否被允许摧毁自己的植物或树木",
 			"destroyterrain": "决定玩家是否被允许摧毁地形",
 			"destroyvegetations": "决定玩家是否被允许摧毁植物或树木",
 			"editconstructions": "决定玩家是否被允许编辑建筑元素",
-			"editobjects": "决定玩家是否被允许编辑物体元素（如家具）",
+			"editobjects": "决定玩家是否被允许编辑物体元素(如家具)",
 			"editownconstructions": "决定玩家是否被允许编辑自己的建筑元素",
-			"editownobjects": "决定玩家是否被允许编辑自己的物体元素（如家具）",
+			"editownobjects": "决定玩家是否被允许编辑自己的物体元素(如家具)",
 			"editownvegetations": "决定玩家是否被允许编辑自己的植物或树木",
 			"editvegetations": "决定玩家是否被允许编辑植物或树木",
 			"placeconstructions": "决定玩家是否被允许放置建筑元素",
-			"placeobjects": "决定玩家是否被允许放置物体元素（如家具）",
-			"placeobjectsexception": "如果“放置物体”不被允许，可在此指定例外情况（即玩家仍被允许放置的物体）",
+			"placeobjects": "决定玩家是否被允许放置物体元素(如家具)",
+			"placeobjectsexception": "如果“放置物体”不被允许，可在此指定例外情况(即玩家仍被允许放置的物体)",
 			"placeterrain": "决定玩家是否被允许放置地形",
 			"placevegetations": "决定玩家是否被允许放置植物或树木",
 			"undo": "决定玩家是否被允许使用“撤销”命令"
@@ -4905,7 +4905,7 @@
 	},
 	"plant": {
 		"acacia": "金合欢",
-		"acaciadead": "金合欢（枯死的）",
+		"acaciadead": "金合欢(枯死的)",
 		"acropora": "鹿角珊瑚",
 		"agave": "龙舌兰",
 		"agavehavardiana": "哈佛氏龙舌兰",
@@ -4913,8 +4913,8 @@
 		"aloevera": "芦荟",
 		"ancienttree": "远古巨树",
 		"apple": "苹果树",
-		"appledead": "苹果树（枯死的）",
-		"applegreen": "苹果树（绿色的）",
+		"appledead": "苹果树(枯死的)",
+		"applegreen": "苹果树(绿色的)",
 		"araucaria": "南洋杉",
 		"beavertail": "鼠尾掌仙人掌",
 		"birch": "桦树",
@@ -4924,8 +4924,8 @@
 		"bush": "灌木",
 		"bushcedar": "灌木",
 		"cactus": "仙人掌",
-		"cactussmall": "仙人掌（小的）",
-		"cactustall": "仙人掌（高的）",
+		"cactussmall": "仙人掌(小的)",
+		"cactustall": "仙人掌(高的)",
 		"carrot": "胡萝卜",
 		"category": {
 			"api": "新植物",
@@ -4951,7 +4951,7 @@
 		"corn": "玉米",
 		"cotton": "棉花",
 		"cypress": "柏树",
-		"cypressdead": "柏树（枯死的）",
+		"cypressdead": "柏树(枯死的)",
 		"dandelion": "蒲公英",
 		"deadbush": "枯死的灌木",
 		"drygrass": "干草",
@@ -4974,7 +4974,7 @@
 		"lettuce": "生菜",
 		"londonplane": "英国梧桐",
 		"mesquite": "牧豆树",
-		"mesquitedead": "牧豆树（枯死的）",
+		"mesquitedead": "牧豆树(枯死的)",
 		"monstera": "龟背竹",
 		"nopalcactus": "仙人掌属植物",
 		"ore": "矿石岩石",
@@ -4985,7 +4985,7 @@
 		"potato": "土豆植株",
 		"pumpkin": "南瓜",
 		"redmaple": "红枫树",
-		"redmapledead": "红枫树（枯死的）",
+		"redmapledead": "红枫树(枯死的)",
 		"redwood": "红杉",
 		"rock": "岩石",
 		"rocklarge": "岩石(大)",
@@ -4997,12 +4997,12 @@
 		"spookytree": "幽灵树",
 		"spruce": "云杉",
 		"spruce2": "云杉2",
-		"sprucedead": "云杉（枯死的）",
+		"sprucedead": "云杉(枯死的)",
 		"spruceforest": "森林云杉",
 		"spruceforest2": "森林云杉2",
 		"spruceforest3": "森林云杉3",
 		"spruceforest4": "森林云杉4",
-		"spruceforestdead": "森林云杉（枯死的）",
+		"spruceforestdead": "森林云杉(枯死的)",
 		"stage": {
 			"dead": "枯死",
 			"growing": "生长中",
@@ -5022,19 +5022,19 @@
 		"weepingbeech": "垂枝山毛榉",
 		"wheat": "小麦",
 		"willowoak": "柳栎",
-		"willowoakdead": "柳栎（枯死的）"
+		"willowoakdead": "柳栎(枯死的)"
 	},
 	"platform": {
 		"lanservername": "觉醒世界局域网会话 - {0}",
 		"p2pservername": "觉醒世界P2P会话 - {0}",
 		"richpresence": {
 			"type": {
-				"legacy": "旧版（Java版本）",
+				"legacy": "旧版(Java版本)",
 				"rw": "觉醒世界",
-				"rw-host": "多人游戏（主机）",
-				"rw-lan": "多人游戏（局域网）",
+				"rw-host": "多人游戏(主机)",
+				"rw-lan": "多人游戏(局域网)",
 				"rw-mp": "多人游戏",
-				"rw-p2p": "多人游戏（P2P）",
+				"rw-p2p": "多人游戏(P2P)",
 				"rw-sp": "单人游戏"
 			}
 		},
@@ -5063,15 +5063,15 @@
 			"setpermissionmessage": "为该区域选择默认权限。\n当前权限：<color=yellow>{0}</color>",
 			"setplayerpermissionmessage": "选择你想要应用于所选玩家的权限",
 			"setpriority": "设置优先级",
-			"setprioritymessage": "设置你想要为该区域设置的优先级（整数）。默认：0",
-			"showname": "显示区域名称：{0}\n（进入区域时）",
+			"setprioritymessage": "设置你想要为该区域设置的优先级(整数)。默认：0",
+			"showname": "显示区域名称：{0}\n(进入区域时)",
 			"tooltips": {
-				"addplayer": "将玩家添加到此区域。\n\n这使你能够仅为此玩家覆盖此区域内的权限（因此默认的区域权限对此玩家不再有效）",
-				"delete": "删除此区域（长按）",
+				"addplayer": "将玩家添加到此区域。\n\n这使你能够仅为此玩家覆盖此区域内的权限(因此默认的区域权限对此玩家不再有效)",
+				"delete": "删除此区域(长按)",
 				"removeplayer": "从区域中移除之前添加的玩家",
 				"setname": "为区域设置自定义名称",
-				"setpermission": "设置此区域的<u>默认权限</u>。\n\n此权限对进入该区域的每个玩家都有效（除非该玩家被以特定权限添加到区域）",
-				"setpriority": "设置此区域的优先级（默认优先级：0）。\n\n这在与重叠区域相关时很重要——如果玩家同时处于多个区域，则优先级最高的区域将生效（用于权限等）",
+				"setpermission": "设置此区域的<u>默认权限</u>。\n\n此权限对进入该区域的每个玩家都有效(除非该玩家被以特定权限添加到区域)",
+				"setpriority": "设置此区域的优先级(默认优先级：0)。\n\n这在与重叠区域相关时很重要——如果玩家同时处于多个区域，则优先级最高的区域将生效(用于权限等)",
 				"showname": "确定玩家进入区域时是否应显示区域名称"
 			}
 		},
@@ -5119,14 +5119,14 @@
 				"grid": "切换网格。如果网格启用，元素将始终吸附到固定网格。\n\n你可以使用<b>\"{0}\"</b>和<b>\"{1}\"</b>来更改网格大小。\n\n或者你也可以按<b>\"{2}\"</b>来切换网格",
 				"loadpreset": "允许你加载之前保存的尺寸预设",
 				"manualplacement": "切换手动放置。如果启用，元素不再跟随你的光标，而是锁定在当前位置。\n\n要移动锁定的元素，使用与旋转相同的按键。\n\n或者你也可以按<b>\"{0}\"</b>来切换手动放置",
-				"modularsnapping": "切换模块化吸附。如果启用，元素将自动吸附到你当前看着的元素。\n\n绿色圆点（当看着一个元素时）将成为活动轴心，即旋转你的元素时，它将围绕此点旋转。\n\n或者你也可以按<b>\"{0}\"</b>来切换模块化吸附",
-				"movemode": "决定手动移动模式（<b>{0}</b>）的工作方式。\n\n<align=left>\n<color=yellow>世界：</color>移动始终沿着固定的世界轴（默认）\n\n<color=yellow>本地：</color>移动沿着本地元素轴（即取决于元素旋转）\n</align>",
-				"moveprecision": "决定手动移动模式（<b>{0}</b>）激活时的精度",
-				"pivotmode": "决定模块化吸附（<b>{0}</b>）应如何工作。\n\n<align=left>\n<color=yellow>自动：</color>自动选择最近的轴心。推荐模式（默认）\n\n<color=yellow>手动：</color>你手动选择活动轴心（用按键<b>\"{1}\"</b>和<b>\"{2}\"</b>）\n</align>\n\n默认模式：自动（推荐）",
+				"modularsnapping": "切换模块化吸附。如果启用，元素将自动吸附到你当前看着的元素。\n\n绿色圆点(当看着一个元素时)将成为活动轴心，即旋转你的元素时，它将围绕此点旋转。\n\n或者你也可以按<b>\"{0}\"</b>来切换模块化吸附",
+				"movemode": "决定手动移动模式(<b>{0}</b>)的工作方式。\n\n<align=left>\n<color=yellow>世界：</color>移动始终沿着固定的世界轴(默认)\n\n<color=yellow>本地：</color>移动沿着本地元素轴(即取决于元素旋转)\n</align>",
+				"moveprecision": "决定手动移动模式(<b>{0}</b>)激活时的精度",
+				"pivotmode": "决定模块化吸附(<b>{0}</b>)应如何工作。\n\n<align=left>\n<color=yellow>自动：</color>自动选择最近的轴心。推荐模式(默认)\n\n<color=yellow>手动：</color>你手动选择活动轴心(用按键<b>\"{1}\"</b>和<b>\"{2}\"</b>)\n</align>\n\n默认模式：自动(推荐)",
 				"resetrotation": "重置元素的当前旋转\n\n或者按<b>\"{0}\"</b>重置旋转",
 				"resetsize": "将尺寸重置为默认值<nobr>{0}</nobr>\n\n或者按<b>\"{1}\"</b>重置尺寸",
 				"rotateprecision": "决定旋转元素时的精度",
-				"rotationmode": "决定元素应如何旋转。\n\n<align=left>\n<color=yellow>默认：</color>世界和本地模式的混合（默认）\n\n<color=yellow>世界：</color>旋转始终围绕固定的世界轴，不受元素旋转影响\n\n<color=yellow>本地：</color>旋转始终围绕本地轴，基于元素的旋转\n</align>",
+				"rotationmode": "决定元素应如何旋转。\n\n<align=left>\n<color=yellow>默认：</color>世界和本地模式的混合(默认)\n\n<color=yellow>世界：</color>旋转始终围绕固定的世界轴，不受元素旋转影响\n\n<color=yellow>本地：</color>旋转始终围绕本地轴，基于元素的旋转\n</align>",
 				"savepreset": "允许你将当前元素尺寸保存为预设，以便随时加载",
 				"scaleprecision": "决定调整元素大小时的精度",
 				"surfaceedit": "启用/禁用高级表面编辑模式。\n\n这允许你单独移动元素的上部",
@@ -5169,7 +5169,7 @@
 		"items": {
 			"fireworkrocket": {
 				"setoff": "发射",
-				"setoffall": "发射所有（附近的）",
+				"setoffall": "发射所有(附近的)",
 				"setoffnow": "立即发射",
 				"timer": "设置定时器"
 			},
@@ -5182,9 +5182,9 @@
 					"veryhigh": "3位小数"
 				},
 				"unit": {
-					"blocks": "默认（物块）",
-					"imperial": "英制（英尺）",
-					"metric": "公制（米）",
+					"blocks": "默认(物块)",
+					"imperial": "英制(英尺)",
+					"metric": "公制(米)",
 					"name": "单位\n<#FFFF00>{0}<#FFFFFF>"
 				}
 			},
@@ -5199,9 +5199,9 @@
 		"objects": {
 			"bed": {
 				"lie": "躺下",
-				"removespawn": "移除出生点（床）",
+				"removespawn": "移除出生点(床)",
 				"rest": "休息",
-				"setspawn": "设置出生点（床）",
+				"setspawn": "设置出生点(床)",
 				"sleep": "睡觉"
 			},
 			"blueprints": "施工蓝图",
@@ -5228,7 +5228,7 @@
 					"off": "阴影关闭",
 					"on": "阴影打开"
 				},
-				"sync": "同步灯光\n（与附近物体）"
+				"sync": "同步灯光\n(与附近物体)"
 			},
 			"musicplayer": {
 				"currentvolume": "当前音量",
@@ -5248,7 +5248,7 @@
 			"piano": {
 				"play": "弹奏钢琴"
 			},
-			"pickup": "收取（长按）",
+			"pickup": "收取(长按)",
 			"poster": {
 				"changeimage": "更换图片",
 				"clearimage": "清除图片",
@@ -5275,8 +5275,8 @@
 				"close": "关闭帐篷门",
 				"open": "打开帐篷门",
 				"pack": "收取帐篷",
-				"removespawn": "移除出生点（帐篷）",
-				"setspawn": "设置出生点（帐篷）",
+				"removespawn": "移除出生点(帐篷)",
+				"setspawn": "设置出生点(帐篷)",
 				"sleep": "睡觉"
 			},
 			"trap": {
@@ -5316,11 +5316,11 @@
 		"terrainplace": {
 			"add": "累积放置(累加新的在上面)",
 			"grass": {
-				"lvl0": "平整（无草叶）",
-				"lvl1": "短（1）",
-				"lvl2": "默认（2）",
-				"lvl3": "高（3）",
-				"lvl4": "非常高（4）"
+				"lvl0": "平整(无草叶)",
+				"lvl1": "短(1)",
+				"lvl2": "默认(2)",
+				"lvl3": "高(3)",
+				"lvl4": "非常高(4)"
 			},
 			"paint": "原位覆盖(保留原有起伏)"
 		},
@@ -5328,9 +5328,9 @@
 			"boat": {
 				"sailfurl": "收起船帆",
 				"sailunfurl": "展开船帆",
-				"setsailimage": "设置图像（船帆）"
+				"setsailimage": "设置图像(船帆)"
 			},
-			"deconstruct": "拆解（长按）",
+			"deconstruct": "拆解(长按)",
 			"enter": "进入",
 			"exit": "退出",
 			"push": "推动",
@@ -5342,7 +5342,7 @@
 	"selector": {
 		"movemode": {
 			"local": "本地",
-			"world": "世界（默认）"
+			"world": "世界(默认)"
 		},
 		"pivotmode": {
 			"automatic": "自动",
@@ -5441,7 +5441,7 @@
 				"duplicateblueprintheader": "复制施工蓝图",
 				"emptyselection": "所选区域为空",
 				"exportblueprint": "你想要将施工蓝图导出为.obj格式吗？导出的文件将存储在游戏目录的“导出”文件夹中。\n\n请注意，只有建筑元素会被导出，纹理将不包含在内！",
-				"exportblueprintheader": "导出施工蓝图（.obj）",
+				"exportblueprintheader": "导出施工蓝图(.obj)",
 				"exporting": "正在导出...\n\n<size=50%>这可能需要一些时间</size>",
 				"renameblueprint": "你真的想要重命名这个施工蓝图吗？",
 				"renameblueprintheader": "重命名施工蓝图",
@@ -5450,7 +5450,7 @@
 			},
 			"name": "施工蓝图",
 			"objectcount": "物体数量：{0}",
-			"placed": "施工蓝图已放置\n\n（如果你想移除该蓝图，可以在控制台输入'undo'）",
+			"placed": "施工蓝图已放置\n\n(如果你想移除该蓝图，可以在控制台输入'undo')",
 			"placing": "正在放置施工蓝图\n<color=yellow>{0}</color>\n",
 			"placingindicator": "正在放置施工蓝图，请稍候...",
 			"placingindicatorheader": "<smallcaps><color=yellow>{0}</color></smallcaps>",
@@ -5566,7 +5566,7 @@
 					"infoheaderlabel": "以下信息将会被发送："
 				},
 				"mailcontainer": {
-					"mailheaderlabel": "您的联系邮箱（可选）："
+					"mailheaderlabel": "您的联系邮箱(可选)："
 				}
 			},
 			"message": {
@@ -5692,7 +5692,7 @@
 			},
 			"resize": {
 				"absolutescale": "设置绝对大小",
-				"header": "更改缩放（绝对）",
+				"header": "更改缩放(绝对)",
 				"invalidvalues": "无效的大小值！请输入数值"
 			},
 			"rotate": {
@@ -5709,12 +5709,12 @@
 				"changeidheader": "更改纹理ID",
 				"changetexturealignment": "为纹理选择新的对齐方式：",
 				"changetexturealignmentheader": "更改纹理对齐",
-				"changetexturescale": "为纹理输入一个新的缩放因子（默认：1）",
+				"changetexturescale": "为纹理输入一个新的缩放因子(默认：1)",
 				"changetexturescaleheader": "更改纹理缩放",
 				"header": "替换纹理...",
 				"message": {
 					"changedid": "已将纹理ID从{0}更改为{1}",
-					"changedidandcolor": "已将纹理ID从{0}更改为{1} （颜色：{2}）"
+					"changedidandcolor": "已将纹理ID从{0}更改为{1} (颜色：{2})"
 				},
 				"tooltips": {
 					"lefttexture": "选择一个过滤纹理，即只有具有此材质的物块会被更改。要更改所有所选物块，在此处不设置纹理\n\n<color=orange>要重置过滤器，右键单击纹理</color>",
@@ -5817,7 +5817,7 @@
 				"flip": "翻转/镜像建筑元素",
 				"loadpreset": "从硬盘加载先前存储的尺寸预设",
 				"moveprecision": "更改手动定位期间的移动步长。\n与“setp”控制台命令相同",
-				"pivotmode": "在自动和手动锚点放置之间切换。在自动模式下，游戏会尝试找到元素可捕捉到的最合适锚点。在手动模式下，相反，您可以手动定义活动锚点（请参阅“下一个锚点”和“前一个锚点”键绑定的控制说明）。\n\n默认情况下，自动模式处于活动状态",
+				"pivotmode": "在自动和手动锚点放置之间切换。在自动模式下，游戏会尝试找到元素可捕捉到的最合适锚点。在手动模式下，相反，您可以手动定义活动锚点(请参阅“下一个锚点”和“前一个锚点”键绑定的控制说明)。\n\n默认情况下，自动模式处于活动状态",
 				"rotateprecision": "更改旋转步长，即每次点击您将元素旋转多少度。\n与“setp”控制台命令相同",
 				"rotationmode": "更改旋转模式：在“世界”旋转模式下，元素始终围绕固定的世界轴旋转。在“本地”旋转模式下，旋转轴随元素一起旋转。“默认”模式是这两种模式的混合",
 				"savepreset": "将建筑元素的当前尺寸存储到硬盘上",
@@ -5835,7 +5835,7 @@
 				"modular": "【模块化锚点捕捉 (开/关)】，即元素自动捕捉到另一个元素",
 				"move": "【旋转对象】如果按下<color=#D164FF>缩放按钮</color>，则改为沿<color=green>X</color>、<color=#5C8EFF>Y</color>和<color=red>Z</color>轴缩放元素。\n如果<color=#BFFBA5>表面编辑</color>处于活动状态，这仅移动或缩放元素的上侧",
 				"plusminus": "【缩放 (＋/—)】如果<color=#FEAEAE>网格</color>处于活动状态，这将更改网格大小。\n否则，如果按下<color=#D164FF>缩放按钮</color>，使用这些按钮按比例缩放元素",
-				"previousnextpivot": "【切换锚点 (上一个/下一个)】如果<color=#D3E2D8>模块化捕捉</color>处于活动状态且锚点模式设置为手动\n（请参阅<color=#8DF1FF>上下文菜单</color>），这将选择前一个/下一个锚点",
+				"previousnextpivot": "【切换锚点 (上一个/下一个)】如果<color=#D3E2D8>模块化捕捉</color>处于活动状态且锚点模式设置为手动\n(请参阅<color=#8DF1FF>上下文菜单</color>)，这将选择前一个/下一个锚点",
 				"primary": "【连续放置】按住以连续放置多个元素",
 				"reset": "【重置旋转】如果按下<color=#D164FF>缩放按钮</color>，则改为重置当前缩放比例",
 				"resize": "【缩放对象】按住此按钮以缩放元素",
@@ -5843,8 +5843,8 @@
 				"surfaceedit": "【表面编辑模式 (开/关)】。在此模式下，您可以独立移动或缩放元素的上侧"
 			},
 			"edit": {
-				"radialmenu": "显示选项（长按）",
-				"repeatcontinuous": "重复上一个动作（长按）"
+				"radialmenu": "显示选项(长按)",
+				"repeatcontinuous": "重复上一个动作(长按)"
 			},
 			"items": {
 				"bottle": {
@@ -5853,8 +5853,8 @@
 				},
 				"bow": {
 					"aim": "瞄准",
-					"changearrow": "更换箭矢（长按）",
-					"changebolt": "更换弩箭（长按）",
+					"changearrow": "更换箭矢(长按)",
+					"changebolt": "更换弩箭(长按)",
 					"reload": "重新装填",
 					"shoot": "射击"
 				},
@@ -5880,7 +5880,7 @@
 				"fishingrod": {
 					"abort": "中止",
 					"cast": "抛线",
-					"reelin": "收线（长按）"
+					"reelin": "收线(长按)"
 				},
 				"food": {
 					"eat": "吃"
@@ -5896,10 +5896,10 @@
 					"options": "显示选项",
 					"place": "放置草"
 				},
-				"holdinteractionforoptions": "打开设置（长按）",
+				"holdinteractionforoptions": "打开设置(长按)",
 				"knife": {
-					"gutanimal": "肢解动物尸体（长按）",
-					"tanningrack": "加工成皮革（长按）"
+					"gutanimal": "肢解动物尸体(长按)",
+					"tanningrack": "加工成皮革(长按)"
 				},
 				"map": {
 					"hidecursor": "隐藏光标",
@@ -5918,12 +5918,12 @@
 					"changecolor": "更改颜色"
 				},
 				"poster": {
-					"place": "放置图像（长按）",
+					"place": "放置图像(长按)",
 					"select": "选择图像"
 				},
 				"rake": {
-					"primary": "平整土壤（降低）",
-					"secondary": "平整土壤（抬高）"
+					"primary": "平整土壤(降低)",
+					"secondary": "平整土壤(抬高)"
 				},
 				"rope": {
 					"catchnpc": "捕捉动物",
@@ -5931,7 +5931,7 @@
 					"releasenpc": "释放"
 				},
 				"saddle": {
-					"attach": "附上（坐骑）"
+					"attach": "附上(坐骑)"
 				},
 				"shears": {
 					"shearsheep": "剪羊毛"
@@ -5965,7 +5965,7 @@
 			},
 			"place": {
 				"plantselection": "植物选择",
-				"radialmenu": "显示选项（长按）",
+				"radialmenu": "显示选项(长按)",
 				"textureselection": "纹理选择"
 			},
 			"remove": {
@@ -5978,10 +5978,10 @@
 					"tag": "<b>{0}</b>"
 				},
 				"color": {
-					"example": "这是彩色文本（支持颜色名称和十六进制颜色）",
+					"example": "这是彩色文本(支持颜色名称和十六进制颜色)",
 					"tag": "<color=yellow>{0}</color>"
 				},
-				"header": "富文本格式设置帮助（设计师汉化版_github：ArtsticH）",
+				"header": "富文本格式设置帮助(设计师汉化版_github：ArtsticH)",
 				"info": "这些是您可以应用于文本的支持的富文本标签示例。\n您也可以将它们应用于文本的部分内容，并且可以根据需要使用任意数量的标签。\n\n要预览最终文本，您可以长按【预览按钮】。",
 				"italic": {
 					"example": "这是斜体文本    Abg123    github: ArtsticH",
@@ -6216,7 +6216,7 @@
 					"journal": {
 						"journal_building1": {
 							"header": "建筑：入门",
-							"text1": "在Rising World中，每个方块都可以自由放置、旋转和调整大小，没有任何限制——使您能够建造高度详细的建筑。\n\n要开始建造，请在制作菜单中制作一个方块（通过访问工作台或按{Crafting}打开）。\n\n建筑元素在<b>建筑</b>类别中（左侧）——在那里您必须先选择一种材料，然后选择一个方块形状。",
+							"text1": "在Rising World中，每个方块都可以自由放置、旋转和调整大小，没有任何限制——使您能够建造高度详细的建筑。\n\n要开始建造，请在制作菜单中制作一个方块(通过访问工作台或按{Crafting}打开)。\n\n建筑元素在<b>建筑</b>类别中(左侧)——在那里您必须先选择一种材料，然后选择一个方块形状。",
 							"text2": "现在，我们想制作一个普通的方块/立方体。"
 						},
 						"journalbackground": {
@@ -6245,25 +6245,25 @@
 "page_firststeps2": {
 							"header": "II. 建造",
 							"image1": {
-								"label": "制作菜单（从物品栏打开或按 {Crafting}）"
+								"label": "制作菜单(从物品栏打开或按 {Crafting})"
 							},
 							"image2": {
-								"label": "锁定/未知的制作配方（问号）"
+								"label": "锁定/未知的制作配方(问号)"
 							},
-							"text1": "要<u>制作</u>物品，可以打开你的物品栏（按 {Inventory}）并点击右侧的“制作”，或者直接按 {Crafting}。",
-							"text2": "左侧是各种制作类别，中心区域是按子类别分隔的各个配方。\n\n点击一个子类别（例如“资源”）来折叠/展开它。",
-							"text3": "有些配方可能仍然未知（显示为<u>问号</u>）。这表示你仍需解锁该配方——这需要通过满足某些要求来实现（例如收集特定资源、制作特定物品等）。",
+							"text1": "要<u>制作</u>物品，可以打开你的物品栏(按 {Inventory})并点击右侧的“制作”，或者直接按 {Crafting}。",
+							"text2": "左侧是各种制作类别，中心区域是按子类别分隔的各个配方。\n\n点击一个子类别(例如“资源”)来折叠/展开它。",
+							"text3": "有些配方可能仍然未知(显示为<u>问号</u>)。这表示你仍需解锁该配方——这需要通过满足某些要求来实现(例如收集特定资源、制作特定物品等)。",
 							"text4": "如果选择一个配方，你将在右侧看到所需的资源和制作站。",
-							"text5": "对于所需的制作站，只需要它们在你的附近即可。\n\n如果你满足要求（制作站在附近或所需资源在物品栏中），该特定要求会显示为绿色（否则文本为红色）。"
+							"text5": "对于所需的制作站，只需要它们在你的附近即可。\n\n如果你满足要求(制作站在附近或所需资源在物品栏中)，该特定要求会显示为绿色(否则文本为红色)。"
 						},
 						"page_firststeps3": {
 							"header": "III. 工作台",
 							"image1": {
 								"label": "制作原始工作台。这是你可以制作的第一个工作台"
 							},
-							"text1": "我们需要的第一个工作台是<b>原始工作台</b>。\n\n点击左侧的<b>工作台</b>并选择那里的第一个配方（<b>原始工作台</b>）。",
-							"text2": "如果它不可见，可能需要展开“工作台”标题（通过点击它）。",
-							"text3": "原始工作台需要 8 个原木，可以从树木获得。\n\n<color=#000088><b>如果你的物品栏中已经有一把斧头，你可以前往下一页！</b></color>\n\n否则，你可以在<b>工具</b>下的制作菜单中找到原始斧头。斧头是那里的第一个配方，但如果不可见，请展开“原始工具”标题（通过点击它）。\n\n选择<b>原始斧头配方</b>。它需要<u>1 个石头</u>和<u>2 个木棍</u>。\n\n它不需要任何工作台。确保右下角的“数量”设置为<u>1</u>（因为我们只想制作 1 把斧头）。\n\n点击右下角的蓝色“<b>制作物品</b>”按钮来制作斧头——它应该会自动进入你的物品栏。"
+							"text1": "我们需要的第一个工作台是<b>原始工作台</b>。\n\n点击左侧的<b>工作台</b>并选择那里的第一个配方(<b>原始工作台</b>)。",
+							"text2": "如果它不可见，可能需要展开“工作台”标题(通过点击它)。",
+							"text3": "原始工作台需要 8 个原木，可以从树木获得。\n\n<color=#000088><b>如果你的物品栏中已经有一把斧头，你可以前往下一页！</b></color>\n\n否则，你可以在<b>工具</b>下的制作菜单中找到原始斧头。斧头是那里的第一个配方，但如果不可见，请展开“原始工具”标题(通过点击它)。\n\n选择<b>原始斧头配方</b>。它需要<u>1 个石头</u>和<u>2 个木棍</u>。\n\n它不需要任何工作台。确保右下角的“数量”设置为<u>1</u>(因为我们只想制作 1 把斧头)。\n\n点击右下角的蓝色“<b>制作物品</b>”按钮来制作斧头——它应该会自动进入你的物品栏。"
 						},
 						"page_firststeps4": {
 							"header": "IV. 获取木材",
@@ -6271,19 +6271,19 @@
 								"label": "这棵树适合砍伐"
 							},
 							"image2": {
-								"label": "砍倒的树——持续击打原木将其变成小块（然后可以捡起）"
+								"label": "砍倒的树——持续击打原木将其变成小块(然后可以捡起)"
 							},
-							"text1": "装备原始斧头。如果斧头在你的快捷栏中，你可以使用<b>1-5</b>键选择槽位（例如，如果斧头在第 1 个槽位就按 1，以此类推）。\n\n否则，打开物品栏（{Inventory}）并将斧头移动到底部所需的快捷栏槽位。\n\n\n接下来，找一棵树……",
+							"text1": "装备原始斧头。如果斧头在你的快捷栏中，你可以使用<b>1-5</b>键选择槽位(例如，如果斧头在第 1 个槽位就按 1，以此类推)。\n\n否则，打开物品栏({Inventory})并将斧头移动到底部所需的快捷栏槽位。\n\n\n接下来，找一棵树……",
 							"text2": "用你的斧头持续砍树。可能需要 10 次甚至更多次击打才能砍倒大树。",
-							"text3": "击打倒下的原木将其变成小块。然后可以捡起这些小块（看着它们并按<b>F</b>）。\n\n通常，砍倒原木后你还会找到一些树苗。可以收集它们并用于种植新树。\n<size=60%>\n注意：树桩不会重新生长！</size>"
+							"text3": "击打倒下的原木将其变成小块。然后可以捡起这些小块(看着它们并按<b>F</b>)。\n\n通常，砍倒原木后你还会找到一些树苗。可以收集它们并用于种植新树。\n<size=60%>\n注意：树桩不会重新生长！</size>"
 						},
 						"page_firststeps5": {
 							"header": "V. 第一个工作台",
 							"image1": {
 								"label": "一个原始工作台"
 							},
-							"text1": "打开你的物品栏（{Inventory}）检查你已经有多少原木。如有必要，再砍一棵树。\n\n一旦你有足够的原木（8 个），再次打开制作菜单并选择<b>原始工作台</b>（它位于“工作台”下）。\n\n如果右侧的原料是绿色的，你就可以制作它。确保右下角的“数量”设置为 1（因为我们只想制作 1 个工作台）。\n\n点击蓝色的“制作物品”按钮来制作原始工作台。它应该会自动进入物品栏。",
-							"text2": "要放置工作台，你必须先装备它（类似于装备斧头的方式）。可以将其移动到快捷栏槽位（并通过 1-5 装备），或者打开物品栏，右键单击工作台并选择“装备物品”。\n\n装备后，看着你前面的地面——你现在应该能看到工作台的预览。使用方向键旋转它。\n\n按住 {SecondaryAction} 来放置工作台。"
+							"text1": "打开你的物品栏({Inventory})检查你已经有多少原木。如有必要，再砍一棵树。\n\n一旦你有足够的原木(8 个)，再次打开制作菜单并选择<b>原始工作台</b>(它位于“工作台”下)。\n\n如果右侧的原料是绿色的，你就可以制作它。确保右下角的“数量”设置为 1(因为我们只想制作 1 个工作台)。\n\n点击蓝色的“制作物品”按钮来制作原始工作台。它应该会自动进入物品栏。",
+							"text2": "要放置工作台，你必须先装备它(类似于装备斧头的方式)。可以将其移动到快捷栏槽位(并通过 1-5 装备)，或者打开物品栏，右键单击工作台并选择“装备物品”。\n\n装备后，看着你前面的地面——你现在应该能看到工作台的预览。使用方向键旋转它。\n\n按住 {SecondaryAction} 来放置工作台。"
 						},
 						"page_firststeps6": {
 							"header": "VI. 第一个苟窝",
@@ -6291,10 +6291,10 @@
 								"label": "你的第一个苟窝，也是重生点。"
 							},
 							"image2": {
-								"label": "径向菜单提供更多选项（按住 {Interaction} 同时看着对象可唤出）"
+								"label": "径向菜单提供更多选项(按住 {Interaction} 同时看着对象可唤出)"
 							},
 							"text1": "接下来你可能想制作的是一个原始苟窝。\n\n你可以在里面睡觉——这允许你跳过夜晚，同时也会更新你的重生点。这使得用指南针更容易找到我们的基地，但更重要的是，如果你死亡，你将自动在那里重生。\n\n要睡在里面，看着它按<b>F</b>。",
-							"text2": "你可以通过看着任何对象并按 {Interaction} 来与之互动。通常你的准星会指示将要执行的动作（例如，苟窝是“睡觉”等）。\n\n你也可以<u>按住</u> {Interaction} 来唤出<b>径向菜单</b>，提供更多选项（取决于对象）。",
+							"text2": "你可以通过看着任何对象并按 {Interaction} 来与之互动。通常你的准星会指示将要执行的动作(例如，苟窝是“睡觉”等)。\n\n你也可以<u>按住</u> {Interaction} 来唤出<b>径向菜单</b>，提供更多选项(取决于对象)。",
 							"text3": "顺便说一句，这也给你一个选项来再次拾取对象。例如，如果你想把它放在另一个位置，这很有用。"
 						},
 						"page_firststeps7": {
@@ -6305,9 +6305,9 @@
 							"image2": {
 								"label": "地下铁矿石脉"
 							},
-							"text1": "对于大多数制作配方（包括更高级的工作台），你都需要铁。\n\n铁既在地表也在地下找到。在地表，例如，你会发现铁矿石……",
+							"text1": "对于大多数制作配方(包括更高级的工作台)，你都需要铁。\n\n铁既在地表也在地下找到。在地表，例如，你会发现铁矿石……",
 							"text2": "……而在地下，有各种各样的矿脉。",
-							"text3": "寻找地下矿石最简单的方法是探索洞穴（但这需要一个光源——可以在原始工作台制作火把或立式火把，然后放置在世界中）。\n\n当然，你也可以通过挖掘找到矿石，但这可能更耗时。\n永远记住，整个世界都是可破坏的！"
+							"text3": "寻找地下矿石最简单的方法是探索洞穴(但这需要一个光源——可以在原始工作台制作火把或立式火把，然后放置在世界中)。\n\n当然，你也可以通过挖掘找到矿石，但这可能更耗时。\n永远记住，整个世界都是可破坏的！"
 						},
 						"page_firststeps8": {
 							"header": "VIII. 冶炼",
@@ -6318,9 +6318,9 @@
 								"label": "燃料口"
 							},
 							"text1": "一旦你收集了足够的铁矿石，你就可以在<u>原始工作台</u>制作一个<b>熔炉</b>。",
-							"text2": "每个熔炉都需要<b>燃料：</b>\n\n如果你已经找到一些煤（地下），你当然可以使用它。但也可以使用<u>木材</u>或<u>原木</u>作为燃料。",
+							"text2": "每个熔炉都需要<b>燃料：</b>\n\n如果你已经找到一些煤(地下)，你当然可以使用它。但也可以使用<u>木材</u>或<u>原木</u>作为燃料。",
 							"text3": "要给熔炉添加燃料，你会在熔炉<u>左侧</u>找到一个小燃料口。\n\n按 {SecondaryAction} 给熔炉添加燃料。",
-							"text4": "接下来，将矿石拿在手中，看着熔炉内部的各种槽——这是你可以放置矿石的地方。\n<size=60%>\n提示：看着槽位时按住 {SecondaryAction} 可以更简单快捷地放置矿石！</size>\n\n放置矿石后，打开熔炉（看着它按 {Interaction}）。冶炼矿石可能需要几分钟。\n\n一旦锭块准备好，关闭熔炉，让锭块冷却，然后按 {Interaction} 拾取它们。\n<size=60%>\n提示：熔炉的径向菜单（看着它按住 {Interaction}）也包含一个一次性拾取所有锭块的选项！</size>"
+							"text4": "接下来，将矿石拿在手中，看着熔炉内部的各种槽——这是你可以放置矿石的地方。\n<size=60%>\n提示：看着槽位时按住 {SecondaryAction} 可以更简单快捷地放置矿石！</size>\n\n放置矿石后，打开熔炉(看着它按 {Interaction})。冶炼矿石可能需要几分钟。\n\n一旦锭块准备好，关闭熔炉，让锭块冷却，然后按 {Interaction} 拾取它们。\n<size=60%>\n提示：熔炉的径向菜单(看着它按住 {Interaction})也包含一个一次性拾取所有锭块的选项！</size>"
 						},
 						"page_firststeps9": {
 							"header": "IX. 纱、布、纸",
@@ -6335,7 +6335,7 @@
 								"label": "造纸机"
 							},
 							"text1": "一旦你有足够的铁锭，你就可以制作常规的<b>工作台</b>，这使你能够访问更多的制作配方。\n\n在某些时候，你可能需要一些布料或绳索，它们需要纱线——纱线由羊毛、棉花或纤维制成，需要<b>纺车</b>。",
-							"text2": "要获得纱线，看着线轴（同时手中拿着羊毛、棉花或纤维）并按住 {SecondaryAction}。",
+							"text2": "要获得纱线，看着线轴(同时手中拿着羊毛、棉花或纤维)并按住 {SecondaryAction}。",
 							"text3": "另一个特殊的制作站是<b>研磨机</b>。它用于粉碎某些资源。\n\n例如，你可以将<u>煤</u>或<u>硫磺</u>变成粉末，将石头变成砾石，或将<u>小麦</u>变成<u>面粉</u>。\n\n它也可以将<u>布料</u>变成<u>破布</u>——用于在<b>造纸机</b>制造纸张。"
 						},
 						"page_index": {
@@ -6429,7 +6429,7 @@
 									"label": "洞穴中的煤。有时很难发现……"
 								},
 								"text1": "煤仅出现在<u>地下</u>！最容易找到的方法是探索洞穴。",
-								"text2": "煤主要用作燃料（例如用于熔炉、烤箱等）。\n\n但是，如果你在找煤方面有困难，请记住，通常你也可以用木头作为燃料 - 只是效率稍低一些。"
+								"text2": "煤主要用作燃料(例如用于熔炉、烤箱等)。\n\n但是，如果你在找煤方面有困难，请记住，通常你也可以用木头作为燃料 - 只是效率稍低一些。"
 							},
 							"resources_gold": {
 								"header": "金矿",
@@ -6480,7 +6480,7 @@
 								"image1": {
 									"label": "温带区域的沙滩。然而，这很罕见，所以通常更容易旅行到干旱岛屿。"
 								},
-								"text1": "沙偶尔可以在海滩上找到。然而，沙滩很罕见，所以通常更有意义的是旅行到干旱岛屿。\n\n在那里你会发现大量的沙（例如在沙漠、草原等）。",
+								"text1": "沙偶尔可以在海滩上找到。然而，沙滩很罕见，所以通常更有意义的是旅行到干旱岛屿。\n\n在那里你会发现大量的沙(例如在沙漠、草原等)。",
 								"text2": "沙主要用于生产<u>玻璃</u>。将沙放入熔炉中熔炼成原始玻璃。"
 							},
 							"resources_stone": {
@@ -6527,7 +6527,7 @@
 								"image4": {
 									"label": "你也可以从枯死的灌木丛中获得树枝/木棍"
 								},
-								"text1": "你可以通过砍伐树木来获取木材。\n\n\n你也可以直接从地上的树枝或枯死的灌木丛（主要出现在森林中）获取木棍。\n\n\n打开你的<b>制作菜单</b>将原木变成<u>木材</u>或<u>木棍</u>。"
+								"text1": "你可以通过砍伐树木来获取木材。\n\n\n你也可以直接从地上的树枝或枯死的灌木丛(主要出现在森林中)获取木棍。\n\n\n打开你的<b>制作菜单</b>将原木变成<u>木材</u>或<u>木棍</u>。"
 							},
 							"sand": "砂岩",
 							"stone": "石材",
@@ -6553,7 +6553,7 @@
 				"4": "隐藏宝藏...",
 				"5": "锁定地牢...",
 				"6": "启用怪物...",
-				"7": "优化bug（这TM就离谱！！！）...",
+				"7": "优化bug(这TM就离谱！！！)...",
 				"8": "生成山谷...",
 				"9": "天空染色中...",
 				"10": "生成：平静的火山...",
@@ -6771,11 +6771,11 @@
 				},
 				"topcontainer": {
 					"namecolumn": {
-						"nameheader": "自定义名称（可选）"
+						"nameheader": "自定义名称(可选)"
 					}
 				}
 			},
-			"header": "- NPC {0}（ID：{1}） -"
+			"header": "- NPC {0}(ID：{1}) -"
 		},
 		"permissioneditor": {
 			"createnew": {
@@ -6976,7 +6976,7 @@
 				"customnpcfootstepvolume": "脚步声 (NPC)",
 				"customnpcvolume": "NPC/动物的声音",
 				"customplayereatingvolume": "进食音效(玩家)",
-				"customplayerfootstepvolume": "脚步声（玩家）",
+				"customplayerfootstepvolume": "脚步声(玩家)",
 				"customplayervolume": "玩家音效",
 				"customsystemvolume": "系统音量(UI)",
 				"customvolume": "自定义音量级别",
@@ -6991,23 +6991,23 @@
 				"recordingdevice": "录音设备",
 				"sounddetails": "声音细节",
 				"tooltips": {
-					"customambiencevolume": "环境声音音量（鸟鸣等）",
+					"customambiencevolume": "环境声音音量(鸟鸣等)",
 					"customambiencewindvolume": "风声音量",
-					"customfirevolume": "火焰声音音量（例如：营火、熔炉等）",
-					"custommusicplayersvolume": "音乐播放器音量（如留声机）",
-					"customnpcvolume": "NPC声音音量（例如：动物叫声）",
+					"customfirevolume": "火焰声音音量(例如：营火、熔炉等)",
+					"custommusicplayersvolume": "音乐播放器音量(如留声机)",
+					"customnpcvolume": "NPC声音音量(例如：动物叫声)",
 					"customplayereatingvolume": "玩家进食声音音量",
-					"customplayervolume": "玩家所有声音总音量（进食、受伤声等）",
-					"customsystemvolume": "系统声音音量（UI）",
-					"customwatervolume": "水声音量（海洋、湖泊等）",
-					"customweathervolume": "天气声音音量（雨等）",
+					"customplayervolume": "玩家所有声音总音量(进食、受伤声等)",
+					"customsystemvolume": "系统声音音量(UI)",
+					"customwatervolume": "水声音量(海洋、湖泊等)",
+					"customweathervolume": "天气声音音量(雨等)",
 					"mastermusicvolume": "背景音乐的总音量。",
 					"mastersoundvolume": "所有音效和音乐的总音量。",
 					"musictrackcooldown": "确定两首音乐曲目之间的暂停时长。数值越高，音乐播放的频率越低；数值越低，音乐播放的频率越高。",
 					"playbackdevice": "音频播放设备",
 					"sounddetails": "确定某些声音细节应该有多详细。",
 					"voip": "允许你在多人游戏中使用麦克风与其他玩家交谈。",
-					"voipvolume": "语音聊天音量（即其他玩家的语音音量）。"
+					"voipvolume": "语音聊天音量(即其他玩家的语音音量)。"
 				},
 				"unknowndevice": "未知设备",
 				"voip": "语音聊天",
@@ -7021,28 +7021,28 @@
 				"blueprints": "施工蓝图",
 				"building": "建筑",
 				"buildingadapt": "适配世界元素",
-				"buildingbackward": "向后（建筑）",
+				"buildingbackward": "向后(建筑)",
 				"buildingchangeshape": "改变物块形状",
-				"buildingcontext": "上下文菜单（建筑）",
-				"buildingdelete": "删除（建筑）",
-				"buildingdown": "向下（建筑）",
+				"buildingcontext": "上下文菜单(建筑)",
+				"buildingdelete": "删除(建筑)",
+				"buildingdown": "向下(建筑)",
 				"buildingeditsurface": "表面编辑模式",
 				"buildingflip": "翻转/镜像",
-				"buildingforward": "向前（建筑）",
+				"buildingforward": "向前(建筑)",
 				"buildinggrid": "网格",
-				"buildingleft": "向左（建筑）",
+				"buildingleft": "向左(建筑)",
 				"buildingmanual": "手动定位",
 				"buildingminus": "减号",
-				"buildingmodular": "模块化建筑",
+				"buildingmodular": "模块化捕捉(建筑)",
 				"buildingnextpivot": "下一个锚点",
 				"buildingplus": "加号",
 				"buildingpreviouspivot": "上一个锚点",
 				"buildingreset": "重置",
-				"buildingresize": "缩放（长按）",
-				"buildingright": "向右（建筑）",
-				"buildingrotate": "旋转（长按）",
+				"buildingresize": "缩放(长按)",
+				"buildingright": "向右(建筑)",
+				"buildingrotate": "旋转(长按)",
 				"buildingrotationmode": "旋转模式",
-				"buildingup": "向上（建筑）",
+				"buildingup": "向上(建筑)",
 				"changeblockshape": "改变物块形状",
 				"chat": "聊天",
 				"connecteddevices": {
@@ -7058,10 +7058,10 @@
 				"creativemoderemoval": "移除工具",
 				"creativemodeterrain": "地形编辑",
 				"crouch": "蹲下",
-				"crouchtoggle": "蹲下（切换）",
+				"crouchtoggle": "蹲下(切换)",
 				"custom": "自定义",
 				"customcommand": "控制台命令",
-				"customcommands": "自定义控制台命令（进阶）",
+				"customcommands": "自定义控制台命令(进阶)",
 				"debug": "调试视图",
 				"devices": "设备",
 				"dropitem": "丢弃物品",
@@ -7106,14 +7106,14 @@
 				"scrollup": "向上滚动",
 				"secondaryaction": "次要动作",
 				"sprint": "冲刺",
-				"sprinttoggle": "冲刺（切换）",
+				"sprinttoggle": "冲刺(切换)",
 				"tooltips": {
 					"changeblockshape": "可选热键，用于改变物块的形状。这对已装备的物品以及在库存中当光标悬停在所需物品上时均有效",
 					"collision": "此键位与 \n<color=yellow>\"{0}\"</color> 冲突",
-					"copyblock": "将你当前正在查看的世界中的物块副本添加到你的库存中（如果你的库存中没有该物块）并装备它。\n在生存模式下，只有当该物块已经在你的库存中时才会装备它",
+					"copyblock": "将你当前正在查看的世界中的物块副本添加到你的库存中(如果你的库存中没有该物块)并装备它。\n在生存模式下，只有当该物块已经在你的库存中时才会装备它",
 					"customcommand": "输入一个控制台命令并将其分配给一个键。\n每次你按下该键时，控制台命令将被执行",
-					"itemduplicate": "可选热键，用于在库存中复制一个物品（当光标悬停在该物品上时）",
-					"itemsplit": "可选热键，用于在库存中拆分一个物品堆叠（当光标悬停在该物品上时）",
+					"itemduplicate": "可选热键，用于在库存中复制一个物品(当光标悬停在该物品上时)",
+					"itemsplit": "可选热键，用于在库存中拆分一个物品堆叠(当光标悬停在该物品上时)",
 					"quickselectblock": "装备一个与你当前正在查看的世界中的物块相同的物块。\n\n在创意模式下，如果该物块还不存在于你的库存中，它将被添加到你的库存中",
 					"scrollspeedui": "UI列表滚动速度"
 				},
@@ -7121,18 +7121,18 @@
 				"vehicleengine": "启动/停止引擎",
 				"vehiclegeardown": "降档",
 				"vehiclegearup": "升档",
-				"vehiclenextseat": "更换座位（下一个）",
-				"vehiclepreviousseat": "更换座位（上一个）",
+				"vehiclenextseat": "更换座位(下一个)",
+				"vehiclepreviousseat": "更换座位(上一个)",
 				"vehicles": "车辆",
 				"vehiclesailleft": "向左转帆",
 				"vehiclesailright": "向右转帆",
 				"vehicleturbo": "涡轮增压",
 				"voip": "语音聊天",
-				"voiptoggle": "语音聊天（切换）",
+				"voiptoggle": "语音聊天(切换)",
 				"walk": "行走",
-				"walktoggle": "行走（切换）",
+				"walktoggle": "行走(切换)",
 				"zoom": "缩放",
-				"zoomtoggle": "缩放（切换）"
+				"zoomtoggle": "缩放(切换)"
 			},
 			"gamepad": {
 				"analogdeadzone": "模拟摇杆盲区",
@@ -7146,7 +7146,7 @@
 					"analogdeadzone": "低于此阈值的模拟输入将被忽略。\n<color=yellow>默认值：15%</color>",
 					"defaultvalue": "默认值：{0}",
 					"gamepadinvert": "如果设置，模拟Y轴将被反转",
-					"rumbleintensity": "决定震动强度（仅在某些情况下发生）。设置为0以禁用震动"
+					"rumbleintensity": "决定震动强度(仅在某些情况下发生)。设置为0以禁用震动"
 				}
 			},
 			"graphics": {
@@ -7160,7 +7160,7 @@
 					"taa": "TAA时域抗锯齿(专业版)",
 					"smaa": "SMAA空域抗锯齿(标准版)"
 				},
-				"antialiasingmode": "抗锯齿（提示：鼠标悬停可查看解释…）",
+				"antialiasingmode": "抗锯齿(提示：鼠标悬停可查看解释…)",
 				"borderless": "全屏窗口",
 				"chunk": "个标准物块单位",
 				"chunks": "个标准物块单位",
@@ -7172,7 +7172,7 @@
 				"depthoffieldquality": "景深质量",
 				"depthoffieldrange": "景深范围",
 				"display": "显示",
-				"displaymode": "显示模式    （提示：鼠标悬停可查看详细解释…）",
+				"displaymode": "显示模式    (提示：鼠标悬停可查看详细解释…)",
 				"dithering": "抖动",
 				"dlsssharpnessenabled": "DLSS 锐度",
 				"dynamicwater": "动态水",
@@ -7230,22 +7230,22 @@
 					"antialiasingdisabledbyupscaler": "当DLSS或FSR启用时无效",
 					"antialiasingmode": "<color=green>提示：</color>通俗来说抗锯齿锯齿技术就是让游戏画面的边缘细节处看起来不那么生硬，开启后看着会更舒服些。\n<color=yellow>FXAA快速抗锯齿</color>：仅对屏幕空间内做处理，因此是一种低配版的抗锯齿技术。相当于“抗锯齿Se/青春版；\n<color=orange>SMAA空域抗锯齿</color>：基于亚像素形态学做处理，因此是一种标配版抗锯齿技术。相当于“抗锯齿S/标准版；\n<color=orange>TAA时域抗锯齿</color>：基于多帧融合进行处理，因此是一种进阶版抗锯齿技术。相当于“抗锯齿Pro/专业版；\n<color=green>性能方面</color>：“FXAA”对性能几乎没有影响，TAA和SMAA对性能稍微影响那么一点点，因此可以视情况开到SMAA或TAA。",
 					"chunkhelp": "<color=green>提示：</color>此设置在 Java 版本中相当于2{0}个物块。",
-					"chunkhelplabel": "<color=green>提示：</color>1 个物块在 Java 版本中相当于 4 个物块（你当前设置为{0} ，等价于 {1} 个物块）",
+					"chunkhelplabel": "<color=green>提示：</color>1 个物块在 Java 版本中相当于 4 个物块(你当前设置为{0} ，等价于 {1} 个物块)",
 					"debris": "<color=green>提示：</color>如果启用该功能，大多数元素在被摧毁时会产生物理碎片。",
 					"debrisconstructions": "<color=green>提示：</color>确定摧毁建造元素时是否也应产生碎片。",
-					"decals": "<color=green>提示：</color>决定了贴花（如弹孔或脚印）是否应该可见。",
+					"decals": "<color=green>提示：</color>决定了贴花(如弹孔或脚印)是否应该可见。",
 					"depthoffield": "<color=green>提示：</color>对远处的地形和物体应用轻微模糊效果。",
-					"displaymode": "<color=green>提示：</color>显示模式： \n\n<color=orange>{0}：游戏以独占全屏模式运行\n{1}：游戏在无边框全屏窗口中运行（推荐设置）。此设置在切换到桌面时可能会有所帮助\n{2}：游戏在普通窗口中运行。窗口的大小取决于分辨率</color>",
+					"displaymode": "<color=green>提示：</color>显示模式： \n\n<color=orange>{0}：游戏以独占全屏模式运行\n{1}：游戏在无边框全屏窗口中运行(推荐设置)。此设置在切换到桌面时可能会有所帮助\n{2}：游戏在普通窗口中运行。窗口的大小取决于分辨率</color>",
 					"dithering": "<color=green>提示：</color>仅在需要减少“色阶断层”时启用此项。",
-					"dynamicwater": "<color=green>提示：</color>决定了水是否应该是动态的（流动的）。如果禁用此选项，水将总是静态的。",
+					"dynamicwater": "<color=green>提示：</color>决定了水是否应该是动态的(流动的)。如果禁用此选项，水将总是静态的。",
 					"filmgrain": "<color=green>提示：</color>如果启用，将会看到一种细微的胶片颗粒效果。",
-					"framelimiter": "<color=green>提示：</color>限制最大帧率（每秒回显的帧数，即：FPS）。",
+					"framelimiter": "<color=green>提示：</color>限制最大帧率(每秒回显的帧数，即：FPS)。",
 					"gpuresidentdrawer": "启用或禁用Unity的GPU常驻绘制器。启用可提升性能，但如果遇到任何问题，可以尝试禁用它",
 					"grassocclusion": "<color=green>提示：</color>草类遮挡可以防止草丛透过家具或建筑构件等物体被看见。",
-					"keepdistantbuildingsvisible": "<color=green> 提示：</color>如果启用，建筑物（一旦生成一次之后）将在最大可视距离之外仍然可见，不受建筑物可视距离设置的影响。",
-					"lodbias": "<color=green>提示：</color>决定了某些物体（如植物）的高细节版本应该保持可见的时长（取决于它们的距离）。\n 较低的值会使低细节（细节层次）版本更早地显示出来。",
-					"lodfade": "<color=green>提示：</color>如果启用，在切换细节层次（LOD）级别时将会有一个平滑的交叉淡入淡出效果。",
-					"maxdebris": "<color=green>提示：</color>决定世界中碎片的总量。需要注意的是，这不是指单个碎片部分，而是按物体来计数。\n更准确地说，这决定了可以同时在世界中生成的碎片（物体）数量。",
+					"keepdistantbuildingsvisible": "<color=green> 提示：</color>如果启用，建筑物(一旦生成一次之后)将在最大可视距离之外仍然可见，不受建筑物可视距离设置的影响。",
+					"lodbias": "<color=green>提示：</color>决定了某些物体(如植物)的高细节版本应该保持可见的时长(取决于它们的距离)。\n 较低的值会使低细节(细节层次)版本更早地显示出来。",
+					"lodfade": "<color=green>提示：</color>如果启用，在切换细节层次(LOD)级别时将会有一个平滑的交叉淡入淡出效果。",
+					"maxdebris": "<color=green>提示：</color>决定世界中碎片的总量。需要注意的是，这不是指单个碎片部分，而是按物体来计数。\n更准确地说，这决定了可以同时在世界中生成的碎片(物体)数量。",
 					"maxlights": "<color=green>提示：</color>决定游戏同时渲染的最大灯光数量。",
 					"monitor": "<color=green>提示：</color>如果连接了多个显示器，此项决定了会使用哪一个显示器。",
 					"motionblur": "<color=green>提示：</color>如果你不喜欢动态模糊，可以考虑仅禁用 “相机抖动(Camera Motion)”\n—— 这会针对相机移动禁用动态模糊， 但快速移动的物体仍会有较好的模糊效果。",
@@ -7263,8 +7263,8 @@
 					"resolution": "<color=green>提示：</color>游戏窗口的分辨率。因此为获得最佳效果，请将分辨率设置为桌面分辨率。",
 					"resolutionlabel": "<color=green>提示：</color>你当前显示器的原生分辨率为{0}x{1}px",
 					"resolutionscale": "<color=green>提示：</color>降低此值可让您在不改变实际分辨率的情况下以更低的分辨率渲染游戏。\n因此除非是很卡时你再降低该值，否则不建议。",
-					"roughrefractions": "确定是否应启用模糊/粗糙折射（例如在磨砂玻璃上）",
-					"screenspacereflections": "<color=green>提示：</color>基础反射。这只能反射当前屏幕上可见的物体。这对于较小的反射（如水坑反射）特别有用。",
+					"roughrefractions": "确定是否应启用模糊/粗糙折射(例如在磨砂玻璃上)",
+					"screenspacereflections": "<color=green>提示：</color>基础反射。这只能反射当前屏幕上可见的物体。这对于较小的反射(如水坑反射)特别有用。",
 					"shadowquality": "<color=green>提示：</color>决定整体阴影质量，即阴影贴图的分辨率。",
 					"shadows": "<color=green>提示：</color>决定灯光是否投射阴影。",
 					"shadowsgrass": "<color=green>提示：</color>决定草是否应该投射阴影。这一设置对于游戏场景的光影效果有着重要影响。\n如果开启此选项，草在光照下会产生阴影，使得场景更加真实，但可能会对性能产生一定的影响，因为计算阴影需要额外的资源。\n如果关闭，草将不会产生阴影，场景的真实感可能会稍差一些，但游戏性能也许会得到一定程度的提升，特别是在草丛较多的场景中这种性能差异会更明显。",
@@ -7273,19 +7273,19 @@
 					"supersampling": "设置超采样/放大过滤器。这可以极大地提高性能",
 					"terraindistanceblend": "<color=green>提示：</color>在 Unity 引擎中，地形距离混合(Terrain Distance Blend)主要用于控制地形在不同距离下的细节混合效果。\n通过调整它可以让地形在远处和近处的细节过渡更加自然，提升视觉效果。\n启用：地形纹理在远处看起来会好得多。",
 					"terrainheightblend": "<color=green>提示：</color>启用：则地形上的不同纹理将通过考虑其高度来混合。\n禁用：纹理之间将只有一个基本的线性插值",
-					"texturequality": "<color=green>提示：</color>此项决定全局纹理质量。只有在显存（VRAM）不足的情况下才应降低该值。\n降低此值可在一定程度上缓解显存不足带来的性能问题，但会导致游戏中的纹理细节有所损失。\n比如物体表面的材质纹理可能会变得模糊、不够清晰，进而影响游戏画面的整体观感。\n所以在显存能够满足需求的正常情况下，通常建议保持较高的全局纹理质量设定以获得更好的视觉体验。",
-					"texturequalityconstructions": "<color=green>提示：</color>此项决定建筑物和建筑构件的纹理质量。\n<color=orange>警告：若设置较高的值会显著增加显存（VRAM）的使用量！</color>因此，显存较低的显卡不建议调至最高。",
-					"texturequalityterrain": "<color=green>提示：</color>决定地形的纹理质量。警告：设置较高的值会增加显存（VRAM）的使用量。",
+					"texturequality": "<color=green>提示：</color>此项决定全局纹理质量。只有在显存(VRAM)不足的情况下才应降低该值。\n降低此值可在一定程度上缓解显存不足带来的性能问题，但会导致游戏中的纹理细节有所损失。\n比如物体表面的材质纹理可能会变得模糊、不够清晰，进而影响游戏画面的整体观感。\n所以在显存能够满足需求的正常情况下，通常建议保持较高的全局纹理质量设定以获得更好的视觉体验。",
+					"texturequalityconstructions": "<color=green>提示：</color>此项决定建筑物和建筑构件的纹理质量。\n<color=orange>警告：若设置较高的值会显著增加显存(VRAM)的使用量！</color>因此，显存较低的显卡不建议调至最高。",
+					"texturequalityterrain": "<color=green>提示：</color>决定地形的纹理质量。警告：设置较高的值会增加显存(VRAM)的使用量。",
 					"viewdistance": "<color=green> 提示：</color>此选项决定草和精细地块的可视距离细节。",
 					"viewdistancebuildings": "<color=green> 提示：</color>这个选项用于确定建筑物和建筑结构的可视距离。它控制着玩家在游戏场景中多远能够看到这些建筑细节。\n如果可视距离设置得较短，远处的建筑物可能会在接近一定范围后才逐渐加载出细节；\n而设置得较长，则能让玩家在更远的地方就看到完整的建筑外观，但这可能会对性能产生一定的影响，因为需要加载和渲染更远距离的建筑细节。",
 					"viewdistancelod": "<color=green> 提示：</color>这个设置决定了整体的可视距离。它会影响玩家在游戏世界中能看到多远的场景，包括地形、物体、建筑等各种元素。\n可视距离越长，玩家能看到的范围越广，但这可能会对游戏性能产生较大的压力，因为系统需要加载和渲染更远范围内的所有元素。\n如果你的设备性能有限，适当降低这个值可以提升游戏的运行流畅度；\n而如果设备性能强劲，较高的总可视距离能让你获得更广阔的视野和更身临其境的游戏体验。",
 					"volumetricclouds": "<color=green> 提示：</color>如果启用此功能，游戏将会在游戏世界中渲染出立体的三维云朵。\n这些三维云朵会为游戏世界增添更加逼真的天空效果，使整个游戏场景的天空看起来更加生动、真实且富有层次感，进一步提升游戏的沉浸感。\n不过，渲染这种立体的三维云朵可能会占用一定的系统资源，对游戏的性能有一定的要求。\n如果设备性能欠佳，开启此项功能可能会导致游戏运行流畅度有所下降。",
-					"volumetriccloudsquality": "<color=green> 提示：</color>决定立体云的渲染质量。如果你处于云层高度或云层之上，这一设置的效果会最为明显 —— 否则通常中等设置就足够了。\n值得注意的时：高质量的设置对性能有相当大的影响。\n也就是说，当把立体云渲染质量设为较高档位时，虽然在特定视角（如身处云层或其上方时）能呈现出更精细、逼真的云效果；\n但与此同时，这会大量占用系统资源，使得游戏运行速度可能变慢、出现卡顿等情况，尤其是在设备性能并非十分强劲的情况下更为突出。\n而中等设置则能在保证一定云效果的同时，相对较好地平衡性能与视觉呈现之间的关系。",
+					"volumetriccloudsquality": "<color=green> 提示：</color>决定立体云的渲染质量。如果你处于云层高度或云层之上，这一设置的效果会最为明显 —— 否则通常中等设置就足够了。\n值得注意的时：高质量的设置对性能有相当大的影响。\n也就是说，当把立体云渲染质量设为较高档位时，虽然在特定视角(如身处云层或其上方时)能呈现出更精细、逼真的云效果；\n但与此同时，这会大量占用系统资源，使得游戏运行速度可能变慢、出现卡顿等情况，尤其是在设备性能并非十分强劲的情况下更为突出。\n而中等设置则能在保证一定云效果的同时，相对较好地平衡性能与视觉呈现之间的关系。",
 					"volumetriclightfilter": "<color=green> 提示：</color>如果启用此项，将会对体光应用一个平滑滤镜。\n这个平滑滤镜可以使体光的效果看起来更加柔和、自然，减少可能出现的生硬感或颗粒感；\n从而提升体光在游戏场景或其他相关场景中的视觉呈现效果，让其更符合整体的视觉氛围营造需求。\n不过，应用这个滤镜可能在一定程度上会对性能产生些许影响，具体取决于实际的应用场景和设备性能状况等因素。",
-					"volumetriclights": "<color=green> 提示：</color>这个设置用于确定是否应该显示体光（比如上帝之光这类效果）。\n它决定了在游戏场景或相关场景中，像那种带有体积感、能够营造出特殊光影氛围的光线效果是否能够被玩家所看到。\n开启此设置，就能呈现出如光线穿过缝隙、从特定光源散射出具有层次感和立体感的光线等体光效果，增强场景的视觉效果和沉浸感；\n若关闭，则这些体光效果将不会显示出来，场景的光影表现会相对较为常规和平淡。",
+					"volumetriclights": "<color=green> 提示：</color>这个设置用于确定是否应该显示体光(比如上帝之光这类效果)。\n它决定了在游戏场景或相关场景中，像那种带有体积感、能够营造出特殊光影氛围的光线效果是否能够被玩家所看到。\n开启此设置，就能呈现出如光线穿过缝隙、从特定光源散射出具有层次感和立体感的光线等体光效果，增强场景的视觉效果和沉浸感；\n若关闭，则这些体光效果将不会显示出来，场景的光影表现会相对较为常规和平淡。",
 					"vsync": "<color=green> 提示：</color>此设置会将帧率限制为您显示器的刷新率，目的是防止出现 “画面撕裂” 的情况。\n不过这可能会对性能产生一定的影响。因此：\n当把帧率限制在显示器刷新率时，能确保画面在显示过程中的连贯性和稳定性，\n从而让视觉感受更为流畅，避免因帧率和刷新率不同步而出现画面上下部分不同步、撕裂的糟糕视觉效果。\n但在某些情况下，比如设备性能本身较强，原本能输出更高帧率以实现更顺滑的画面过渡，\n而进行这样的限制后，可能就无法充分发挥设备在帧率输出方面的优势，从而在一定程度上影响到玩家所感受到的整体性能表现。",
 					"waterupdateinterval": "<color=green> 提示：</color>这个选项用于确定游戏每<b>秒</b>应该重新计算水流的频率。\n<u>较高的值对性能有更高的影响。</u>\n也就是说，这个设置会直接关联到游戏中水流效果的更新频率。\n如果想要更频繁、更精准地呈现水流的动态变化，比如更真实地模拟水流的波动、流动方向等，就需要设置较高的值。\n但这样做会占用更多的系统资源，导致游戏性能下降，比如可能会出现卡顿或者帧率降低的情况。\n相反，较低的值会减少对性能的影响，但水流的动态效果可能就没有那么精细和实时了。",
-					"wind": "<color=green> 提示：</color>这个设置是用于决定风的模式。\n风的模式可能包含多种不同的情况，例如风向（是固定方向的风，还是随机变化的风向）、风力大小（是轻柔微风，还是强劲的大风），\n以及风对游戏场景中物体的影响方式（比如只影响植被的摆动，还是也会影响飞行物体的轨迹等）。\n通过这个设置，开发者或玩家可以根据游戏的需求或自己的喜好来调整风的各种表现模式，\n让游戏世界中的风更加符合游戏的主题或场景氛围，比如在一个宁静的小镇场景可以设置微风模式，而在海上风暴场景则可以开启狂风模式。"
+					"wind": "<color=green> 提示：</color>这个设置是用于决定风的模式。\n风的模式可能包含多种不同的情况，例如风向(是固定方向的风，还是随机变化的风向)、风力大小(是轻柔微风，还是强劲的大风)，\n以及风对游戏场景中物体的影响方式(比如只影响植被的摆动，还是也会影响飞行物体的轨迹等)。\n通过这个设置，开发者或玩家可以根据游戏的需求或自己的喜好来调整风的各种表现模式，\n让游戏世界中的风更加符合游戏的主题或场景氛围，比如在一个宁静的小镇场景可以设置微风模式，而在海上风暴场景则可以开启狂风模式。"
 				},
 				"upscaler": {
 					"dlss": "NVIDIA DLSS",
@@ -7325,7 +7325,7 @@
 						"cinematicbars": "设<color=green>提示：</color>置可选电影式遮幅的大小，也就是上下黑边",
 						"crosshair": "设<color=green>提示：</color>置游戏的默认准星",
 						"fov": "<color=green>提示：</color>改变视野范围(FOV)。<color=yellow>默认值为75</color>",
-						"panini": "<color=green>提示：</color>只有当你使用较大的视野范围（FOV）设置或者在超宽屏上游玩时才使用此项。这样可以减少拉伸。<color=yellow> 默认值是 0</color>"
+						"panini": "<color=green>提示：</color>只有当你使用较大的视野范围(FOV)设置或者在超宽屏上游玩时才使用此项。这样可以减少拉伸。<color=yellow> 默认值是 0</color>"
 					}
 				},
 				"viewdistance": "可视距离细节",
@@ -7351,22 +7351,22 @@
 					"100": "100x",
 					"05": "0.5x"
 				},
-				"waterheader": "水体（实验性功能）",
+				"waterheader": "水体(实验性功能)",
 				"waterupdateinterval": "水体更新间隔",
 				"wind": "刮风质量",
 				"windowed": "窗口化"
 			},
 "misc": {
 				"allowconsolecommands": "允许控制台命令",
-				"allowflymode": "允许飞行模式（仅生存模式）",
+				"allowflymode": "允许飞行模式(仅生存模式)",
 				"allowglobalmapmarkers": "允许全局地图标记",
 				"alwaysshowgridonconstructions": "始终在建筑上显示网格",
 				"alwaysshowgridonterrain": "始终在地形上显示网格",
 				"blueprintcentermode": "施工蓝图：轴心点模式",
 				"blueprintincludeair": "包含空气",
 				"blueprints": {
-					"centerarea": "选择区域（旧版）",
-					"centerdefault": "中心（默认）",
+					"centerarea": "选择区域(旧版)",
+					"centerdefault": "中心(默认)",
 					"sortalphabetically": "按字母排序",
 					"sortfoldersfirst": "文件夹优先",
 					"sortfolderslast": "文件夹置后"
@@ -7401,7 +7401,7 @@
 				"disableblood": "禁用血液效果",
 				"disablecamerashake": "禁用相机抖动",
 				"disablethunderlighteffects": "禁用闪电光照效果",
-				"falldamage": "坠落伤害（仅生存模式）",
+				"falldamage": "坠落伤害(仅生存模式)",
 				"flymodemovemodes": {
 					"default": "默认",
 					"keepelevation": "保持高度"
@@ -7434,10 +7434,10 @@
 				"hudquickslotsize": "HUD：快捷栏尺寸",
 				"hudshowquickslotsduration": "HUD：快捷栏显示时长",
 				"hudshowselecteditem": "HUD：显示选中物品",
-				"hungerthirst": "饥饿 / 口渴（仅生存模式）",
+				"hungerthirst": "饥饿 / 口渴(仅生存模式)",
 				"hungerthirstduration": "饥饿 / 口渴持续时间",
 				"imagemaxresolution": "最大分辨率",
-				"instantdigging": "瞬间挖掘（仅生存模式）",
+				"instantdigging": "瞬间挖掘(仅生存模式)",
 				"inventorybackgroundcolor": "HUD：物品栏颜色",
 				"inventorybackgroundopacity": "HUD：物品栏不透明度",
 				"itemdespawntime": "物品消失时间",
@@ -7460,7 +7460,7 @@
 				"screenshotsize": "尺寸 / 分辨率",
 				"screenshotthumbnail": "创建缩略图",
 				"seasons": "季节",
-				"sharedcraftingprogression": "共享制作进度（合作模式）",
+				"sharedcraftingprogression": "共享制作进度(合作模式)",
 				"showbuildinggrid": "显示网格",
 				"showbuildinggridonselector": "在预览元素上显示网格",
 				"showbuildinginformation": "显示信息",
@@ -7476,9 +7476,9 @@
 				"spawnmonsterswithtorch": "总是生成携带火把的怪物",
 				"spawnrateanimals": "动物生成率",
 				"spawnratebandits": "强盗生成率",
-				"spawnratesurfacemonsters": "怪物生成率（地表）",
-				"spawnrateundergroundmonsters": "怪物生成率（地下）",
-				"stamina": "无限体力（仅生存模式）",
+				"spawnratesurfacemonsters": "怪物生成率(地表)",
+				"spawnrateundergroundmonsters": "怪物生成率(地下)",
+				"stamina": "无限体力(仅生存模式)",
 				"steam": {
 					"p2plegacy": "旧版",
 					"p2psockets": "套接字"
@@ -7486,7 +7486,7 @@
 				"steamallowalljoinrequests": "允许所有加入请求",
 				"steamp2ptype": "Steam P2P模式",
 				"steamshowfriendlist": "显示好友列表",
-				"temperature": "无视温度(仅生存模式）",
+				"temperature": "无视温度(仅生存模式)",
 				"temperatureunit": "温度单位",
 				"timeduration": "游戏内一天时长",
 				"timedurations": {
@@ -7504,77 +7504,77 @@
 				},
 				"tooltips": {
 					"allowconsolecommands": "<color=green>提示：</color>确定是否应允许使用控制台命令",
-					"allowflymode": "<color=green>提示：</color>确定在生存模式下是否应允许飞行（{0}）",
-					"allowglobalmapmarkers": "<color=green>提示：</color>如果启用，所有玩家都可以创建全局地图标记（即所有玩家可见的地图标记）",
+					"allowflymode": "<color=green>提示：</color>确定在生存模式下是否应允许飞行({0})",
+					"allowglobalmapmarkers": "<color=green>提示：</color>如果启用，所有玩家都可以创建全局地图标记(即所有玩家可见的地图标记)",
 					"alwaysshowgridonconstructions": "<color=green>提示：</color>如果启用，在建筑元素上网格将始终可见。\n否则仅在建造时可见",
 					"alwaysshowgridonterrain": "<color=green>提示：</color>如果启用，在地形上网格将始终可见",
-					"blueprintincludeair": "<color=green>提示：</color>如果为真，蓝图也会放置空气（仅当蓝图包含地形时）",
+					"blueprintincludeair": "<color=green>提示：</color>如果为真，蓝图也会放置空气(仅当蓝图包含地形时)",
 					"blueprintsortmode": "<color=green>提示：</color>确定施工蓝图将如何排序/显示",
 					"blueprintvisualizebounds": "<color=green>提示：</color>如果启用，在放置蓝图时将可视化蓝图的边界",
 					"buildingdefaultsize": "<color=green>提示：</color>为新建筑元素设置一个可选的默认尺寸。确定沿X、Y和Z轴的尺寸，以空格分隔。\n<color=yellow>示例：“1.0  2.0  0.1”</color>",
 					"buildingmultiplacedirections": "<color=green>提示：</color>连续放置多个建筑元素时，所允许的同步方向数量。",
 					"buildingpivotkeeprotation": "<color=green>提示：</color>如果启用，在锚点捕捉模式处于活动状态时，放置元素后游戏不再重置元素的旋转",
-					"buildingpivotsnaptoalltypes": "<color=green>提示：</color>确定在锚点捕捉激活时，物体（如家具、门等）是否也应吸附到方块上",
+					"buildingpivotsnaptoalltypes": "<color=green>提示：</color>确定在锚点捕捉激活时，物体(如家具、门等)是否也应吸附到方块上",
 					"buildingresizemode": "<color=green>提示：</color>控制缩放行为。\n\n旧版：缩放的工作方式类似于Java版本中的梁缩放，即向上/向下改变高度，而向左/向右改变宽度<u>和</u>深度\n\n默认：X、Y和Z轴可独立缩放",
 					"buildingsnaprotation": "<color=green>提示：</color>如果启用，在旋转元素时，元素会自动捕捉到X、Y或Z轴",
 					"camerafollowvehicles": "<color=green>提示：</color>如果启用，摄像机将自动跟随车辆旋转",
 					"collapsecraftingcategories": "<color=green>提示：</color>如果启用，物块纹理选择类别默认会折叠起来",
 					"creativeconfirmremoval": "<color=green>提示：</color>如果启用，通过创意模式移除工具移除元素时将显示一个确认对话框",
 					"creativecopyblockcolor": "<color=green>提示：</color>如果启用，通过按下鼠标中键复制物块时也会复制元素的颜色",
-					"creativelightintensity": "<color=green>提示：</color>确定创意模式灯光（L）的光照强度",
+					"creativelightintensity": "<color=green>提示：</color>确定创意模式灯光(L)的光照强度",
 					"customgridsizes": "<color=green>提示：</color>定义自定义网格尺寸，数值以逗号分隔",
 					"customgridsizeshelplabel": "示例：\"{0}\"",
-					"falldamage": "<color=green>提示：</color>如果启用，玩家从高处坠落时会受到伤害（在生存模式下）",
+					"falldamage": "<color=green>提示：</color>如果启用，玩家从高处坠落时会受到伤害(在生存模式下)",
 					"flymodemovetype": "<color=green>提示：</color>确定飞行时移动的工作方式。\n\n<color=yellow>默认：朝视角方向飞行</color>\n\n<color=orange>保持高度：保持海拔/高度</color>",
 					"flymodenoclipping": "<color=green>提示：</color>如果启用，在飞行模式下你可以穿过墙壁和地形。否则这些物体仍会有碰撞",
 					"flymodespeedcontrol": "<color=green>提示：</color>确定在飞行模式下速度如何调整。\n\n<color=yellow>基本模式：按住冲刺或行走键以飞得更快/更慢</color>\n\n<color=orange>高级模式：使用Shift + 滚轮来改变速度</color>",
-					"gravityobjects": "<color=green>提示：</color>如果启用，漂浮物体（如家具）如果未与实心墙壁或地面接触就会损坏",
+					"gravityobjects": "<color=green>提示：</color>如果启用，漂浮物体(如家具)如果未与实心墙壁或地面接触就会损坏",
 					"gravityplants": "<color=green>提示：</color>如果启用，漂浮植物如果未与地面接触就会损坏",
-					"healthregeneration": "<color=green>提示：</color>确定生命值是否应自动恢复（如果玩家不渴或不饿）",
+					"healthregeneration": "<color=green>提示：</color>确定生命值是否应自动恢复(如果玩家不渴或不饿)",
 					"hudquickslotopacity": "<color=green>提示：</color>决定快捷栏槽位的透明度/不透明度",
 					"hudshowselecteditem": "<color=green>提示：</color>确定当前装备的物品是否应在HUD的右上角可见",
 					"hungerthirst": "<color=green>提示：</color>确定在生存模式下是否应启用饥饿和口渴",
 					"hungerthirstduration": "<color=green>提示：</color>玩家感到饥饿/口渴的持续时间系数。\n\n默认是100%。较小的值会导致玩家更频繁地感到饥饿/口渴",
 					"imagemaxresolution": "<color=green>提示：</color>确定自定义图像/海报允许的最大分辨率。更改仅影响之后上传的图像！\n\n注意：高分辨率会消耗更多图形内存并对性能有更大影响！",
-					"instantdigging": "<color=green>提示：</color>如果启用，在生存模式下所有东西一击即碎（类似于创意模式下的挖掘方式）",
-					"itemdurability": "<color=green>提示：</color>决定物品的耐久度（即物品损坏前能持续使用的时间）。默认是100%。设置为50%则持续时间减半（物品损坏速度加倍），200%则时间加倍，以此类推。\n\n<color=yellow>要禁用物品耐久度，请将此设置为0</color>",
+					"instantdigging": "<color=green>提示：</color>如果启用，在生存模式下所有东西一击即碎(类似于创意模式下的挖掘方式)",
+					"itemdurability": "<color=green>提示：</color>决定物品的耐久度(即物品损坏前能持续使用的时间)。默认是100%。设置为50%则持续时间减半(物品损坏速度加倍)，200%则时间加倍，以此类推。\n\n<color=yellow>要禁用物品耐久度，请将此设置为0</color>",
 					"keepinventory": "<color=green>提示：</color>如果启用，你死后将保留你的背包物品",
 					"moonbrightness": "<color=green>提示：</color>应用于夜晚/月光的亮度系数。默认：100%",
-					"moonphases": "<color=green>提示：</color>确定月相是否应激活。如果你总是想要一个（明亮的）满月，请设置为false",
+					"moonphases": "<color=green>提示：</color>确定月相是否应激活。如果你总是想要一个(明亮的)满月，请设置为false",
 					"mountsfollowviewdirection": "<color=green>提示：</color>如果启用，骑乘时坐骑将自动跟随你的视角方向",
 					"oresmeltingduration": "<color=green>提示：</color>确定熔炉中熔炼矿石的持续时间系数。默认是100%。设置为50%则持续时间减半，设置为200%则时间加倍等等",
-					"pauseinmenu": "<color=green>提示：</color>如果启用，当游戏内菜单处于活动状态时游戏会暂停（仅限单人游戏）",
-					"peacefulmode": "<color=green>提示：</color>如果启用，敌人不再攻击你（除非你先攻击他们）",
+					"pauseinmenu": "<color=green>提示：</color>如果启用，当游戏内菜单处于活动状态时游戏会暂停(仅限单人游戏)",
+					"peacefulmode": "<color=green>提示：</color>如果启用，敌人不再攻击你(除非你先攻击他们)",
 					"plantgrowthduration": "<color=green>提示：</color>确定植物生长的持续时间系数。\n默认是100%。设置为50%则持续时间减半，设置为200%则时间加倍等等",
-					"playergroupmarkeropacity": "<color=green>提示：</color>决定玩家组标记的不透明度（当你邀请其他玩家到你的组时可见）",
+					"playergroupmarkeropacity": "<color=green>提示：</color>决定玩家组标记的不透明度(当你邀请其他玩家到你的组时可见)",
 					"playergroupmarkershowoffscreen": "<color=green>提示：</color>如果为真，玩家组标记在屏幕外时仍将可见",
 					"radialmenuautoclose": "<color=green>提示：</color>如果启用，松开交互键时径向菜单会自动关闭",
 					"radialmenushowcursor": "<color=green>提示：</color>确定在径向菜单中鼠标光标是否应可见",
 					"screenshothooksteam": "<color=green>提示：</color>如果启用，截图将被转发到你的Steam截图库",
-					"screenshotquality": "<color=green>提示：</color>截图的JPEG质量设置。质量越低，文件大小越小（但你在截图上也会看到更多伪影）",
+					"screenshotquality": "<color=green>提示：</color>截图的JPEG质量设置。质量越低，文件大小越小(但你在截图上也会看到更多伪影)",
 					"screenshotshowhud": "<color=green>提示：</color>确定在截图中HUD是否应可见",
 					"screenshotsize": "<color=green>提示：</color>决定截图的分辨率。100%意味着将使用你当前的游戏分辨率，50%意味着一半，以此类推。",
-					"seasons": "<color=green>提示：</color>启用或禁用季节（春、夏、秋、冬）。如果禁用，季节将不会根据游戏内日期自动改变。",
+					"seasons": "<color=green>提示：</color>启用或禁用季节(春、夏、秋、冬)。如果禁用，季节将不会根据游戏内日期自动改变。",
 					"sharedcraftingprogression": "<color=green>提示：</color>如果启用，合作模式中的制作进度将与所有玩家共享。\n仅考虑主机的设置！",
-					"showbuildinggrid": "<color=green>提示：</color>确定在建造时网格是否应可见（仅当网格处于活动状态时）",
+					"showbuildinggrid": "<color=green>提示：</color>确定在建造时网格是否应可见(仅当网格处于活动状态时)",
 					"showbuildinggridonselector": "<color=green>提示：</color>确定在预览元素上网格是否也应可见",
-					"showbuildinginformation": "<color=green>提示：</color>如果启用，在建造时一些关于建筑工具（网格、旋转等）的信息将显示在屏幕左侧",
+					"showbuildinginformation": "<color=green>提示：</color>如果启用，在建造时一些关于建筑工具(网格、旋转等)的信息将显示在屏幕左侧",
 					"showchatonmessage": "<color=green>提示：</color>如果你不想在有新消息时聊天窗口出现，可禁用此功能",
 					"showfps": "<color=green>提示：</color>如果启用，当前每秒帧数将显示在HUD的右下角",
-					"shownametags": "<color=green>提示：</color>如果启用，在多人游戏中其他玩家的名字标签将可见（取决于服务器设置）",
-					"skiploadingscreen": "<color=green>提示：</color>如果启用，将跳过加载屏幕（尽管在那个阶段世界可能尚未完全加载）",
+					"shownametags": "<color=green>提示：</color>如果启用，在多人游戏中其他玩家的名字标签将可见(取决于服务器设置)",
+					"skiploadingscreen": "<color=green>提示：</color>如果启用，将跳过加载屏幕(尽管在那个阶段世界可能尚未完全加载)",
 					"spawnbanditsduringday": "<color=green>提示：</color>如果启用，强盗也会在白天生成，否则他们只在晚上生成。\n\n注意：这仅影响温带气候区域的强盗！",
 					"spawnmonstersatsurface": "<color=green>提示：</color>如果启用，怪物将在夜间在地表生成。它们将在黎明时自动消失",
-					"spawnmonsterswithtorch": "<color=green>提示：</color>如果启用此项，怪物在地表生成时将总是携带火把（这会让它们更易被看见）",
+					"spawnmonsterswithtorch": "<color=green>提示：</color>如果启用此项，怪物在地表生成时将总是携带火把(这会让它们更易被看见)",
 					"spawnrateanimals": "<color=green>提示：</color>确定动物的生成速率。数值越高，生成的动物越多，数值越低，生成的动物越少。默认值是100%\n\n注意：这不会影响已经生成的动物",
-					"spawnratebandits": "<color=green>提示：</color>确定土匪（敌人）的生成速率。数值越高，生成的土匪越多，数值越低，生成的动物越少。默认值是100%\n\n注意：这不会影响已经生成的土匪",
+					"spawnratebandits": "<color=green>提示：</color>确定土匪(敌人)的生成速率。数值越高，生成的土匪越多，数值越低，生成的动物越少。默认值是100%\n\n注意：这不会影响已经生成的土匪",
 					"spawnratesurfacemonsters": "<color=green>提示：</color>确定夜间在地表生成的怪物的生成速率。默认值是100%\n\n注意：这不会影响已经生成的怪物",
-					"spawnrateundergroundmonsters": "<color=green>提示：</color>确定在地下（洞穴、地狱等）生成的怪物的生成速率。默认值是100%\n\n注意：这不会影响已经生成的怪物",
+					"spawnrateundergroundmonsters": "<color=green>提示：</color>确定在地下(洞穴、地狱等)生成的怪物的生成速率。默认值是100%\n\n注意：这不会影响已经生成的怪物",
 					"stamina": "<color=green>提示：</color>如果启用，玩家在生存模式下拥有无限耐力",
 					"steamallowalljoinrequests": "如果为真，所有好友都可以加入你的游戏。否则，你必须手动接受或拒绝加入请求",
 					"steamp2ptype": "当使用“与好友一起玩”选项时，这决定了使用的网络类型。此设置仅与主持游戏的玩家相关。\n\n<color=yellow>默认设置为“Sockets”。仅在遇到问题时更改此设置！</color>",
 					"steamshowfriendlist": "如果启用，Steam好友列表将显示在主菜单中",
-					"temperature": "<color=green>提示：</color>如果启用，温度对玩家（在生存模式下）没有影响",
+					"temperature": "<color=green>提示：</color>如果启用，温度对玩家(在生存模式下)没有影响",
 					"temperatureunit": "温度单位",
 					"timeduration": "<color=green>提示：</color>确定游戏内一天的时长。默认：1小时",
 					"undosteps": "决定你可以撤销多少步操作",
@@ -7754,7 +7754,7 @@
 				"blueprints": "添加施工蓝图",
 				"health": "生命",
 				"hunger": "饥饿",
-				"journal": "打开日志（帮助）",
+				"journal": "打开日志(帮助)",
 				"merge": "自动堆叠",
 				"sort": "自动排序",
 				"stamina": "有效体力",
@@ -7793,7 +7793,7 @@
 				"musiccomposer": "作曲者：{0}",
 				"musictrack": "音乐曲目：{0}",
 				"name": "名称：{0}",
-				"putinequipmentslot": "<color=green>提示：</color>将此物放入装备槽\n以便快速调用（可搭配快捷键）",
+				"putinequipmentslot": "<color=green>提示：</color>将此物放入装备槽\n以便快速调用(可搭配快捷键)",
 				"strength": "强度：{0}",
 				"weapons": {
 					"damage": "伤害：{0}",
@@ -7821,9 +7821,9 @@
 			},
 			"transform": {
 				"rotate": {
-					"x": "沿X轴旋转（俯仰）",
-					"y": "沿Y轴旋转（偏航）",
-					"z": "沿Z轴旋转（翻滚）"
+					"x": "沿X轴旋转(俯仰)",
+					"y": "沿Y轴旋转(偏航)",
+					"z": "沿Z轴旋转(翻滚)"
 				}
 			}
 		},
