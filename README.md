@@ -49,8 +49,8 @@ Choose your preferred installation method below:
     git clone https://gitee.com/ArtsticH/RisingWorld.git
     ```
     
-3.  **克隆完成后，找到并双击运行：** `！H一键汉化(ToChinese).bat`
-    After cloning, locate and double-click: `！H一键汉化(ToChinese).bat`
+3.  **克隆完成后，复制所有文件到游戏根目录，找到并双击运行：** `！H一键汉化(ToChinese).bat`
+    After cloning, copy all files to the game root directory, locate and double-click: `！H一键汉化(ToChinese).bat`
 
     ![运行汉化脚本](https://raw.githubusercontent.com/ArtsticH/h-Readme-res/main/RisingWorld/doc/images/h2_run.webp)
 
