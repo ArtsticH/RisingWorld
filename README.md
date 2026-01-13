@@ -9,12 +9,12 @@ This repository is a curated collection of plugins for the game **RisingWorld**,
 > **Note**: This is a **community-maintained** project independently developed by [ArtsticH](https://github.com/ArtsticH). It is not officially affiliated with [www.rising-world.net](https://www.rising-world.net), though official recognition or inclusion would be welcomed.
 
 ---
-# 🔥RisingWorld v2-0-260107 (for v0.9.1)：
+# 🔥RisingWorld v2-0-260111 (for v0.9.1)：
 ##### ✅ 本此更新RisingWorld的CN语言包：
 ##### ✅ This update features comprehensive localization of the RisingWorld game interface, and includes a CN (zh) language pack:
- -  Files: RisingWorld__Zh-cn_Language-Kit__v2-0-260107 (fog Rising World v0.9.1)
+ -  Files: RisingWorld__Zh-cn_Language-Kit__v2-0-260111 (fog Rising World v0.9.1)
 
-![Nexusmods同步更新](<https://raw.githubusercontent.com/ArtsticH/h-Readme-res/main/RisingWorld/doc/images/HT20260106-RisingWorld__Zh-cn_Language-Kit__v2-0-260107__banner.webp>)
+![Nexusmods同步更新](<https://raw.githubusercontent.com/ArtsticH/h-Readme-res/main/RisingWorld/doc/images/HT20260114-Snipaste_t013932_ArtsticH_RisingWorld_Zh-cn_Language_Artst.webp>)
 ![RisingWorld主界面汉化截图](<https://raw.githubusercontent.com/ArtsticH/h-Readme-res/main/RisingWorld/doc/images/HT20260104-Snipaste_t001441_ArtsticH_Rising World.webp>)
 ![RisingWorld游戏内汉化截图](<https://raw.githubusercontent.com/ArtsticH/h-Readme-res/main/RisingWorld/doc/images/HT20260104-Snipaste_t001454_ArtsticH_Rising World-T.webp>)
 
