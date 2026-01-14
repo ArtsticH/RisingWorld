@@ -638,16 +638,16 @@
 			"name": "1/8球体"
 		},
 		"eighthspherehollow": {
-			"name": "空心凸弧阳角(圆)"
+			"name": "1/8空心球"
 		},
 		"glasspane": {
 			"name": "玻璃窗格"
 		},
 		"halfcone": {
-			"name": "半圆锥"
+			"name": "1/2圆锥"
 		},
 		"halfconehollow": {
-			"name": "空心半圆锥"
+			"name": "1/2空心圆锥"
 		},
 		"halfcylinder": {
 			"name": "半圆柱"
@@ -656,7 +656,7 @@
 			"name": "半球体"
 		},
 		"halfspherehollow": {
-			"name": "空心半球体"
+			"name": "1/2空心球"
 		},
 		"halftorus": {
 			"name": "半圆环"
